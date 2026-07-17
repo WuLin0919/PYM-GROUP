@@ -82,3 +82,35 @@ h1, h2, h3, h4, h5, h6,
     background: #fbfcfd;
     padding: 0.9rem;
 }
+
+.member-section {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 0.5rem;
+    background: #fbfcfd;
+    padding: 0.9rem;
+}
+
+.member-table {
+    min-width: 650px;
+}
+
+.member-table th {
+    border-top: 0;
+    color: #5f6872;
+    font-weight: 600;
+}
+
+.member-table td,
+.member-table th {
+    padding: 0.4rem 0.55rem;
+    vertical-align: middle;
+}
+
+.member-name {
+    font-weight: 500;
+}
+
+.member-link-icon {
+    margin-left: 0.2rem;
+    font-size: 0.68em;
+}

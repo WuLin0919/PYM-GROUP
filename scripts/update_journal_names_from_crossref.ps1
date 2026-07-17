@@ -1,5 +1,5 @@
 param(
-    [string]$InputFile = (Join-Path $PSScriptRoot '..\_data\news.yml')
+    [string]$InputFile = (Join-Path $PSScriptRoot '..\_data\publications.yml')
 )
 
 $ErrorActionPreference = 'Stop'

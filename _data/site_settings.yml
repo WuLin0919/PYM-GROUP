@@ -1,7 +1,7 @@
 homepage:
-  show_experience: true
-  show_news: true
-  num_news: 186
+  show_academic_profile: true
+  show_publications: true
+  publication_limit: 186
 
 footer_text: >-
   PYM Group, School of Mechanics & Engineering Science, Peking University

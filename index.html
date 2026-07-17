@@ -7,22 +7,22 @@ navbar_title: Home
 
 <div class="row">
     <div class="col-lg-3 col-md-4">
-        {% include widgets/profile_card_mini.html %}
+        {% include widgets/profile_card.html %}
     </div>
     <div class="col-lg-9 col-md-8">
 
-        {% include widgets/profile_card_bio_only.html %}
+        {% include widgets/profile_bio_card.html %}
 
-        {% if site.data.display.homepage.show_experience %}
-            {% include widgets/experience_card.html %}
+        {% if site.data.site_settings.homepage.show_academic_profile %}
+            {% include widgets/academic_profile_card.html %}
         {% endif %}
 
         {% include widgets/group_members_card.html %}
 
-        {% if site.data.display.homepage.show_news %}
-            {% assign count_news = site.data.news | size %}
-            {% if count_news > 0 %}
-                {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
+        {% if site.data.site_settings.homepage.show_publications %}
+            {% assign publication_count = site.data.publications | size %}
+            {% if publication_count > 0 %}
+                {% include widgets/publications_card.html limit=site.data.site_settings.homepage.publication_limit %}
             {% endif %}
         {% endif %}
 

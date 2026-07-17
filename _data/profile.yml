@@ -5,7 +5,7 @@ navbar_name: "PYM Group"
 positions:
 - name: Professor
 - name: "School of Mechanics & Engineering Science, Peking University"
-  logo: /assets/images/badges/PKU.png
+  logo: /assets/images/badges/peking_university.png
 
 email: "peiym@pku.edu.cn"
 emails:
@@ -34,34 +34,34 @@ portrait_caption: >-
 
 education:
 - name: Tsinghua University
-  logo: /assets/images/badges/Tsinghua.jpg
+  logo: /assets/images/badges/tsinghua_university.jpg
   dept: Department of Engineering Mechanics
   position: Ph.D. in Solid Mechanics
   date: Sep. 2002 - Jul. 2007
 - name: Tsinghua University
-  logo: /assets/images/badges/Tsinghua.jpg
+  logo: /assets/images/badges/tsinghua_university.jpg
   dept: Department of Engineering Mechanics
   position: B.S. in Engineering Mechanics
   date: Sep. 1998 - Jul. 2002
 
 experience:
 - name: Peking University
-  logo: /assets/images/badges/PKU.png
+  logo: /assets/images/badges/peking_university.png
   dept: "School of Mechanics & Engineering Science"
   position: Professor
   date: Jul. 2018 - present
 - name: Peking University
-  logo: /assets/images/badges/PKU.png
+  logo: /assets/images/badges/peking_university.png
   dept: "School of Mechanics & Engineering Science"
   position: Associate Professor
   date: Jul. 2013 - Jul. 2018
 - name: Peking University
-  logo: /assets/images/badges/PKU.png
+  logo: /assets/images/badges/peking_university.png
   dept: "School of Mechanics & Engineering Science"
   position: Assistant Professor
   date: Jul. 2009 - Jul. 2013
 - name: Beijing Institute of Technology
-  logo: /assets/images/badges/BIT.jpg
+  logo: /assets/images/badges/beijing_institute_of_technology.jpg
   dept: School of Aerospace Engineering
   position: Lecturer
   date: Jul. 2007 - Jul. 2009
