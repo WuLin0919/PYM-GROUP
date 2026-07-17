@@ -1,7 +1,7 @@
 {% assign news_by_year = site.data.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
-    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-book"></i> Publications</h6>
     <div class="px-3 pb-1 small">
         {% for year in news_by_year %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
@@ -15,6 +15,7 @@
                         [{{ item.number }}] <i>{{ item.title }}</i>.
                         <b>{{ item.journal }}</b>{% if item.volume %}, {{ item.volume }}{% endif %}{% if item.issue %}({{ item.issue }}){% endif %}{% if item.pages %}, {{ item.pages }}{% endif %}.
                         {% if item.doi %}DOI: <a href="https://doi.org/{{ item.doi }}" target="_blank">{{ item.doi }}</a>.{% endif %}
+                        {% if item.first_author %}<span class="badge badge-pill badge-first-author ml-1">First author</span>{% endif %}
                         {% if item.corresponding %}<span class="badge badge-pill badge-info ml-1">Corresponding author</span>{% endif %}
                     </div>
                     <div class="ml-3 mt-auto text-muted no-break"><i>{{ item.date_display }}</i></div>

@@ -9,7 +9,7 @@
 - number: 4
   date: 2026-04-17
   date_display: "Apr 17"
-  title: "Design of Quasi-Zero-Stiffness Metamaterials Featuring Adjustable Thermal Expansion"
+  title: "Design of Quasi-Zero-Stiffness metamaterials featuring adjustable thermal expansion"
   journal: "MATERIALS"
   volume: "19"
   issue: "8"
@@ -75,7 +75,7 @@
 - number: 8
   date: 2025-10-16
   date_display: "Oct 16"
-  title: "A Driving-Sensing-Collaboration Integration Piezoelectric Robot"
+  title: "A Driving-Sensing-Collaboration integration piezoelectric robot"
   journal: "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS"
   volume: "73"
   issue: "2"
@@ -85,7 +85,7 @@
 - number: 7
   date: 2025-07-30
   date_display: "Jul 30"
-  title: "Dynamic Axial Crushing Characteristics of Thermoplastic Composite Hierarchical Cylindrical Structure Consisting of Glass-Fiber Reinforced Polypropylene"
+  title: "Dynamic axial crushing characteristics of thermoplastic composite hierarchical cylindrical structure consisting of Glass-Fiber reinforced polypropylene"
   journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
   volume: "17"
   issue: "9"
@@ -94,7 +94,7 @@
 - number: 6
   date: 2025-04-01
   date_display: "Apr 01"
-  title: "MWCNT-promoted PEDOT: PSS in polyurethane films: Enhancing conductivity and EMI shielding"
+  title: "MWCNT-promoted PEDOT: PSS in polyurethane films: enhancing conductivity and EMI shielding"
   journal: "SURFACES AND INTERFACES"
   volume: "62"
   pages: "106265"
@@ -102,7 +102,7 @@
 - number: 5
   date: 2025-03-01
   date_display: "Mar 01"
-  title: "Selective particles climbing and precise separation by the tilted vibrational Chladni plate"
+  title: "Selective particles climbing and precise separation by the tilted vibrational chladni plate"
   journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
   volume: "289"
   pages: "110065"
@@ -120,7 +120,7 @@
 - number: 3
   date: 2025-02-05
   date_display: "Feb 05"
-  title: "Study on Characteristics of Aeolian Vibration of Conductor Lines Considering Coupling Between Conductor Motion and Vortex Excitation"
+  title: "Study on characteristics of aeolian vibration of conductor lines considering coupling between conductor motion and vortex excitation"
   journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
   volume: "17"
   issue: "3"
@@ -129,7 +129,7 @@
 - number: 2
   date: 2025-02-04
   date_display: "Feb 04"
-  title: "Fluid-structure boundary-driven simultaneous standard-inverse Chladni patterns for selective particles manipulation"
+  title: "Fluid-structure boundary-driven simultaneous standard-inverse chladni patterns for selective particles manipulation"
   journal: "PHYSICS OF FLUIDS"
   volume: "37"
   issue: "2"
@@ -139,7 +139,7 @@
 - number: 1
   date: 2025-01-01
   date_display: "Jan 01"
-  title: "Design, Modeling, and Experiment of a 3-DoF Miniature Plate Piezoelectric Robot"
+  title: "Design, modeling, and experiment of a 3-DoF miniature plate piezoelectric robot"
   journal: "IEEE TRANSACTIONS ON ROBOTICS"
   volume: "41"
   pages: "5451-5470"
@@ -195,7 +195,7 @@
 - number: 1
   date: 2023-04-07
   date_display: "Apr 07"
-  title: "Re-understanding Hsue-shen Tsien's thoughts on technological sciences"
+  title: "Re-understanding hsue-shen tsien's thoughts on technological sciences"
   journal: "CHINESE SCIENCE BULLETIN-CHINESE"
   volume: "68"
   issue: "10"
@@ -204,7 +204,7 @@
 - number: 7
   date: 2022-12-23
   date_display: "Dec 23"
-  title: "Holographic Optimization Method of Acoustic Radiation Force for Continuously Manipulating a Mie Particle through a Fluid"
+  title: "Holographic optimization method of acoustic radiation force for continuously manipulating a mie particle through a fluid"
   journal: "PHYSICAL REVIEW APPLIED"
   volume: "18"
   issue: "6"
@@ -233,7 +233,7 @@
 - number: 4
   date: 2022-05-04
   date_display: "May 04"
-  title: "The holographic algorithm and design for propagation of flexural Lamb waves and particles manipulation using elastic metasurfaces"
+  title: "The holographic algorithm and design for propagation of flexural lamb waves and particles manipulation using elastic metasurfaces"
   journal: "EXTREME MECHANICS LETTERS"
   volume: "54"
   pages: "101765"
@@ -249,7 +249,7 @@
 - number: 2
   date: 2022-02-28
   date_display: "Feb 28"
-  title: "The Effect of Compression on the Void Coalescence under Strong Dynamic Loading"
+  title: "The effect of compression on the void coalescence under strong dynamic loading"
   journal: "ADVANCES IN MATERIALS SCIENCE AND ENGINEERING"
   volume: "2022"
   pages: "9990161"
@@ -267,7 +267,7 @@
 - number: 11
   date: 2021-12-01
   date_display: "Dec 01"
-  title: "Reconfigurable Particle Swarm Robotics Powered by Acoustic Vibration Tweezer"
+  title: "Reconfigurable particle swarm robotics powered by acoustic vibration tweezer"
   journal: "SOFT ROBOTICS"
   volume: "8"
   issue: "6"
@@ -287,7 +287,7 @@
 - number: 9
   date: 2021-10-08
   date_display: "Oct 08"
-  title: "In-place rotation of particles and time-average vibrational vortex on a Chladni plate"
+  title: "In-place rotation of particles and time-average vibrational vortex on a chladni plate"
   journal: "EXTREME MECHANICS LETTERS"
   volume: "49"
   pages: "101493"
@@ -296,7 +296,7 @@
 - number: 8
   date: 2021-09-18
   date_display: "Sep 18"
-  title: "Implementing fractional Fourier transform using SH0 wave computational metamaterials in space domain"
+  title: "Implementing fractional fourier transform using SH0 wave computational metamaterials in space domain"
   journal: "SCIENCE CHINA-TECHNOLOGICAL SCIENCES"
   volume: "64"
   issue: "11"
@@ -306,7 +306,7 @@
 - number: 7
   date: 2021-09-16
   date_display: "Sep 16"
-  title: "Particles separation using the inverse Chladni pattern enhanced local Brazil nut effect"
+  title: "Particles separation using the inverse chladni pattern enhanced local brazil nut effect"
   journal: "EXTREME MECHANICS LETTERS"
   volume: "49"
   pages: "101466"
@@ -315,7 +315,7 @@
 - number: 6
   date: 2021-09-06
   date_display: "Sep 06"
-  title: "Implementing fractional Fourier transform and solving partial differential equations using acoustic computational metamaterials in space domain"
+  title: "Implementing fractional fourier transform and solving partial differential equations using acoustic computational metamaterials in space domain"
   journal: "ACTA MECHANICA SINICA"
   volume: "37"
   issue: "9"
@@ -325,7 +325,7 @@
 - number: 5
   date: 2021-06-23
   date_display: "Jun 23"
-  title: "A Modified Iosipescu Method to Study In-Plane Shear Strength of C/SiC Composites at Elevated Temperatures in Air"
+  title: "A modified iosipescu method to study In-Plane shear strength of C/SiC composites at elevated temperatures in air"
   journal: "EXPERIMENTAL MECHANICS"
   volume: "61"
   issue: "8"
@@ -354,7 +354,7 @@
 - number: 2
   date: 2021-03-30
   date_display: "Mar 30"
-  title: "A Microwave Near-field 3D Super-resolution Imaging Method"
+  title: "A microwave near-field 3D super-resolution imaging method"
   journal: "EXPERIMENTAL MECHANICS"
   volume: "61"
   issue: "5"
@@ -364,7 +364,7 @@
 - number: 1
   date: 2021-02-01
   date_display: "Feb 01"
-  title: "Robotic Trajectories and Morphology Manipulation of Single Particle and Granular Materials by a Vibration Tweezer"
+  title: "Robotic trajectories and morphology manipulation of single particle and granular materials by a vibration tweezer"
   journal: "SOFT ROBOTICS"
   volume: "8"
   issue: "1"
@@ -383,7 +383,7 @@
 - number: 11
   date: 2020-10-07
   date_display: "Oct 07"
-  title: "Structured Interfaces for Improving the Tensile Strength and Toughness of Stiff/Highly Stretchable Polymer Hybrids"
+  title: "Structured interfaces for improving the tensile strength and toughness of Stiff/Highly stretchable polymer hybrids"
   journal: "ADVANCED MATERIALS TECHNOLOGIES"
   volume: "5"
   issue: "11"
@@ -402,7 +402,7 @@
 - number: 9
   date: 2020-08-24
   date_display: "Aug 24"
-  title: "Implementing fractional order Fourier transformation and confocal imaging with microwave computational metamaterials"
+  title: "Implementing fractional order fourier transformation and confocal imaging with microwave computational metamaterials"
   journal: "EPL"
   volume: "131"
   issue: "2"
@@ -448,7 +448,7 @@
 - number: 4
   date: 2020-03-31
   date_display: "Mar 31"
-  title: "Acoustic computational metamaterials for dispersion Fourier transform in time domain"
+  title: "Acoustic computational metamaterials for dispersion fourier transform in time domain"
   journal: "JOURNAL OF APPLIED PHYSICS"
   volume: "127"
   issue: "12"
@@ -550,7 +550,7 @@
 - number: 13
   date: 2018-10-01
   date_display: "Oct 01"
-  title: "A cellular metastructure incorporating coupled negative thermal expansion and negative Poisson's ratio"
+  title: "A cellular metastructure incorporating coupled negative thermal expansion and negative poisson's ratio"
   journal: "INTERNATIONAL JOURNAL OF SOLIDS AND STRUCTURES"
   volume: "150"
   pages: "255-267"
@@ -568,7 +568,7 @@
 - number: 11
   date: 2018-06-07
   date_display: "Jun 07"
-  title: "Robust and Stable Cu Nanowire@Graphene Core-Shell Aerogels for Ultraeffective Electromagnetic Interference Shielding"
+  title: "Robust and stable cu nanowire@graphene Core-Shell aerogels for ultraeffective electromagnetic interference shielding"
   journal: "SMALL"
   volume: "14"
   issue: "23"
@@ -597,7 +597,7 @@
 - number: 8
   date: 2018-03-07
   date_display: "Mar 07"
-  title: "Ultralight and Highly Elastic Graphene/Lignin-Derived Carbon Nanocomposite Aerogels with Ultrahigh Electromagnetic Interference Shielding Performance"
+  title: "Ultralight and highly elastic Graphene/Lignin-Derived carbon nanocomposite aerogels with ultrahigh electromagnetic interference shielding performance"
   journal: "ACS APPLIED MATERIALS & INTERFACES"
   volume: "10"
   issue: "9"
@@ -679,7 +679,7 @@
 - number: 15
   date: 2017-09-20
   date_display: "Sep 20"
-  title: "Ultralight and Flexible Polyurethane/Silver Nanowire Nanocomposites with Unidirectional Pores for Highly Effective Electromagnetic Shielding"
+  title: "Ultralight and flexible Polyurethane/Silver nanowire nanocomposites with unidirectional pores for highly effective electromagnetic shielding"
   journal: "ACS APPLIED MATERIALS & INTERFACES"
   volume: "9"
   issue: "37"
@@ -697,7 +697,7 @@
 - number: 13
   date: 2017-08-30
   date_display: "Aug 30"
-  title: "Tailorable Thermal Expansion of Lightweight and Robust Dual-Constituent Triangular Lattice Material"
+  title: "Tailorable thermal expansion of lightweight and robust Dual-Constituent triangular lattice material"
   journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
   volume: "84"
   issue: "10"
@@ -716,7 +716,7 @@
 - number: 11
   date: 2017-06-16
   date_display: "Jun 16"
-  title: "Broadband composite radar absorbing structures with resistive frequency selective surface: Optimal design, manufacturing and characterization"
+  title: "Broadband composite radar absorbing structures with resistive frequency selective surface: optimal design, manufacturing and characterization"
   journal: "COMPOSITES SCIENCE AND TECHNOLOGY"
   volume: "145"
   pages: "10-14"
@@ -740,7 +740,7 @@
 - number: 8
   date: 2017-04-18
   date_display: "Apr 18"
-  title: "Characterizing the Viscoelastic Properties of Hydrogel Thin Films by Bulge Test"
+  title: "Characterizing the viscoelastic properties of hydrogel thin films by bulge test"
   journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
   volume: "84"
   issue: "6"
@@ -759,7 +759,7 @@
 - number: 6
   date: 2017-04-05
   date_display: "Apr 05"
-  title: "Butterfly Change in Electric Field-Dependent Young's Modulus: Bulge Test and Phase Field Model"
+  title: "Butterfly change in electric Field-Dependent young's modulus: bulge test and phase field model"
   journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
   volume: "84"
   issue: "5"
@@ -814,7 +814,7 @@
 - number: 11
   date: 2016-10-15
   date_display: "Oct 15"
-  title: "Rapid heating thermal shock behavior study of CVD ZnS infrared window material: Numerical and experimental study"
+  title: "Rapid heating thermal shock behavior study of CVD ZnS infrared window material: numerical and experimental study"
   journal: "JOURNAL OF ALLOYS AND COMPOUNDS"
   volume: "682"
   pages: "565-570"
@@ -823,7 +823,7 @@
 - number: 10
   date: 2016-09-09
   date_display: "Sep 09"
-  title: "Pseudoelasticity and Nonideal Mullins Effect of Nanocomposite Hydrogels"
+  title: "Pseudoelasticity and nonideal mullins effect of nanocomposite hydrogels"
   journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
   volume: "83"
   issue: "11"
@@ -898,7 +898,7 @@
 - number: 2
   date: 2016-01-27
   date_display: "Jan 27"
-  title: "Investigation of Pile-Up Behavior for Thermal Barrier Coatings Under Elevated-Temperature Indentation"
+  title: "Investigation of Pile-Up behavior for thermal barrier coatings under Elevated-Temperature indentation"
   journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
   volume: "83"
   issue: "4"
@@ -932,7 +932,7 @@
 - number: 16
   date: 2015-11-15
   date_display: "Nov 15"
-  title: "Strain rate effect on the out-of-plane dynamic compressive behavior of metallic honeycombs: Experiment and theory"
+  title: "Strain rate effect on the out-of-plane dynamic compressive behavior of metallic honeycombs: experiment and theory"
   journal: "COMPOSITE STRUCTURES"
   volume: "132"
   pages: "644-651"
@@ -965,7 +965,7 @@
 - number: 12
   date: 2015-06-03
   date_display: "Jun 03"
-  title: "Dual-Band A-Sandwich Radome Design for Airborne Applications"
+  title: "Dual-Band A-Sandwich radome design for airborne applications"
   journal: "IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS"
   volume: "15"
   pages: "218-221"
@@ -990,7 +990,7 @@
 - number: 9
   date: 2015-03-26
   date_display: "Mar 26"
-  title: "A Numerical Study on the Thermal Conductivity of 3D Woven C/C Composites at High Temperature"
+  title: "A numerical study on the thermal conductivity of 3D woven C/C composites at high temperature"
   journal: "APPLIED COMPOSITE MATERIALS"
   volume: "22"
   issue: "6"
@@ -1044,7 +1044,7 @@
 - number: 3
   date: 2015-02-01
   date_display: "Feb 01"
-  title: "Strain Rate Effect on Mechanical Behavior of Metallic Honeycombs Under Out-of-Plane Dynamic Compression"
+  title: "Strain rate effect on mechanical behavior of metallic honeycombs under Out-of-Plane dynamic compression"
   journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
   volume: "82"
   issue: "2"
@@ -1081,7 +1081,7 @@
 - number: 11
   date: 2014-12-20
   date_display: "Dec 20"
-  title: "Pre-oxidation temperature optimization of ultra-high temperature ceramic components: Flexural strength testing and residual stress analysis"
+  title: "Pre-oxidation temperature optimization of ultra-high temperature ceramic components: flexural strength testing and residual stress analysis"
   journal: "CERAMICS INTERNATIONAL"
   volume: "41"
   issue: "3"
@@ -1108,7 +1108,7 @@
 - number: 8
   date: 2014-07-16
   date_display: "Jul 16"
-  title: "Improved Green Strength and Green Machinability of ZrB2-SiC Through Gelcasting Based on a Double Gel Network"
+  title: "Improved green strength and green machinability of ZrB2-SiC through gelcasting based on a double gel network"
   journal: "JOURNAL OF THE AMERICAN CERAMIC SOCIETY"
   volume: "97"
   issue: "8"
@@ -1145,7 +1145,7 @@
 - number: 4
   date: 2014-04-03
   date_display: "Apr 03"
-  title: "Magnetic Field Tunable Small-scale Mechanical Properties of Nickel Single Crystals Measured by Nanoindentation Technique"
+  title: "Magnetic field tunable small-scale mechanical properties of nickel single crystals measured by nanoindentation technique"
   journal: "SCIENTIFIC REPORTS"
   volume: "4"
   pages: "4583"
@@ -1182,7 +1182,7 @@
 - number: 13
   date: 2013-10-21
   date_display: "Oct 21"
-  title: "Finite Element Modeling of 3D Orthogonal Woven C/C Composite Based on Micro-Computed Tomography Experiment"
+  title: "Finite element modeling of 3D orthogonal woven C/C composite based on Micro-Computed tomography experiment"
   journal: "APPLIED COMPOSITE MATERIALS"
   volume: "21"
   issue: "4"
@@ -1220,7 +1220,7 @@
 - number: 9
   date: 2013-07-19
   date_display: "Jul 19"
-  title: "Method for Design of Dual-Band Flat Radome Wall Structure"
+  title: "Method for design of Dual-Band flat radome wall structure"
   journal: "AIAA JOURNAL"
   volume: "51"
   issue: "12"
@@ -1249,7 +1249,7 @@
 - number: 6
   date: 2013-06-05
   date_display: "Jun 05"
-  title: "Numerical Analysis of Thermodynamic Behaviour of Through-Thickness Stitched Sandwich Laminate"
+  title: "Numerical analysis of thermodynamic behaviour of Through-Thickness stitched sandwich laminate"
   journal: "APPLIED COMPOSITE MATERIALS"
   volume: "20"
   issue: "6"
@@ -1265,10 +1265,11 @@
   pages: "1323-1328"
   doi: "10.1007/s00707-013-0863-9"
   corresponding: true
+  first_author: true
 - number: 4
   date: 2013-04-10
   date_display: "Apr 10"
-  title: "Thermal Transfer in Graphene-Interfaced Materials: Contact Resistance and Interface Engineering"
+  title: "Thermal transfer in Graphene-Interfaced materials: contact resistance and interface engineering"
   journal: "ACS APPLIED MATERIALS & INTERFACES"
   volume: "5"
   issue: "7"
@@ -1312,7 +1313,7 @@
 - number: 16
   date: 2012-12-01
   date_display: "Dec 01"
-  title: "PHASE FIELD SIMULATION FOR HIGH-TEMPERATURE OXIDATION BEHAVIOR OF THERMAL BARRIER COATINGS UNDER SHOT PEENING"
+  title: "Phase field simulation for high-temperature oxidation behavior of thermal barrier coatings under shot peening"
   journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
   volume: "4"
   issue: "4"
@@ -1329,7 +1330,7 @@
 - number: 14
   date: 2012-11-26
   date_display: "Nov 26"
-  title: "OPTIMAL DESIGN OF SANDWICH BEAMS WITH LIGHTWEIGHT CORES IN THREE-POINT BENDING"
+  title: "Optimal design of sandwich beams with lightweight cores in three-point bending"
   journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
   volume: "4"
   issue: "3"
@@ -1339,7 +1340,7 @@
 - number: 13
   date: 2012-10-11
   date_display: "Oct 11"
-  title: "Anti-plane Yoffe-type crack in ferroelectric materials"
+  title: "Anti-plane yoffe-type crack in ferroelectric materials"
   journal: "INTERNATIONAL JOURNAL OF FRACTURE"
   volume: "179"
   issue: "1-2"
@@ -1394,7 +1395,7 @@
 - number: 7
   date: 2012-08-10
   date_display: "Aug 10"
-  title: "Design for Broadband High-Temperature Radome Wall with Graded Porous Structure"
+  title: "Design for broadband High-Temperature radome wall with graded porous structure"
   journal: "AIAA JOURNAL"
   volume: "50"
   issue: "9"
@@ -1422,7 +1423,7 @@
 - number: 4
   date: 2012-05-15
   date_display: "May 15"
-  title: "Effect of Residual Stress on the Magnetoelectric Properties of Terfenol-D/PZT/Terfenol-D Laminates"
+  title: "Effect of residual stress on the magnetoelectric properties of Terfenol-D/PZT/Terfenol-D laminates"
   journal: "CHINESE PHYSICS LETTERS"
   volume: "29"
   issue: "5"
@@ -1449,7 +1450,7 @@
 - number: 1
   date: 2012-01-01
   date_display: "Jan 01"
-  title: "OPTIMAL DESIGN FOR HIGH-TEMPERATURE BROADBAND RADOME WALL WITH SYMMETRICAL GRADED POROUS STRUCTURE"
+  title: "Optimal design for high-temperature broadband radome wall with symmetrical graded porous structure"
   journal: "PROGRESS IN ELECTROMAGNETICS RESEARCH-PIER"
   volume: "127"
   pages: "1-14"
@@ -1458,7 +1459,7 @@
 - number: 5
   date: 2011-12-19
   date_display: "Dec 19"
-  title: "ELECTROMAGNETIC OPTIMAL DESIGN FOR DUAL-BAND RADOME WALL WITH ALTERNATING LAYERS OF STAGGERED COMPOSITE AND KAGOME LATTICE STRUCTURE"
+  title: "Electromagnetic optimal design for dual-band radome wall with alternating layers of staggered composite and kagome lattice structure"
   journal: "PROGRESS IN ELECTROMAGNETICS RESEARCH-PIER"
   volume: "122"
   pages: "437-452"
@@ -1493,7 +1494,7 @@
 - number: 1
   date: 2011-05-01
   date_display: "May 01"
-  title: "A State-Dependent Hysteresis Model for Giant Magnetostrictive Materials"
+  title: "A State-Dependent hysteresis model for giant magnetostrictive materials"
   journal: "JOURNAL OF COMPUTATIONAL AND THEORETICAL NANOSCIENCE"
   volume: "8"
   issue: "5"
@@ -1503,7 +1504,7 @@
 - number: 4
   date: 2010-08-01
   date_display: "Aug 01"
-  title: "Computational method for microwave absorbing structures with 2-D Kagome lattice grids"
+  title: "Computational method for microwave absorbing structures with 2-D kagome lattice grids"
   journal: "INTERNATIONAL JOURNAL OF APPLIED ELECTROMAGNETICS AND MECHANICS"
   volume: "33"
   issue: "3-4"
@@ -1519,6 +1520,7 @@
   pages: "883-889"
   doi: "10.3233/JAE-2010-1198"
   corresponding: true
+  first_author: true
 - number: 2
   date: 2010-03-11
   date_display: "Mar 11"
@@ -1531,7 +1533,7 @@
 - number: 1
   date: 2010-03-10
   date_display: "Mar 10"
-  title: "An Improved Method of Designing Isotropic Multilayered Spherical Cloak for Electromagnetic Invisibility"
+  title: "An improved method of designing isotropic multilayered spherical cloak for electromagnetic invisibility"
   journal: "CHINESE PHYSICS LETTERS"
   volume: "27"
   issue: "3"
@@ -1549,7 +1551,7 @@
 - number: 6
   date: 2009-06-01
   date_display: "Jun"
-  title: "MAGNETOMECHANICAL DAMPING CAPACITY OF ⟨110⟩ ORIENTED Tb0.36Dy0.64(Fe0.85Co0.15)2 ALLOY"
+  title: "Magnetomechanical damping capacity of ⟨110⟩ oriented Tb0.36Dy0.64(Fe0.85Co0.15)2 alloy"
   journal: "ACTA METALLURGICA SINICA"
   volume: "45"
   issue: "6"
@@ -1563,6 +1565,7 @@
   issue: "1-2"
   pages: "556-559"
   doi: "10.1016/j.jallcom.2008.09.089"
+  first_author: true
 - number: 4
   date: 2009-05-01
   date_display: "May 01"
@@ -1581,10 +1584,11 @@
   issue: "18"
   pages: "2783-2787"
   doi: "10.1016/j.jmmm.2009.04.010"
+  first_author: true
 - number: 2
   date: 2009-01-01
   date_display: "2009"
-  title: "Deformation and Fracture of Electromagnetosolid Materials and Structures"
+  title: "Deformation and fracture of electromagnetosolid materials and structures"
   journal: "APPLIED ELECTROMAGNETICS AND MECHANICS (II)"
   volume: "13"
   pages: "9-11"
@@ -1596,6 +1600,7 @@
   volume: "13"
   pages: "416-416"
   corresponding: true
+  first_author: true
 - number: 4
   date: 2008-09-19
   date_display: "Sep 19"
@@ -1605,6 +1610,7 @@
   issue: "6"
   pages: "65001"
   doi: "10.1088/0964-1726/17/6/065001"
+  first_author: true
 - number: 3
   date: 2008-03-31
   date_display: "Mar 31"
@@ -1614,6 +1620,7 @@
   issue: "8-9"
   pages: "1313-1315"
   doi: "10.1016/j.matlet.2007.08.071"
+  first_author: true
 - number: 2
   date: 2008-02-01
   date_display: "Feb 01"
@@ -1647,6 +1654,7 @@
   issue: "18"
   pages: "182505"
   doi: "10.1063/1.2736300"
+  first_author: true
 - number: 2
   date: 2007-04-27
   date_display: "Apr 27"
@@ -1656,6 +1664,7 @@
   issue: "3"
   pages: "779-783"
   doi: "10.1088/0964-1726/16/3/027"
+  first_author: true
 - number: 1
   date: 2007-01-01
   date_display: "2007"
@@ -1679,6 +1688,7 @@
   issue: "8"
   pages: "86101"
   doi: "10.1063/1.2234854"
+  first_author: true
 - number: 1
   date: 2006-07-15
   date_display: "Jul 15"
