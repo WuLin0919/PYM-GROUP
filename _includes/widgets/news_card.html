@@ -4,10 +4,13 @@
     <h6 class="p-3 mb-0 border-bottom border-gray">
         <i class="fas fa-book"></i> Publications
         <span class="ml-2 font-weight-normal text-muted">
-            {{ site.data.news | size }} publications, data sourced from
+            {{ site.data.news | size }} publications indexed in
             <a href="https://webofscience.clarivate.cn/wos/" target="_blank" rel="noopener noreferrer"><strong>Web of Science</strong></a>
         </span>
     </h6>
+    <div class="px-3 pt-2 small text-muted">
+        Dates indicate online publication dates where available; otherwise, issue publication dates are used.
+    </div>
     <div class="px-3 pb-1 small">
         {% for year in news_by_year %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">

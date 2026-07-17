@@ -88,8 +88,14 @@
                         {% endif %}
 
                         {% if site.data.profile.orcid %}
-                        <a class="px-1 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
+                        <a class="px-1 no-break" target="_blank" rel="noopener noreferrer" href="https://orcid.org/{{ site.data.profile.orcid }}" aria-label="ORCID" title="ORCID">
                             <i class="fab fa-orcid"></i>
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.faculty_homepage %}
+                        <a class="px-1 no-break" target="_blank" rel="noopener noreferrer" href="{{ site.data.profile.faculty_homepage }}" aria-label="Faculty homepage" title="Faculty homepage">
+                            <i class="fas fa-university"></i>
                         </a>
                         {% endif %}
 

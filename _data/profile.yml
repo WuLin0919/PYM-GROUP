@@ -4,28 +4,28 @@ navbar_name: "PYM Group"
 
 positions:
 - name: Professor
-- name: School of Mechanics and Engineering Sciences, Peking University
+- name: "School of Mechanics & Engineering Science, Peking University"
   logo: /assets/images/badges/PKU.png
 
 email: "peiym@pku.edu.cn"
 emails:
 - "peiym@pku.edu.cn"
 orcid: 0000-0002-5661-3135
+faculty_homepage: https://mech.pku.edu.cn/jzyg/szdw/P/69748cb08f7c48c5b97e93486467b594.htm
 wos: https://webofscience.clarivate.cn/wos/author/record/1158548
 
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Yongmao Pei is a Professor in the School of Mechanics and Engineering
-    Sciences at Peking University. He received his B.S. degree in Engineering
-    Mechanics and his Ph.D. degree in Solid Mechanics from Tsinghua University.
+    Yongmao Pei is a professor at the School of Mechanics & Engineering Science,
+    Peking University. He received a B.S. in Engineering Mechanics and a Ph.D.
+    in Solid Mechanics from Tsinghua University.
   </p>
   <p>
-    He has long been engaged in the mechanics of intelligent materials and
-    structures, mechanical design and characterization of lightweight composite
-    materials, experimental mechanics and instrument development, mechanisms,
-    methods, and experimental characterization of acoustic tweezers, and the
-    design and fabrication of acoustofluidic microchips.
+    His research focuses on the mechanics of smart materials and structures,
+    the design and characterization of lightweight composites, experimental
+    mechanics and instrumentation, acoustic-tweezer mechanisms and methods,
+    and the design and fabrication of acoustofluidic microchips.
   </p>
 
 portrait_url: /assets/images/photos/yongmao_pei.jpg
@@ -47,17 +47,17 @@ education:
 experience:
 - name: Peking University
   logo: /assets/images/badges/PKU.png
-  dept: School of Mechanics and Engineering Sciences
+  dept: "School of Mechanics & Engineering Science"
   position: Professor
   date: Jul. 2018 - present
 - name: Peking University
   logo: /assets/images/badges/PKU.png
-  dept: School of Mechanics and Engineering Sciences
+  dept: "School of Mechanics & Engineering Science"
   position: Associate Professor
   date: Jul. 2013 - Jul. 2018
 - name: Peking University
   logo: /assets/images/badges/PKU.png
-  dept: School of Mechanics and Engineering Sciences
+  dept: "School of Mechanics & Engineering Science"
   position: Assistant Professor
   date: Jul. 2009 - Jul. 2013
 - name: Beijing Institute of Technology
@@ -71,21 +71,21 @@ awards:
   date:
 - name: National Science Fund for Excellent Young Scholars
   date:
-- name: Young Changjiang Scholar
+- name: Young Scholar of the Chang Jiang Scholars Program
   date:
-- name: Youth Science and Technology Award of the Chinese Society of Theoretical and Applied Mechanics
+- name: Youth Science and Technology Award, Chinese Society of Theoretical and Applied Mechanics
   date:
 - name: Beijing Nova Program
   date:
-- name: National Excellent Doctoral Dissertation Award
+- name: Outstanding Doctoral Dissertation Award of China
   date: 2009
-- name: First Prize, Science and Technology Award for Higher Education Institutions (Technological Invention, ranked third)
+- name: First Prize, Technological Invention Award of the Ministry of Education (third-ranked contributor)
   date: 2007
-- name: Excellent Doctoral Dissertation of Tsinghua University
+- name: Tsinghua University Outstanding Doctoral Dissertation Award
   date: 2007
 
 service:
 - name: Council Member, Chinese Society for Composite Materials
 - name: Council Member, Beijing Society of Theoretical and Applied Mechanics
-- name: Deputy Director, Professional Committee of Solid Mechanics
-- name: Committee Member, Experimental Mechanics Committee of the Chinese Society of Theoretical and Applied Mechanics
+- name: Deputy Director, Solid Mechanics Committee, Chinese Society of Theoretical and Applied Mechanics
+- name: Committee Member, Experimental Mechanics Committee, Chinese Society of Theoretical and Applied Mechanics
