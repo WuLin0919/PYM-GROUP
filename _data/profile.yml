@@ -21,11 +21,16 @@ short_bio: >-
     Mechanics and his Ph.D. degree in Solid Mechanics from Tsinghua University.
   </p>
   <p>
-    His research interests include multi-field coupling mechanics of intelligent
-    materials and structures, design and characterization of electromagnetic
-    materials, wave manipulation, acoustic tweezers, haptic feedback, and
-    micro-/nano-scale mechanics.
+    He has long been engaged in the mechanics of intelligent materials and
+    structures, mechanical design and characterization of lightweight composite
+    materials, experimental mechanics and instrument development, mechanisms,
+    methods, and experimental characterization of acoustic tweezers, and the
+    design and fabrication of acoustofluidic microchips.
   </p>
+
+portrait_url: /assets/images/photos/yongmao_pei.jpg
+portrait_caption: >-
+  Yongmao Pei
 
 education:
 - name: Tsinghua University
@@ -44,7 +49,17 @@ experience:
   logo: /assets/images/badges/PKU.png
   dept: School of Mechanics and Engineering Sciences
   position: Professor
-  date: Jul. 2009 - present
+  date: Jul. 2018 - present
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
+  dept: School of Mechanics and Engineering Sciences
+  position: Associate Professor
+  date: Jul. 2013 - Jul. 2018
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
+  dept: School of Mechanics and Engineering Sciences
+  position: Assistant Professor
+  date: Jul. 2009 - Jul. 2013
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/BIT.jpg
   dept: School of Aerospace Engineering
@@ -52,9 +67,25 @@ experience:
   date: Jul. 2007 - Jul. 2009
 
 awards:
+- name: National Science Fund for Distinguished Young Scholars
+  date:
+- name: Excellent Young Scientists Fund
+  date:
+- name: Young Changjiang Scholar
+  date:
+- name: Youth Science and Technology Award of the Chinese Society of Theoretical and Applied Mechanics
+  date:
+- name: Beijing Nova Program
+  date:
 - name: National Excellent Doctoral Dissertation Award
   date: 2009
-- name: First Prize, Science and Technology Award for Higher Education Institutions
+- name: First Prize, Science and Technology Award for Higher Education Institutions (Technological Invention, ranked third)
   date: 2007
 - name: Excellent Doctoral Dissertation of Tsinghua University
   date: 2007
+
+service:
+- name: Council Member, Chinese Society for Composite Materials
+- name: Council Member, Beijing Society of Theoretical and Applied Mechanics
+- name: Deputy Director, Professional Committee of Solid Mechanics
+- name: Committee Member, Experimental Mechanics Committee of the Chinese Society of Theoretical and Applied Mechanics
