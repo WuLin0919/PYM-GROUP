@@ -1,4 +1,4 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign news_by_year = site.data.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
@@ -10,8 +10,12 @@
             <div class="media-body">
                 {% for item in year.items %}
                 <div class="my-1 d-flex">
-                    <div>{{ item.title }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                    <div>
+                        [{{ item.number }}] <i>{{ item.title }}</i>.
+                        <b>{{ item.journal }}</b>{% if item.volume %}, {{ item.volume }}{% endif %}{% if item.issue %}({{ item.issue }}){% endif %}{% if item.pages %}, {{ item.pages }}{% endif %}.
+                        DOI: <a href="https://doi.org/{{ item.doi }}" target="_blank">{{ item.doi }}</a>.
+                    </div>
+                    <div class="ml-3 mt-auto text-muted no-break"><i>{{ item.date_display }}</i></div>
                 </div>
                 {% endfor %}
             </div>

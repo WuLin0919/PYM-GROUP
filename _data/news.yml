@@ -1,0 +1,209 @@
+- number: 24
+  date: 2026-04-17
+  date_display: Apr 17
+  title: Design of Quasi-Zero-Stiffness Metamaterials Featuring Adjustable Thermal Expansion
+  journal: Materials
+  volume: 19
+  issue: 8
+  pages: 1613
+  doi: 10.3390/ma19081613
+- number: 23
+  date: 2026-03-26
+  date_display: Mar 26
+  title: Spatiotemporal modulation haptic feedback with high spatial resolution and low perceived frequencies
+  journal: Smart Materials and Structures
+  volume: 35
+  issue: 3
+  pages: "035034"
+  doi: 10.1088/1361-665X/ae5435
+- number: 20
+  date: 2026-01-15
+  date_display: Jan 15
+  title: Velocity-controlled acoustic tweezers based on beat-frequency modulated surface acoustic waves for programmable particle manipulation
+  journal: Extreme Mechanics Letters
+  volume: 83
+  pages: 102451
+  doi: 10.1016/j.eml.2026.102451
+- number: 22
+  date: 2026-02-01
+  date_display: Feb
+  title: Micromechanical modeling of metal matrix composites with network architectures
+  journal: International Journal of Mechanical Sciences
+  volume: 311
+  pages: 111173
+  doi: 10.1016/j.ijmecsci.2026.111173
+- number: 21
+  date: 2026-02-01
+  date_display: Feb
+  title: A Driving-Sensing-Collaboration Integration Piezoelectric Robot
+  journal: IEEE Transactions on Industrial Electronics
+  volume: 73
+  issue: 2
+  pages: 2749–2757
+  doi: 10.1109/TIE.2025.3591658
+- number: 19
+  date: 2025-12-04
+  date_display: Dec 04
+  title: Equivalent fully coupled modeling and experimental validation of high-particle-concentration acoustofluidics
+  journal: Physics of Fluids
+  volume: 37
+  issue: 12
+  pages: 122007
+  doi: 10.1063/5.0288875
+- number: 18
+  date: 2025-07-30
+  date_display: Jul 30
+  title: Dynamic Axial Crushing Characteristics of Thermoplastic Composite Hierarchical Cylindrical Structure Consisting of Glass-Fiber Reinforced Polypropylene
+  journal: International Journal of Applied Mechanics
+  volume: 17
+  issue: 9
+  pages: 2550068
+  doi: 10.1142/S1758825125500681
+- number: 17
+  date: 2025-03-01
+  date_display: Mar
+  title: Selective particles climbing and precise separation by the tilted vibrational Chladni plate
+  journal: International Journal of Mechanical Sciences
+  volume: 289
+  pages: 110065
+  doi: 10.1016/j.ijmecsci.2025.110065
+- number: 16
+  date: 2025-02-05
+  date_display: Feb 05
+  title: Study on Characteristics of Aeolian Vibration of Conductor Lines Considering Coupling Between Conductor Motion and Vortex Excitation
+  journal: International Journal of Applied Mechanics
+  volume: 17
+  issue: 3
+  pages: 2550011
+  doi: 10.1142/S1758825125500115
+- number: 15
+  date: 2025-02-04
+  date_display: Feb 04
+  title: Fluid–structure boundary-driven simultaneous standard-inverse Chladni patterns for selective particles manipulation
+  journal: Physics of Fluids
+  volume: 37
+  issue: 2
+  pages: "022109"
+  doi: 10.1063/5.0249974
+- number: 14
+  date: 2025-02-01
+  date_display: Feb
+  title: Scattering-compensated single-channel time reversal for highly designable surface haptics
+  journal: International Journal of Mechanical Sciences
+  volume: 288
+  pages: 109998
+  doi: 10.1016/j.ijmecsci.2025.109998
+- number: 13
+  date: 2025-01-02
+  date_display: "2025"
+  title: Design, Modeling, and Experiment of a 3-DoF Miniature Plate Piezoelectric Robot
+  journal: IEEE Transactions on Robotics
+  volume: 41
+  pages: 5451–5470
+  doi: 10.1109/TRO.2025.3605254
+- number: 12
+  date: 2025-01-01
+  date_display: "2025"
+  title: Continuous and tunable droplet splitting using standing-wave acoustofluidics
+  journal: Lab on a Chip
+  volume: 25
+  issue: 24
+  pages: 6442–6453
+  doi: 10.1039/D5LC00592B
+- number: 11
+  date: 2024-08-28
+  date_display: Aug 28
+  title: Adjustable stereo path design method based on pin-sculpture acoustic topological insulator with Z-dislocation defect immunity
+  journal: Journal of Applied Physics
+  volume: 136
+  issue: 8
+  pages: "083109"
+  doi: 10.1063/5.0213045
+- number: 10
+  date: 2024-08-01
+  date_display: Aug
+  title: Optimization method to construct multiple acoustic vortices for holograms
+  journal: International Journal of Mechanical Sciences
+  volume: 276
+  pages: 109311
+  doi: 10.1016/j.ijmecsci.2024.109311
+- number: 9
+  date: 2024-07-01
+  date_display: Jul
+  title: A patterned vibrotactile method using envelope modulation with high resolution and low perceptual frequency
+  journal: Mechanical Systems and Signal Processing
+  volume: 216
+  pages: 111472
+  doi: 10.1016/j.ymssp.2024.111472
+- number: 8
+  date: 2022-12-23
+  date_display: Dec 23
+  title: Holographic Optimization Method of Acoustic Radiation Force for Continuously Manipulating a Mie Particle through a Fluid
+  journal: Physical Review Applied
+  volume: 18
+  issue: 6
+  pages: "064075"
+  doi: 10.1103/PhysRevApplied.18.064075
+- number: 7
+  date: 2022-06-01
+  date_display: Jun 01
+  title: Topological acoustic tweezer and pseudo-spin states of acoustic topological insulators
+  journal: Applied Physics Letters
+  volume: 120
+  issue: 22
+  pages: 222202
+  doi: 10.1063/5.0091755
+- number: 6
+  date: 2020-09-28
+  date_display: Sep 28
+  title: Temporal acoustic wave computational metamaterials
+  journal: Applied Physics Letters
+  volume: 117
+  issue: 13
+  pages: 131902
+  doi: 10.1063/5.0018758
+- number: 5
+  date: 2020-05-26
+  date_display: May 26
+  title: Temporal differential elastic wave computational metamaterials
+  journal: Journal of Applied Physics
+  volume: 127
+  issue: 20
+  pages: 203104
+  doi: 10.1063/5.0003973
+- number: 4
+  date: 2020-05-08
+  date_display: May 08
+  title: Magnetically controlled multifunctional membrane acoustic metasurface
+  journal: Journal of Applied Physics
+  volume: 127
+  issue: 18
+  pages: 185104
+  doi: 10.1063/1.5145289
+- number: 3
+  date: 2020-03-24
+  date_display: Mar 24
+  title: Acoustic computational metamaterials for dispersion Fourier transform in time domain
+  journal: Journal of Applied Physics
+  volume: 127
+  issue: 12
+  pages: 123101
+  doi: 10.1063/1.5141057
+- number: 2
+  date: 2019-07-23
+  date_display: Jul 23
+  title: Super resolution in depth for microwave imaging
+  journal: Applied Physics Letters
+  volume: 115
+  issue: 4
+  pages: "044101"
+  doi: 10.1063/1.5098302
+- number: 1
+  date: 2019-01-01
+  date_display: "2019"
+  title: Buckled AgNW/MXene hybrid hierarchical sponges for high-performance electromagnetic interference shielding
+  journal: Nanoscale
+  volume: 11
+  issue: 47
+  pages: 22804–22812
+  doi: 10.1039/C9NR07988B
