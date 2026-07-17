@@ -1,209 +1,1690 @@
-- number: 24
+- number: 6
+  date: 2026-07-01
+  date_display: "Jul"
+  title: "Machine learning based constitutive modeling for thermal-elasto-plasto amorphous polymers"
+  journal: "INTERNATIONAL JOURNAL OF PLASTICITY"
+  volume: "202"
+  pages: "104725"
+  doi: "10.1016/j.ijplas.2026.104725"
+- number: 5
   date: 2026-04-17
-  date_display: Apr 17
-  title: Design of Quasi-Zero-Stiffness Metamaterials Featuring Adjustable Thermal Expansion
-  journal: Materials
-  volume: 19
-  issue: 8
-  pages: 1613
-  doi: 10.3390/ma19081613
-- number: 23
-  date: 2026-03-26
-  date_display: Mar 26
-  title: Spatiotemporal modulation haptic feedback with high spatial resolution and low perceived frequencies
-  journal: Smart Materials and Structures
-  volume: 35
-  issue: 3
-  pages: "035034"
-  doi: 10.1088/1361-665X/ae5435
-- number: 20
-  date: 2026-01-15
-  date_display: Jan 15
-  title: Velocity-controlled acoustic tweezers based on beat-frequency modulated surface acoustic waves for programmable particle manipulation
-  journal: Extreme Mechanics Letters
-  volume: 83
-  pages: 102451
-  doi: 10.1016/j.eml.2026.102451
-- number: 22
+  date_display: "Apr 17"
+  title: "Design of Quasi-Zero-Stiffness Metamaterials Featuring Adjustable Thermal Expansion"
+  journal: "MATERIALS"
+  volume: "19"
+  issue: "8"
+  pages: "1613"
+  doi: "10.3390/ma19081613"
+  corresponding: true
+- number: 4
+  date: 2026-03-01
+  date_display: "Mar 01"
+  title: "Spatiotemporal modulation haptic feedback with high spatial resolution and low perceived frequencies"
+  journal: "SMART MATERIALS AND STRUCTURES"
+  volume: "35"
+  issue: "3"
+  pages: "35034"
+  doi: "10.1088/1361-665X/ae5435"
+  corresponding: true
+- number: 3
+  date: 2026-03-01
+  date_display: "Mar"
+  title: "Velocity-controlled acoustic tweezers based on beat-frequency modulated surface acoustic waves for programmable particle manipulation"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "83"
+  pages: "102451"
+  doi: "10.1016/j.eml.2026.102451"
+  corresponding: true
+- number: 2
   date: 2026-02-01
-  date_display: Feb
-  title: Micromechanical modeling of metal matrix composites with network architectures
-  journal: International Journal of Mechanical Sciences
-  volume: 311
-  pages: 111173
-  doi: 10.1016/j.ijmecsci.2026.111173
-- number: 21
+  date_display: "Feb 01"
+  title: "Micromechanical modeling of metal matrix composites with network architectures"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "311"
+  pages: "111173"
+  doi: "10.1016/j.ijmecsci.2026.111173"
+  corresponding: true
+- number: 1
   date: 2026-02-01
-  date_display: Feb
-  title: A Driving-Sensing-Collaboration Integration Piezoelectric Robot
-  journal: IEEE Transactions on Industrial Electronics
-  volume: 73
-  issue: 2
-  pages: 2749–2757
-  doi: 10.1109/TIE.2025.3591658
-- number: 19
-  date: 2025-12-04
-  date_display: Dec 04
-  title: Equivalent fully coupled modeling and experimental validation of high-particle-concentration acoustofluidics
-  journal: Physics of Fluids
-  volume: 37
-  issue: 12
-  pages: 122007
-  doi: 10.1063/5.0288875
-- number: 18
-  date: 2025-07-30
-  date_display: Jul 30
-  title: Dynamic Axial Crushing Characteristics of Thermoplastic Composite Hierarchical Cylindrical Structure Consisting of Glass-Fiber Reinforced Polypropylene
-  journal: International Journal of Applied Mechanics
-  volume: 17
-  issue: 9
-  pages: 2550068
-  doi: 10.1142/S1758825125500681
-- number: 17
+  date_display: "Feb"
+  title: "A Driving-Sensing-Collaboration Integration Piezoelectric Robot"
+  journal: "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS"
+  volume: "73"
+  issue: "2"
+  pages: "2749-2757"
+  doi: "10.1109/TIE.2025.3591658"
+  corresponding: true
+- number: 10
+  date: 2025-12-31
+  date_display: "Dec 31"
+  title: "A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement"
+  journal: "ENGINEERING APPLICATIONS OF COMPUTATIONAL FLUID MECHANICS"
+  volume: "19"
+  issue: "1"
+  pages: "2513663"
+  doi: "10.1080/19942060.2025.2513663"
+- number: 9
+  date: 2025-12-02
+  date_display: "Dec 02"
+  title: "Continuous and tunable droplet splitting using standing-wave acoustofluidics"
+  journal: "LAB ON A CHIP"
+  volume: "25"
+  issue: "24"
+  doi: "10.1039/d5lc00592b"
+  corresponding: true
+- number: 8
+  date: 2025-12-01
+  date_display: "Dec"
+  title: "Equivalent fully coupled modeling and experimental validation of high-particle-concentration acoustofluidics"
+  journal: "PHYSICS OF FLUIDS"
+  volume: "37"
+  issue: "12"
+  pages: "122007"
+  doi: "10.1063/5.0288875"
+  corresponding: true
+- number: 7
+  date: 2025-09-01
+  date_display: "Sep"
+  title: "Dynamic Axial Crushing Characteristics of Thermoplastic Composite Hierarchical Cylindrical Structure Consisting of Glass-Fiber Reinforced Polypropylene"
+  journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
+  volume: "17"
+  issue: "9"
+  doi: "10.1142/S1758825125500681"
+  corresponding: true
+- number: 6
+  date: 2025-04-01
+  date_display: "Apr 01"
+  title: "MWCNT-promoted PEDOT: PSS in polyurethane films: Enhancing conductivity and EMI shielding"
+  journal: "SURFACES AND INTERFACES"
+  volume: "62"
+  pages: "106265"
+  doi: "10.1016/j.surfin.2025.106265"
+- number: 5
   date: 2025-03-01
-  date_display: Mar
-  title: Selective particles climbing and precise separation by the tilted vibrational Chladni plate
-  journal: International Journal of Mechanical Sciences
-  volume: 289
-  pages: 110065
-  doi: 10.1016/j.ijmecsci.2025.110065
-- number: 16
-  date: 2025-02-05
-  date_display: Feb 05
-  title: Study on Characteristics of Aeolian Vibration of Conductor Lines Considering Coupling Between Conductor Motion and Vortex Excitation
-  journal: International Journal of Applied Mechanics
-  volume: 17
-  issue: 3
-  pages: 2550011
-  doi: 10.1142/S1758825125500115
-- number: 15
-  date: 2025-02-04
-  date_display: Feb 04
-  title: Fluid–structure boundary-driven simultaneous standard-inverse Chladni patterns for selective particles manipulation
-  journal: Physics of Fluids
-  volume: 37
-  issue: 2
-  pages: "022109"
-  doi: 10.1063/5.0249974
-- number: 14
+  date_display: "Mar 01"
+  title: "Selective particles climbing and precise separation by the tilted vibrational Chladni plate"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "289"
+  pages: "110065"
+  doi: "10.1016/j.ijmecsci.2025.110065"
+  corresponding: true
+- number: 4
+  date: 2025-03-01
+  date_display: "Mar"
+  title: "Study on Characteristics of Aeolian Vibration of Conductor Lines Considering Coupling Between Conductor Motion and Vortex Excitation"
+  journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
+  volume: "17"
+  issue: "3"
+  pages: "2550011"
+  doi: "10.1142/S1758825125500115"
+- number: 3
+  date: 2025-02-15
+  date_display: "Feb 15"
+  title: "Scattering-compensated single-channel time reversal for highly designable surface haptics"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "288"
+  pages: "109998"
+  doi: "10.1016/j.ijmecsci.2025.109998"
+  corresponding: true
+- number: 2
   date: 2025-02-01
-  date_display: Feb
-  title: Scattering-compensated single-channel time reversal for highly designable surface haptics
-  journal: International Journal of Mechanical Sciences
-  volume: 288
-  pages: 109998
-  doi: 10.1016/j.ijmecsci.2025.109998
-- number: 13
-  date: 2025-01-02
-  date_display: "2025"
-  title: Design, Modeling, and Experiment of a 3-DoF Miniature Plate Piezoelectric Robot
-  journal: IEEE Transactions on Robotics
-  volume: 41
-  pages: 5451–5470
-  doi: 10.1109/TRO.2025.3605254
-- number: 12
+  date_display: "Feb"
+  title: "Fluid-structure boundary-driven simultaneous standard-inverse Chladni patterns for selective particles manipulation"
+  journal: "PHYSICS OF FLUIDS"
+  volume: "37"
+  issue: "2"
+  pages: "22109"
+  doi: "10.1063/5.0249974"
+  corresponding: true
+- number: 1
   date: 2025-01-01
   date_display: "2025"
-  title: Continuous and tunable droplet splitting using standing-wave acoustofluidics
-  journal: Lab on a Chip
-  volume: 25
-  issue: 24
-  pages: 6442–6453
-  doi: 10.1039/D5LC00592B
-- number: 11
+  title: "Design, Modeling, and Experiment of a 3-DoF Miniature Plate Piezoelectric Robot"
+  journal: "IEEE TRANSACTIONS ON ROBOTICS"
+  volume: "41"
+  pages: "5451-5470"
+  doi: "10.1109/TRO.2025.3605254"
+  corresponding: true
+- number: 4
   date: 2024-08-28
-  date_display: Aug 28
-  title: Adjustable stereo path design method based on pin-sculpture acoustic topological insulator with Z-dislocation defect immunity
-  journal: Journal of Applied Physics
-  volume: 136
-  issue: 8
-  pages: "083109"
-  doi: 10.1063/5.0213045
-- number: 10
-  date: 2024-08-01
-  date_display: Aug
-  title: Optimization method to construct multiple acoustic vortices for holograms
-  journal: International Journal of Mechanical Sciences
-  volume: 276
-  pages: 109311
-  doi: 10.1016/j.ijmecsci.2024.109311
-- number: 9
+  date_display: "Aug 28"
+  title: "Adjustable stereo path design method based on pin-sculpture acoustic topological insulator with Z-dislocation defect immunity"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "136"
+  issue: "8"
+  pages: "83109"
+  doi: "10.1063/5.0213045"
+  corresponding: true
+- number: 3
+  date: 2024-08-15
+  date_display: "Aug 15"
+  title: "Optimization method to construct multiple acoustic vortices for holograms"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "276"
+  pages: "109311"
+  doi: "10.1016/j.ijmecsci.2024.109311"
+  corresponding: true
+- number: 2
   date: 2024-07-01
-  date_display: Jul
-  title: A patterned vibrotactile method using envelope modulation with high resolution and low perceptual frequency
-  journal: Mechanical Systems and Signal Processing
-  volume: 216
-  pages: 111472
-  doi: 10.1016/j.ymssp.2024.111472
+  date_display: "Jul"
+  title: "Design and evaluation of the traveling wave piezoelectric beam actuators"
+  journal: "ACTA MECHANICA SINICA"
+  volume: "40"
+  issue: "7"
+  pages: "523523"
+  doi: "10.1007/s10409-024-23523-x"
+  corresponding: true
+- number: 1
+  date: 2024-07-01
+  date_display: "Jul 01"
+  title: "A patterned vibrotactile method using envelope modulation with high resolution and low perceptual frequency"
+  journal: "MECHANICAL SYSTEMS AND SIGNAL PROCESSING"
+  volume: "216"
+  pages: "111472"
+  doi: "10.1016/j.ymssp.2024.111472"
+  corresponding: true
+- number: 2
+  date: 2023-06-01
+  date_display: "Jun 01"
+  title: "The multi-frequency vibration metastructure for three-dimensional containerless attractor of particles"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "247"
+  pages: "108175"
+  doi: "10.1016/j.ijmecsci.2023.108175"
+  corresponding: true
+- number: 1
+  date: 2023-01-01
+  date_display: "2023"
+  title: "Re-understanding Hsue-shen Tsien's thoughts on technological sciences"
+  journal: "CHINESE SCIENCE BULLETIN-CHINESE"
+  volume: "68"
+  issue: "10"
+  pages: "1156-1164"
+  doi: "10.1360/TB-2022-0693"
 - number: 8
   date: 2022-12-23
-  date_display: Dec 23
-  title: Holographic Optimization Method of Acoustic Radiation Force for Continuously Manipulating a Mie Particle through a Fluid
-  journal: Physical Review Applied
-  volume: 18
-  issue: 6
-  pages: "064075"
-  doi: 10.1103/PhysRevApplied.18.064075
+  date_display: "Dec 23"
+  title: "Holographic Optimization Method of Acoustic Radiation Force for Continuously Manipulating a Mie Particle through a Fluid"
+  journal: "PHYSICAL REVIEW APPLIED"
+  volume: "18"
+  issue: "6"
+  pages: "64075"
+  doi: "10.1103/PhysRevApplied.18.064075"
+  corresponding: true
 - number: 7
-  date: 2022-06-01
-  date_display: Jun 01
-  title: Topological acoustic tweezer and pseudo-spin states of acoustic topological insulators
-  journal: Applied Physics Letters
-  volume: 120
-  issue: 22
-  pages: 222202
-  doi: 10.1063/5.0091755
+  date: 2022-07-01
+  date_display: "Jul"
+  title: "The holographic algorithm and design for propagation of flexural Lamb waves and particles manipulation using elastic metasurfaces"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "54"
+  pages: "101765"
+  doi: "10.1016/j.eml.2022.101765"
 - number: 6
-  date: 2020-09-28
-  date_display: Sep 28
-  title: Temporal acoustic wave computational metamaterials
-  journal: Applied Physics Letters
-  volume: 117
-  issue: 13
-  pages: 131902
-  doi: 10.1063/5.0018758
+  date: 2022-05-30
+  date_display: "May 30"
+  title: "Topological acoustic tweezer and pseudo-spin states of acoustic topological insulators"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "120"
+  issue: "22"
+  pages: "222202"
+  doi: "10.1063/5.0091755"
+  corresponding: true
 - number: 5
-  date: 2020-05-26
-  date_display: May 26
-  title: Temporal differential elastic wave computational metamaterials
-  journal: Journal of Applied Physics
-  volume: 127
-  issue: 20
-  pages: 203104
-  doi: 10.1063/5.0003973
+  date: 2022-05-15
+  date_display: "May 15"
+  title: "Programmable particles patterning by multifrequency excitation radiation force of acoustic resonance modes"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "222"
+  pages: "107232"
+  doi: "10.1016/j.ijmecsci.2022.107232"
+  corresponding: true
 - number: 4
-  date: 2020-05-08
-  date_display: May 08
-  title: Magnetically controlled multifunctional membrane acoustic metasurface
-  journal: Journal of Applied Physics
-  volume: 127
-  issue: 18
-  pages: 185104
-  doi: 10.1063/1.5145289
+  date: 2022-05-01
+  date_display: "May"
+  title: "Initiation of surface wrinkling during photopolymerization"
+  journal: "JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS"
+  volume: "162"
+  pages: "104838"
+  doi: "10.1016/j.jmps.2022.104838"
 - number: 3
-  date: 2020-03-24
-  date_display: Mar 24
-  title: Acoustic computational metamaterials for dispersion Fourier transform in time domain
-  journal: Journal of Applied Physics
-  volume: 127
-  issue: 12
-  pages: 123101
-  doi: 10.1063/1.5141057
+  date: 2022-02-28
+  date_display: "Feb 28"
+  title: "The Effect of Compression on the Void Coalescence under Strong Dynamic Loading"
+  journal: "ADVANCES IN MATERIALS SCIENCE AND ENGINEERING"
+  volume: "2022"
+  pages: "9990161"
+  doi: "10.1155/2022/9990161"
 - number: 2
-  date: 2019-07-23
-  date_display: Jul 23
-  title: Super resolution in depth for microwave imaging
-  journal: Applied Physics Letters
-  volume: 115
-  issue: 4
-  pages: "044101"
-  doi: 10.1063/1.5098302
+  date: 2022-01-01
+  date_display: "2022"
+  title: "Acoustic computational metamaterials"
+  journal: "CHINESE SCIENCE BULLETIN-CHINESE"
+  volume: "67"
+  issue: "4-5"
+  pages: "396-405"
+  doi: "10.1360/TB-2021-0869"
+  corresponding: true
 - number: 1
-  date: 2019-01-01
-  date_display: "2019"
-  title: Buckled AgNW/MXene hybrid hierarchical sponges for high-performance electromagnetic interference shielding
-  journal: Nanoscale
-  volume: 11
-  issue: 47
-  pages: 22804–22812
-  doi: 10.1039/C9NR07988B
+  date: 2022-01-01
+  date_display: "Jan"
+  title: "Design method and machine learning application of acoustic holographic computational metamaterials"
+  journal: "SCIENCE CHINA-TECHNOLOGICAL SCIENCES"
+  volume: "65"
+  issue: "1"
+  pages: "238-243"
+  doi: "10.1007/s11431-021-1869-3"
+  corresponding: true
+- number: 12
+  date: 2021-12-01
+  date_display: "Dec 01"
+  title: "Reconfigurable Particle Swarm Robotics Powered by Acoustic Vibration Tweezer"
+  journal: "SOFT ROBOTICS"
+  volume: "8"
+  issue: "6"
+  pages: "735-743"
+  doi: "10.1089/soro.2020.0050"
+  corresponding: true
+- number: 11
+  date: 2021-11-01
+  date_display: "Nov"
+  title: "In-place rotation of particles and time-average vibrational vortex on a Chladni plate"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "49"
+  pages: "101493"
+  doi: "10.1016/j.eml.2021.101493"
+  corresponding: true
+- number: 10
+  date: 2021-11-01
+  date_display: "Nov"
+  title: "Particles separation using the inverse Chladni pattern enhanced local Brazil nut effect"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "49"
+  pages: "101466"
+  doi: "10.1016/j.eml.2021.101466"
+  corresponding: true
+- number: 9
+  date: 2021-11-01
+  date_display: "Nov"
+  title: "Implementing fractional Fourier transform using SH0 wave computational metamaterials in space domain"
+  journal: "SCIENCE CHINA-TECHNOLOGICAL SCIENCES"
+  volume: "64"
+  issue: "11"
+  pages: "2560-2565"
+  doi: "10.1007/s11431-021-1846-x"
+  corresponding: true
+- number: 8
+  date: 2021-10-01
+  date_display: "Oct"
+  title: "A Modified Iosipescu Method to Study In-Plane Shear Strength of C/SiC Composites at Elevated Temperatures in Air"
+  journal: "EXPERIMENTAL MECHANICS"
+  volume: "61"
+  issue: "8"
+  pages: "1323-1331"
+  doi: "10.1007/s11340-021-00716-7"
+  corresponding: true
+- number: 7
+  date: 2021-10-01
+  date_display: "Oct"
+  title: "Out-of-plane dynamic crushing behavior of joint-based hierarchical honeycombs"
+  journal: "JOURNAL OF SANDWICH STRUCTURES & MATERIALS"
+  volume: "23"
+  issue: "7"
+  pages: "1099636220909783"
+  doi: "10.1177/1099636220909783"
+- number: 6
+  date: 2021-09-01
+  date_display: "Sep"
+  title: "Implementing fractional Fourier transform and solving partial differential equations using acoustic computational metamaterials in space domain"
+  journal: "ACTA MECHANICA SINICA"
+  volume: "37"
+  issue: "9"
+  pages: "1371-1377"
+  doi: "10.1007/s10409-021-01139-2"
+  corresponding: true
+- number: 5
+  date: 2021-07-01
+  date_display: "Jul"
+  title: "In situ near-field microwave characterization and quantitative evaluation of phase change inclusion in honeycomb composites"
+  journal: "NDT & E INTERNATIONAL"
+  volume: "121"
+  pages: "102469"
+  doi: "10.1016/j.ndteint.2021.102469"
+  corresponding: true
+- number: 4
+  date: 2021-06-01
+  date_display: "Jun"
+  title: "A Microwave Near-field 3D Super-resolution Imaging Method"
+  journal: "EXPERIMENTAL MECHANICS"
+  volume: "61"
+  issue: "5"
+  pages: "859-866"
+  doi: "10.1007/s11340-021-00708-7"
+  corresponding: true
+- number: 3
+  date: 2021-04-03
+  date_display: "Apr 03"
+  title: "Phase-field simulation of magnetic double-hole nanoring and its application in random storage"
+  journal: "INTERNATIONAL JOURNAL OF SMART AND NANO MATERIALS"
+  volume: "12"
+  issue: "2"
+  pages: "157-184"
+  doi: "10.1080/19475411.2021.1901791"
+  corresponding: true
+- number: 2
+  date: 2021-04-01
+  date_display: "Apr"
+  title: "Comparison of balanced direct search and iterative angular spectrum approaches for designing acoustic holography structure"
+  journal: "APPLIED ACOUSTICS"
+  volume: "175"
+  pages: "107848"
+  doi: "10.1016/j.apacoust.2020.107848"
+  corresponding: true
+- number: 1
+  date: 2021-02-01
+  date_display: "Feb 01"
+  title: "Robotic Trajectories and Morphology Manipulation of Single Particle and Granular Materials by a Vibration Tweezer"
+  journal: "SOFT ROBOTICS"
+  volume: "8"
+  issue: "1"
+  pages: "1-9"
+  doi: "10.1089/soro.2019.0173"
+  corresponding: true
+- number: 10
+  date: 2020-11-01
+  date_display: "Nov"
+  title: "Structured Interfaces for Improving the Tensile Strength and Toughness of Stiff/Highly Stretchable Polymer Hybrids"
+  journal: "ADVANCED MATERIALS TECHNOLOGIES"
+  volume: "5"
+  issue: "11"
+  pages: "2000652"
+  doi: "10.1002/admt.202000652"
+- number: 9
+  date: 2020-09-28
+  date_display: "Sep 28"
+  title: "Temporal acoustic wave computational metamaterials"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "117"
+  issue: "13"
+  pages: "131902"
+  doi: "10.1063/5.0018758"
+  corresponding: true
+- number: 8
+  date: 2020-08-01
+  date_display: "Aug"
+  title: "Mechanically robust ANF/MXene composite films with tunable electromagnetic interference shielding performance"
+  journal: "COMPOSITES PART A-APPLIED SCIENCE AND MANUFACTURING"
+  volume: "135"
+  pages: "105927"
+  doi: "10.1016/j.compositesa.2020.105927"
+- number: 7
+  date: 2020-07-01
+  date_display: "Jul"
+  title: "Implementing fractional order Fourier transformation and confocal imaging with microwave computational metamaterials"
+  journal: "EPL"
+  volume: "131"
+  issue: "2"
+  pages: "24001"
+  doi: "10.1209/0295-5075/131/24001"
+  corresponding: true
+- number: 6
+  date: 2020-05-29
+  date_display: "May 29"
+  title: "Temporal differential elastic wave computational metamaterials"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "127"
+  issue: "20"
+  pages: "203104"
+  doi: "10.1063/5.0003973"
+  corresponding: true
+- number: 5
+  date: 2020-05-14
+  date_display: "May 14"
+  title: "Magnetically controlled multifunctional membrane acoustic metasurface"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "127"
+  issue: "18"
+  doi: "10.1063/1.5145289"
+  corresponding: true
+- number: 4
+  date: 2020-05-01
+  date_display: "May"
+  title: "Deformable oscillation of particles patterning by parametric bulk acoustic waves"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "37"
+  pages: "100716"
+  doi: "10.1016/j.eml.2020.100716"
+  corresponding: true
+- number: 3
+  date: 2020-04-01
+  date_display: "Apr"
+  title: "The multi -frequency metastructure vibration motor design for dynamic rotary and morphology manipulation of objects"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "36"
+  pages: "100667"
+  doi: "10.1016/j.eml.2020.100667"
+  corresponding: true
+- number: 2
+  date: 2020-03-31
+  date_display: "Mar 31"
+  title: "Acoustic computational metamaterials for dispersion Fourier transform in time domain"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "127"
+  issue: "12"
+  pages: "123101"
+  doi: "10.1063/1.5141057"
+  corresponding: true
+- number: 1
+  date: 2020-03-01
+  date_display: "Mar"
+  title: "Tensile properties of two-dimensional carbon fiber reinforced silicon carbide composites at temperatures up to 2300 °C"
+  journal: "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY"
+  volume: "40"
+  issue: "3"
+  pages: "630-635"
+  doi: "10.1016/j.jeurceramsoc.2019.10.030"
+- number: 7
+  date: 2019-12-21
+  date_display: "Dec 21"
+  title: "Buckled AgNW/MXene hybrid hierarchical sponges for high-performance electromagnetic interference shielding"
+  journal: "NANOSCALE"
+  volume: "11"
+  issue: "47"
+  pages: "22804-22812"
+  doi: "10.1039/c9nr07988b"
+- number: 6
+  date: 2019-11-01
+  date_display: "Nov 01"
+  title: "Mechanical properties and energy absorption of 3D printed square hierarchical honeycombs under in-plane axial compression"
+  journal: "COMPOSITES PART B-ENGINEERING"
+  volume: "176"
+  pages: "107219"
+  doi: "10.1016/j.compositesb.2019.107219"
+- number: 5
+  date: 2019-10-01
+  date_display: "Oct"
+  title: "A magnetically controlled tunable acoustic super-resolution lens"
+  journal: "EPL"
+  volume: "128"
+  issue: "2"
+  pages: "24001"
+  doi: "10.1209/0295-5075/128/24001"
+  corresponding: true
+- number: 4
+  date: 2019-09-01
+  date_display: "Sep"
+  title: "Tensile properties of two-dimensional carbon fiber reinforced silicon carbide composites at temperatures up to 1800 °C in air"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "31"
+  pages: "100546"
+  doi: "10.1016/j.eml.2019.100546"
+  corresponding: true
+- number: 3
+  date: 2019-08-01
+  date_display: "Aug"
+  title: "Flexural properties of carbon-carbon composites at temperatures up to 2600 °C"
+  journal: "MATERIALS RESEARCH EXPRESS"
+  volume: "6"
+  issue: "8"
+  pages: "85629"
+  doi: "10.1088/2053-1591/ab23c9"
+  corresponding: true
+- number: 2
+  date: 2019-07-22
+  date_display: "Jul 22"
+  title: "Super resolution in depth for microwave imaging"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "115"
+  issue: "4"
+  pages: "44101"
+  doi: "10.1063/1.5098302"
+  corresponding: true
+- number: 1
+  date: 2019-03-15
+  date_display: "Mar 15"
+  title: "Microwave near-field and far-field imaging of composite plate with hat stiffeners"
+  journal: "COMPOSITES PART B-ENGINEERING"
+  volume: "161"
+  pages: "87-95"
+  doi: "10.1016/j.compositesb.2018.10.058"
+  corresponding: true
+- number: 13
+  date: 2018-10-01
+  date_display: "Oct 01"
+  title: "A cellular metastructure incorporating coupled negative thermal expansion and negative Poisson's ratio"
+  journal: "INTERNATIONAL JOURNAL OF SOLIDS AND STRUCTURES"
+  volume: "150"
+  pages: "255-267"
+  doi: "10.1016/j.ijsolstr.2018.06.018"
+  corresponding: true
+- number: 12
+  date: 2018-07-07
+  date_display: "Jul 07"
+  title: "Microwave nondestructive detection and quantitative evaluation of kissing defects in GFRP laminates"
+  journal: "COMPOSITES SCIENCE AND TECHNOLOGY"
+  volume: "162"
+  pages: "117-122"
+  doi: "10.1016/j.compscitech.2018.04.029"
+  corresponding: true
+- number: 11
+  date: 2018-06-07
+  date_display: "Jun 07"
+  title: "Robust and Stable Cu Nanowire@Graphene Core-Shell Aerogels for Ultraeffective Electromagnetic Interference Shielding"
+  journal: "SMALL"
+  volume: "14"
+  issue: "23"
+  pages: "1800634"
+  doi: "10.1002/smll.201800634"
+- number: 10
+  date: 2018-05-14
+  date_display: "May 14"
+  title: "Super tough magnetic hydrogels for remotely triggered shape morphing"
+  journal: "JOURNAL OF MATERIALS CHEMISTRY B"
+  volume: "6"
+  issue: "18"
+  pages: "2713-2722"
+  doi: "10.1039/c8tb00568k"
+  corresponding: true
+- number: 9
+  date: 2018-05-01
+  date_display: "May"
+  title: "High temperature fracture toughness and residual stress in thermal barrier coatings evaluated by an in-situ indentation method"
+  journal: "CERAMICS INTERNATIONAL"
+  volume: "44"
+  issue: "7"
+  pages: "7926-7929"
+  doi: "10.1016/j.ceramint.2018.01.230"
+  corresponding: true
+- number: 8
+  date: 2018-05-01
+  date_display: "May"
+  title: "A multi-scale and multi-field coupling nonlinear constitutive theory for the layered magnetoelectric composites"
+  journal: "JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS"
+  volume: "114"
+  pages: "143-157"
+  doi: "10.1016/j.jmps.2018.02.016"
+- number: 7
+  date: 2018-04-16
+  date_display: "Apr 16"
+  title: "In situ high temperature microwave microscope for nondestructive detection of surface and sub-surface defects"
+  journal: "OPTICS EXPRESS"
+  volume: "26"
+  issue: "8"
+  pages: "9595-9606"
+  doi: "10.1364/OE.26.009595"
+  corresponding: true
+- number: 6
+  date: 2018-04-01
+  date_display: "Apr"
+  title: "Design and analysis of lattice cylindrical shells with tailorable axial and radial thermal expansion"
+  journal: "EXTREME MECHANICS LETTERS"
+  volume: "20"
+  pages: "51-58"
+  doi: "10.1016/j.eml.2018.01.007"
+  corresponding: true
+- number: 5
+  date: 2018-03-07
+  date_display: "Mar 07"
+  title: "Ultralight and Highly Elastic Graphene/Lignin-Derived Carbon Nanocomposite Aerogels with Ultrahigh Electromagnetic Interference Shielding Performance"
+  journal: "ACS APPLIED MATERIALS & INTERFACES"
+  volume: "10"
+  issue: "9"
+  pages: "8205-8213"
+  doi: "10.1021/acsami.7b19427"
+- number: 4
+  date: 2018-03-01
+  date_display: "Mar"
+  title: "Lightweight composite lattice cylindrical shells with novel character of tailorable thermal expansion"
+  journal: "INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES"
+  volume: "137"
+  pages: "77-85"
+  doi: "10.1016/j.ijmecsci.2018.01.017"
+- number: 3
+  date: 2018-02-01
+  date_display: "Feb"
+  title: "Novel instrument for characterizing comprehensive physical properties under multi-mechanical loads and multi-physical field coupling conditions"
+  journal: "REVIEW OF SCIENTIFIC INSTRUMENTS"
+  volume: "89"
+  issue: "2"
+  pages: "25112"
+  doi: "10.1063/1.5009152"
+  corresponding: true
+- number: 2
+  date: 2018-01-01
+  date_display: "2018"
+  title: "Oxidized multiwall carbon nanotube/silicone foam composites with effective electromagnetic interference shielding and high gamma radiation stability"
+  journal: "RSC ADVANCES"
+  volume: "8"
+  issue: "43"
+  pages: "24236-24242"
+  doi: "10.1039/c8ra03314e"
+- number: 1
+  date: 2018-01-01
+  date_display: "Jan"
+  title: "Method to tune electrical impedance of LSMO/PMN-PT by nanocontact"
+  journal: "MATERIALS RESEARCH EXPRESS"
+  volume: "5"
+  issue: "1"
+  pages: "15001"
+  doi: "10.1088/2053-1591/aa9fd6"
+  corresponding: true
+- number: 16
+  date: 2017-12-15
+  date_display: "Dec 15"
+  title: "High temperature indentation tests of YSZ coatings in air up to 1200 °C"
+  journal: "MATERIALS LETTERS"
+  volume: "209"
+  pages: "5-7"
+  doi: "10.1016/j.matlet.2017.07.091"
+  corresponding: true
+- number: 15
+  date: 2017-10-01
+  date_display: "Oct"
+  title: "Tailorable Thermal Expansion of Lightweight and Robust Dual-Constituent Triangular Lattice Material"
+  journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
+  volume: "84"
+  issue: "10"
+  pages: "101006"
+  doi: "10.1115/1.4037589"
+  corresponding: true
+- number: 14
+  date: 2017-09-20
+  date_display: "Sep 20"
+  title: "Ultralight and Flexible Polyurethane/Silver Nanowire Nanocomposites with Unidirectional Pores for Highly Effective Electromagnetic Shielding"
+  journal: "ACS APPLIED MATERIALS & INTERFACES"
+  volume: "9"
+  issue: "37"
+  pages: "32211-32219"
+  doi: "10.1021/acsami.7b07643"
+- number: 13
+  date: 2017-09-08
+  date_display: "Sep 08"
+  title: "Design and characterization for dual-band and multi-band A sandwich composite radome walls"
+  journal: "COMPOSITES SCIENCE AND TECHNOLOGY"
+  volume: "149"
+  pages: "28-33"
+  doi: "10.1016/j.compscitech.2017.05.027"
+  corresponding: true
+- number: 12
+  date: 2017-08-22
+  date_display: "Aug 22"
+  title: "Magnetic-control multifunctional acoustic metasurface for reflected wave manipulation at deep subwavelength scale"
+  journal: "SCIENTIFIC REPORTS"
+  volume: "7"
+  pages: "9050"
+  doi: "10.1038/s41598-017-09652-w"
+  corresponding: true
+- number: 11
+  date: 2017-06-16
+  date_display: "Jun 16"
+  title: "Broadband composite radar absorbing structures with resistive frequency selective surface: Optimal design, manufacturing and characterization"
+  journal: "COMPOSITES SCIENCE AND TECHNOLOGY"
+  volume: "145"
+  pages: "10-14"
+  doi: "10.1016/j.compscitech.2017.03.009"
+- number: 10
+  date: 2017-06-01
+  date_display: "Jun"
+  title: "Characterizing the Viscoelastic Properties of Hydrogel Thin Films by Bulge Test"
+  journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
+  volume: "84"
+  issue: "6"
+  pages: "61005"
+  doi: "10.1115/1.4036394"
+- number: 9
+  date: 2017-06-01
+  date_display: "Jun 01"
+  title: "Enhanced out-of-plane crushing strength and energy absorption of in-plane graded honeycombs"
+  journal: "COMPOSITES PART B-ENGINEERING"
+  volume: "118"
+  pages: "33-40"
+  doi: "10.1016/j.compositesb.2017.03.002"
+- number: 8
+  date: 2017-05-15
+  date_display: "May 15"
+  title: "Experimental and theoretical studies on inter-fiber failure of unidirectional polymer-matrix composites under different strain rates"
+  journal: "INTERNATIONAL JOURNAL OF SOLIDS AND STRUCTURES"
+  volume: "113"
+  pages: "37-46"
+  doi: "10.1016/j.ijsolstr.2016.11.014"
+- number: 7
+  date: 2017-05-01
+  date_display: "May"
+  title: "Butterfly Change in Electric Field-Dependent Young's Modulus: Bulge Test and Phase Field Model"
+  journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
+  volume: "84"
+  issue: "5"
+  pages: "51009"
+  doi: "10.1115/1.4036298"
+  corresponding: true
+- number: 6
+  date: 2017-04-17
+  date_display: "Apr 17"
+  title: "Implementation of acoustic demultiplexing with membrane-type metasurface in low frequency range"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "110"
+  issue: "16"
+  pages: "161909"
+  doi: "10.1063/1.4981898"
+  corresponding: true
+- number: 5
+  date: 2017-04-01
+  date_display: "Apr 01"
+  title: "Characterization of oxidation film on SiC ceramic substrate based on indentation method"
+  journal: "CERAMICS INTERNATIONAL"
+  volume: "43"
+  issue: "5"
+  pages: "4399-4404"
+  doi: "10.1016/j.ceramint.2016.12.086"
+  corresponding: true
+- number: 4
+  date: 2017-04-01
+  date_display: "Apr"
+  title: "An elevated-temperature depth-sensing instrumented indentation apparatus for investigating thermo-mechanical behaviour of thermal barrier coatings"
+  journal: "REVIEW OF SCIENTIFIC INSTRUMENTS"
+  volume: "88"
+  issue: "4"
+  pages: "45102"
+  doi: "10.1063/1.4979361"
+  corresponding: true
+- number: 3
+  date: 2017-02-01
+  date_display: "Feb 01"
+  title: "Study of mechanical-magnetic and electromagnetic properties of PZT/Ni film systems by a novel bulge technique"
+  journal: "JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS"
+  volume: "423"
+  pages: "90-97"
+  doi: "10.1016/j.jmmm.2016.09.079"
+- number: 2
+  date: 2017-01-15
+  date_display: "Jan 15"
+  title: "Design and characterization for a high-temperature dual-band radome wall structure for airborne applications"
+  journal: "MATERIALS & DESIGN"
+  volume: "114"
+  pages: "264-270"
+  doi: "10.1016/j.matdes.2016.11.067"
+  corresponding: true
+- number: 1
+  date: 2017-01-01
+  date_display: "2017"
+  title: "Deformation and fracture of electromagnetic thin films and laminates under multi-field loading"
+  journal: "24TH INTERNATIONAL CONGRESS OF THEORETICAL AND APPLIED MECHANICS - FOUNDATION OF MULTIDISCIPLINARY RESEARCH"
+  volume: "20"
+  pages: "2-9"
+  doi: "10.1016/j.piutam.2017.03.002"
+- number: 14
+  date: 2016-11-01
+  date_display: "Nov"
+  title: "Pseudoelasticity and Nonideal Mullins Effect of Nanocomposite Hydrogels"
+  journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
+  volume: "83"
+  issue: "11"
+  pages: "111010"
+  doi: "10.1115/1.4034538"
+- number: 13
+  date: 2016-10-15
+  date_display: "Oct 15"
+  title: "Rapid heating thermal shock behavior study of CVD ZnS infrared window material: Numerical and experimental study"
+  journal: "JOURNAL OF ALLOYS AND COMPOUNDS"
+  volume: "682"
+  pages: "565-570"
+  doi: "10.1016/j.jallcom.2016.05.019"
+  corresponding: true
+- number: 12
+  date: 2016-10-01
+  date_display: "Oct"
+  title: "Near-field microwave identification and quantitative evaluation of liquid ingress in honeycomb sandwich structures"
+  journal: "NDT & E INTERNATIONAL"
+  volume: "83"
+  pages: "32-37"
+  doi: "10.1016/j.ndteint.2016.06.002"
+  corresponding: true
+- number: 11
+  date: 2016-08-15
+  date_display: "Aug 15"
+  title: "An investigation on erosion behavior of nanostructured 7YSZ coatings at elevated temperature"
+  journal: "SURFACE & COATINGS TECHNOLOGY"
+  volume: "299"
+  pages: "129-134"
+  doi: "10.1016/j.surfcoat.2016.05.003"
+  corresponding: true
+- number: 10
+  date: 2016-07-01
+  date_display: "Jul 01"
+  title: "The frequency dependence of harmonic hysteresis effect in magnetoelectric laminated composites"
+  journal: "COMPOSITE STRUCTURES"
+  volume: "147"
+  pages: "33-41"
+  doi: "10.1016/j.compstruct.2016.03.030"
+  corresponding: true
+- number: 9
+  date: 2016-06-01
+  date_display: "Jun 01"
+  title: "A finite element based real-space phase field model for domain evolution of ferromagnetic materials"
+  journal: "COMPUTATIONAL MATERIALS SCIENCE"
+  volume: "118"
+  pages: "214-223"
+  doi: "10.1016/j.commatsci.2016.03.020"
+  corresponding: true
+- number: 8
+  date: 2016-04-01
+  date_display: "Apr"
+  title: "An ultra-high temperature testing instrument under oxidation environment up to 1800°C"
+  journal: "REVIEW OF SCIENTIFIC INSTRUMENTS"
+  volume: "87"
+  issue: "4"
+  pages: "45108"
+  doi: "10.1063/1.4944484"
+  corresponding: true
+- number: 7
+  date: 2016-04-01
+  date_display: "Apr"
+  title: "Investigation of Pile-Up Behavior for Thermal Barrier Coatings Under Elevated-Temperature Indentation"
+  journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
+  volume: "83"
+  issue: "4"
+  pages: "41009"
+  doi: "10.1115/1.4032467"
+  corresponding: true
+- number: 6
+  date: 2016-03-07
+  date_display: "Mar 07"
+  title: "Analytical method to determine flexoelectric coupling coefficient at nanoscale"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "108"
+  issue: "10"
+  pages: "101908"
+  doi: "10.1063/1.4943660"
+  corresponding: true
+- number: 5
+  date: 2016-01-25
+  date_display: "Jan 25"
+  title: "The equivalent thermal conductivity of lattice core sandwich structure: A predictive model"
+  journal: "APPLIED THERMAL ENGINEERING"
+  volume: "93"
+  pages: "236-243"
+  doi: "10.1016/j.applthermaleng.2015.10.002"
+- number: 4
+  date: 2016-01-01
+  date_display: "Jan"
+  title: "Planar lattices with tailorable coefficient of thermal expansion and high stiffness based on dual-material triangle unit"
+  journal: "JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS"
+  volume: "86"
+  pages: "173-191"
+  doi: "10.1016/j.jmps.2015.10.004"
+  corresponding: true
+- number: 3
+  date: 2016-01-01
+  date_display: "Jan"
+  title: "Thin and flexible multi-walled carbon nanotube/waterborne polyurethane composites with high-performance electromagnetic interference shielding"
+  journal: "CARBON"
+  volume: "96"
+  pages: "768-777"
+  doi: "10.1016/j.carbon.2015.10.004"
+- number: 2
+  date: 2016-01-01
+  date_display: "2016"
+  title: "Dual-Band A-Sandwich Radome Design for Airborne Applications"
+  journal: "IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS"
+  volume: "15"
+  pages: "218-221"
+  doi: "10.1109/LAWP.2015.2438552"
+  corresponding: true
+- number: 1
+  date: 2016-01-01
+  date_display: "2016"
+  title: "Dual-band and thermo-mechanical design method for radome walls with graded porous structure"
+  journal: "JOURNAL OF ELECTROMAGNETIC WAVES AND APPLICATIONS"
+  volume: "30"
+  issue: "11"
+  pages: "1391-1406"
+  doi: "10.1080/09205071.2016.1202149"
+  corresponding: true
+- number: 16
+  date: 2015-12-15
+  date_display: "Dec 15"
+  title: "Load distribution in threads of porous metal-ceramic functionally graded composite joints subjected to thermomechanical loading"
+  journal: "COMPOSITE STRUCTURES"
+  volume: "134"
+  pages: "680-688"
+  doi: "10.1016/j.compstruct.2015.08.113"
+- number: 15
+  date: 2015-12-01
+  date_display: "Dec"
+  title: "A Numerical Study on the Thermal Conductivity of 3D Woven C/C Composites at High Temperature"
+  journal: "APPLIED COMPOSITE MATERIALS"
+  volume: "22"
+  issue: "6"
+  pages: "823-835"
+  doi: "10.1007/s10443-015-9438-3"
+- number: 14
+  date: 2015-12-01
+  date_display: "Dec 01"
+  title: "Preparation and thermodynamic analysis of the porous ZrO2/(ZrO2 + Ni) functionally graded bolted joint"
+  journal: "COMPOSITES PART B-ENGINEERING"
+  volume: "82"
+  pages: "13-22"
+  doi: "10.1016/j.compositesb.2015.07.018"
+- number: 13
+  date: 2015-11-15
+  date_display: "Nov 15"
+  title: "Strain rate effect on the out-of-plane dynamic compressive behavior of metallic honeycombs: Experiment and theory"
+  journal: "COMPOSITE STRUCTURES"
+  volume: "132"
+  pages: "644-651"
+  doi: "10.1016/j.compstruct.2015.06.015"
+- number: 12
+  date: 2015-10-05
+  date_display: "Oct 05"
+  title: "Multi-scale modeling of thermal expansion coefficients of C/C composites at high temperature"
+  journal: "MATERIALS & DESIGN"
+  volume: "82"
+  pages: "181-188"
+  doi: "10.1016/j.matdes.2015.05.061"
+- number: 11
+  date: 2015-08-01
+  date_display: "Aug"
+  title: "Crack instability of ferroelectric solids under alternative electric loading"
+  journal: "JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS"
+  volume: "81"
+  pages: "75-90"
+  doi: "10.1016/j.jmps.2015.04.014"
+- number: 10
+  date: 2015-07-01
+  date_display: "Jul"
+  title: "Analytical modeling of thermal residual stresses and optimal design of ZrO2/(ZrO2+Ni) sandwich ceramics"
+  journal: "CERAMICS INTERNATIONAL"
+  volume: "41"
+  issue: "6"
+  pages: "8142-8148"
+  doi: "10.1016/j.ceramint.2015.03.025"
+- number: 9
+  date: 2015-04-25
+  date_display: "Apr 25"
+  title: "Fabrication and heat transfer characteristics of C/SiC pyramidal core lattice sandwich panel"
+  journal: "APPLIED THERMAL ENGINEERING"
+  volume: "81"
+  pages: "10-17"
+  doi: "10.1016/j.applthermaleng.2015.02.012"
+- number: 8
+  date: 2015-04-01
+  date_display: "Apr"
+  title: "Pre-oxidation temperature optimization of ultra-high temperature ceramic components: Flexural strength testing and residual stress analysis"
+  journal: "CERAMICS INTERNATIONAL"
+  volume: "41"
+  issue: "3"
+  pages: "5085-5092"
+  doi: "10.1016/j.ceramint.2014.12.079"
+- number: 7
+  date: 2015-03-15
+  date_display: "Mar 15"
+  title: "Effect of manufacturing defects on mechanical properties and failure features of 3D orthogonal woven C/C composites"
+  journal: "COMPOSITES PART B-ENGINEERING"
+  volume: "71"
+  pages: "113-121"
+  doi: "10.1016/j.compositesb.2014.11.003"
+- number: 6
+  date: 2015-02-23
+  date_display: "Feb 23"
+  title: "Scaling relationship among indentation properties of electromagnetic materials at micro- and nanoscale"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "106"
+  issue: "8"
+  pages: "81904"
+  doi: "10.1063/1.4913716"
+  corresponding: true
+- number: 5
+  date: 2015-02-05
+  date_display: "Feb 05"
+  title: "A lightweight, high compression strength ultra high temperature ceramic corrugated panel with potential for thermal protection system applications"
+  journal: "MATERIALS & DESIGN"
+  volume: "66"
+  pages: "552-556"
+  doi: "10.1016/j.matdes.2014.06.024"
+- number: 4
+  date: 2015-02-01
+  date_display: "Feb"
+  title: "Homogenization theory for designing graded viscoelastic sonic crystals"
+  journal: "CHINESE PHYSICS B"
+  volume: "24"
+  issue: "2"
+  pages: "24303"
+  doi: "10.1088/1674-1056/24/2/024303"
+  corresponding: true
+- number: 3
+  date: 2015-02-01
+  date_display: "Feb"
+  title: "Strain Rate Effect on Mechanical Behavior of Metallic Honeycombs Under Out-of-Plane Dynamic Compression"
+  journal: "JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME"
+  volume: "82"
+  issue: "2"
+  pages: "21007"
+  doi: "10.1115/1.4029471"
+- number: 2
+  date: 2015-01-12
+  date_display: "Jan 12"
+  title: "Measuring residual stress and its influence on properties of porous ZrO2/(ZrO2+Ni) ceramics"
+  journal: "MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES MICROSTRUCTURE AND PROCESSING"
+  volume: "622"
+  pages: "82-90"
+  doi: "10.1016/j.msea.2014.11.018"
+  corresponding: true
+- number: 1
+  date: 2015-01-01
+  date_display: "2015"
+  title: "Effects of oxygen on light activation in covalent adaptable network polymers"
+  journal: "SOFT MATTER"
+  volume: "11"
+  issue: "30"
+  pages: "6134-6144"
+  doi: "10.1039/c5sm00555h"
+- number: 12
+  date: 2014-12-28
+  date_display: "Dec 28"
+  title: "Dissipative properties and chain evolution of highly strained nanocomposite hydrogel"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "116"
+  issue: "24"
+  pages: "244901"
+  doi: "10.1063/1.4904977"
+  corresponding: true
+- number: 11
+  date: 2014-12-01
+  date_display: "Dec"
+  title: "Fabrication and mechanical properties of lightweight ZrO2 ceramic corrugated core sandwich panels"
+  journal: "MATERIALS & DESIGN"
+  volume: "64"
+  pages: "91-95"
+  doi: "10.1016/j.matdes.2014.07.038"
+- number: 10
+  date: 2014-09-01
+  date_display: "Sep"
+  title: "Two-step hot pressing of bimodal micron/nano-ZrB2 ceramic with improved mechanical properties and thermal shock resistance"
+  journal: "INTERNATIONAL JOURNAL OF REFRACTORY METALS & HARD MATERIALS"
+  volume: "46"
+  pages: "65-70"
+  doi: "10.1016/j.ijrmhm.2014.05.016"
+- number: 9
+  date: 2014-08-18
+  date_display: "Aug 18"
+  title: "Active acoustic metamaterials with tunable effective mass density by gradient magnetic fields"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "105"
+  issue: "7"
+  pages: "71913"
+  doi: "10.1063/1.4893921"
+  corresponding: true
+- number: 8
+  date: 2014-08-01
+  date_display: "Aug"
+  title: "Finite Element Modeling of 3D Orthogonal Woven C/C Composite Based on Micro-Computed Tomography Experiment"
+  journal: "APPLIED COMPOSITE MATERIALS"
+  volume: "21"
+  issue: "4"
+  pages: "603-614"
+  doi: "10.1007/s10443-013-9353-4"
+- number: 7
+  date: 2014-08-01
+  date_display: "Aug"
+  title: "Improved Green Strength and Green Machinability of ZrB2-SiC Through Gelcasting Based on a Double Gel Network"
+  journal: "JOURNAL OF THE AMERICAN CERAMIC SOCIETY"
+  volume: "97"
+  issue: "8"
+  pages: "2401-2404"
+  doi: "10.1111/jace.13076"
+- number: 6
+  date: 2014-07-07
+  date_display: "Jul 07"
+  title: "Nonlinear harmonic distortion effect in magnetoelectric laminate composites"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "105"
+  issue: "1"
+  pages: "12904"
+  doi: "10.1063/1.4887373"
+  corresponding: true
+- number: 5
+  date: 2014-07-01
+  date_display: "Jul"
+  title: "Heat transfer mechanism of the C/SiC ceramics pyramidal lattice composites"
+  journal: "COMPOSITES PART B-ENGINEERING"
+  volume: "63"
+  pages: "8-14"
+  doi: "10.1016/j.compositesb.2014.03.015"
+  corresponding: true
+- number: 4
+  date: 2014-06-01
+  date_display: "Jun"
+  title: "Magnetic and electric bulge-test instrument for the determination of coupling mechanical properties of functional free-standing films and flexible electronics"
+  journal: "REVIEW OF SCIENTIFIC INSTRUMENTS"
+  volume: "85"
+  issue: "6"
+  pages: "65117"
+  doi: "10.1063/1.4885037"
+  corresponding: true
+- number: 3
+  date: 2014-04-03
+  date_display: "Apr 03"
+  title: "Magnetic Field Tunable Small-scale Mechanical Properties of Nickel Single Crystals Measured by Nanoindentation Technique"
+  journal: "SCIENTIFIC REPORTS"
+  volume: "4"
+  pages: "4583"
+  doi: "10.1038/srep04583"
+  corresponding: true
+- number: 2
+  date: 2014-02-28
+  date_display: "Feb 28"
+  title: "Wrinkles of magnetoelectric composite thin films bonded on compliant buffer-layers"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "115"
+  issue: "8"
+  pages: "83515"
+  doi: "10.1063/1.4866575"
+- number: 1
+  date: 2014-02-10
+  date_display: "Feb 10"
+  title: "Electric-field-tunable mechanical properties of relaxor ferroelectric single crystal measured by nanoindentation"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "104"
+  issue: "6"
+  pages: "61904"
+  doi: "10.1063/1.4865773"
+  corresponding: true
+- number: 17
+  date: 2013-12-01
+  date_display: "Dec"
+  title: "Numerical Analysis of Thermodynamic Behaviour of Through-Thickness Stitched Sandwich Laminate"
+  journal: "APPLIED COMPOSITE MATERIALS"
+  volume: "20"
+  issue: "6"
+  pages: "1161-1171"
+  doi: "10.1007/s10443-013-9327-6"
+- number: 16
+  date: 2013-12-01
+  date_display: "Dec"
+  title: "Method for Design of Dual-Band Flat Radome Wall Structure"
+  journal: "AIAA JOURNAL"
+  volume: "51"
+  issue: "12"
+  pages: "2819-2822"
+  doi: "10.2514/1.J052428"
+  corresponding: true
+- number: 15
+  date: 2013-11-01
+  date_display: "Nov"
+  title: "Study on aluminum honeycomb sandwich panels with random skin/core weld defects"
+  journal: "JOURNAL OF SANDWICH STRUCTURES & MATERIALS"
+  volume: "15"
+  issue: "6"
+  pages: "704-717"
+  doi: "10.1177/1099636213498889"
+- number: 14
+  date: 2013-10-14
+  date_display: "Oct 14"
+  title: "A bulge-induced dehydration failure mode of nanocomposite hydrogel"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "103"
+  issue: "16"
+  pages: "161903"
+  doi: "10.1063/1.4824984"
+  corresponding: true
+- number: 13
+  date: 2013-09-01
+  date_display: "Sep"
+  title: "Effect of stitching angle on mechanical properties of stitched sandwich panels"
+  journal: "MATERIALS & DESIGN"
+  volume: "50"
+  pages: "817-824"
+  doi: "10.1016/j.matdes.2013.03.058"
+- number: 12
+  date: 2013-07-28
+  date_display: "Jul 28"
+  title: "The effects of interface misfit strain and surface tension on magnetoelectric effects in layered magnetostrictive-piezoelectric composites"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "114"
+  issue: "4"
+  pages: "44109"
+  doi: "10.1063/1.4816693"
+  corresponding: true
+- number: 11
+  date: 2013-06-17
+  date_display: "Jun 17"
+  title: "Rate dependant heat generation in single cycle of domain switching of lead zirconate titanate via in-situ spontaneous temperature measurement"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "102"
+  issue: "24"
+  pages: "242912"
+  doi: "10.1063/1.4811702"
+- number: 10
+  date: 2013-06-01
+  date_display: "Jun"
+  title: "A multi-field domain rotation model for giant magnetostrictive materials"
+  journal: "ACTA MECHANICA"
+  volume: "224"
+  issue: "6"
+  pages: "1323-1328"
+  doi: "10.1007/s00707-013-0863-9"
+  corresponding: true
+- number: 9
+  date: 2013-06-01
+  date_display: "Jun"
+  title: "Multi-field nanoindentation apparatus for measuring local mechanical properties of materials in external magnetic and electric fields"
+  journal: "REVIEW OF SCIENTIFIC INSTRUMENTS"
+  volume: "84"
+  issue: "6"
+  pages: "63906"
+  doi: "10.1063/1.4811779"
+  corresponding: true
+- number: 8
+  date: 2013-05-01
+  date_display: "May"
+  title: "Effect of stitch on thermodynamic properties of sandwiched thermal protection structures"
+  journal: "COMPOSITE STRUCTURES"
+  volume: "99"
+  pages: "41-47"
+  doi: "10.1016/j.compstruct.2012.11.032"
+- number: 7
+  date: 2013-04-10
+  date_display: "Apr 10"
+  title: "Thermal Transfer in Graphene-Interfaced Materials: Contact Resistance and Interface Engineering"
+  journal: "ACS APPLIED MATERIALS & INTERFACES"
+  volume: "5"
+  issue: "7"
+  pages: "2599-2603"
+  doi: "10.1021/am3032772"
+  corresponding: true
+- number: 6
+  date: 2013-04-01
+  date_display: "Apr"
+  title: "Microstructure and properties of highly porous Y2SiO5 ceramics produced by a new water-based freeze casting"
+  journal: "MATERIALS & DESIGN"
+  volume: "46"
+  pages: "746-750"
+  doi: "10.1016/j.matdes.2012.11.020"
+- number: 5
+  date: 2013-03-01
+  date_display: "Mar 01"
+  title: "An energy-based dynamic loss hysteresis model for giant magnetostrictive materials"
+  journal: "INTERNATIONAL JOURNAL OF SOLIDS AND STRUCTURES"
+  volume: "50"
+  issue: "5"
+  pages: "672-679"
+  doi: "10.1016/j.ijsolstr.2012.10.029"
+  corresponding: true
+- number: 4
+  date: 2013-02-01
+  date_display: "Feb"
+  title: "Effect of aggregate distribution and shape on failure behavior of polyurethane polymer concrete under tension"
+  journal: "COMPUTATIONAL MATERIALS SCIENCE"
+  volume: "67"
+  pages: "133-139"
+  doi: "10.1016/j.commatsci.2012.08.029"
+- number: 3
+  date: 2013-01-01
+  date_display: "Sep-oct"
+  title: "Moving polarization saturation crack in ferroelectric solids"
+  journal: "EUROPEAN JOURNAL OF MECHANICS A-SOLIDS"
+  volume: "41"
+  pages: "43-49"
+  doi: "10.1016/j.euromechsol.2013.02.002"
+- number: 2
+  date: 2013-01-01
+  date_display: "Jan"
+  title: "Anti-plane Yoffe-type crack in ferroelectric materials"
+  journal: "INTERNATIONAL JOURNAL OF FRACTURE"
+  volume: "179"
+  issue: "1-2"
+  pages: "35-43"
+  doi: "10.1007/s10704-012-9767-2"
+- number: 1
+  date: 2013-01-01
+  date_display: "Jan"
+  title: "On the elastic and creep stress analysis modeling in the oxide scale/metal substrate system due to oxidation growth strain"
+  journal: "CORROSION SCIENCE"
+  volume: "66"
+  pages: "315-323"
+  doi: "10.1016/j.corsci.2012.09.035"
+- number: 15
+  date: 2012-12-01
+  date_display: "Dec"
+  title: "Residual stress analysis in the oxide scale/metal substrate system due to oxidation growth strain and creep deformation"
+  journal: "ACTA MECHANICA"
+  volume: "223"
+  issue: "12"
+  pages: "2597-2607"
+  doi: "10.1007/s00707-012-0739-4"
+  corresponding: true
+- number: 14
+  date: 2012-12-01
+  date_display: "Dec"
+  title: "PHASE FIELD SIMULATION FOR HIGH-TEMPERATURE OXIDATION BEHAVIOR OF THERMAL BARRIER COATINGS UNDER SHOT PEENING"
+  journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
+  volume: "4"
+  issue: "4"
+  pages: "1250038"
+  doi: "10.1142/S175882511250038X"
+- number: 13
+  date: 2012-09-01
+  date_display: "Sep"
+  title: "OPTIMAL DESIGN OF SANDWICH BEAMS WITH LIGHTWEIGHT CORES IN THREE-POINT BENDING"
+  journal: "INTERNATIONAL JOURNAL OF APPLIED MECHANICS"
+  volume: "4"
+  issue: "3"
+  pages: "1250033"
+  doi: "10.1142/S1758825112500330"
+  corresponding: true
+- number: 12
+  date: 2012-09-01
+  date_display: "Sep"
+  title: "Effect of pre-oxidation on the microstructure, mechanical and dielectric properties of highly porous silicon nitride ceramics"
+  journal: "CERAMICS INTERNATIONAL"
+  volume: "38"
+  issue: "7"
+  pages: "6021-6026"
+  doi: "10.1016/j.ceramint.2012.03.056"
+- number: 11
+  date: 2012-09-01
+  date_display: "Sep 01"
+  title: "Flexoelectricity induced increase of critical thickness in epitaxial ferroelectric thin films"
+  journal: "PHYSICA B-CONDENSED MATTER"
+  volume: "407"
+  issue: "17"
+  pages: "3377-3381"
+  doi: "10.1016/j.physb.2012.04.041"
+  corresponding: true
+- number: 10
+  date: 2012-09-01
+  date_display: "Sep"
+  title: "Design for Broadband High-Temperature Radome Wall with Graded Porous Structure"
+  journal: "AIAA JOURNAL"
+  volume: "50"
+  issue: "9"
+  pages: "1956-1963"
+  doi: "10.2514/1.J051477"
+  corresponding: true
+- number: 9
+  date: 2012-08-01
+  date_display: "Aug"
+  title: "External uniform electric field removing the flexoelectric effect in epitaxial ferroelectric thin films"
+  journal: "EPL"
+  volume: "99"
+  issue: "4"
+  pages: "47003"
+  doi: "10.1209/0295-5075/99/47003"
+- number: 8
+  date: 2012-07-01
+  date_display: "Jul"
+  title: "Design, fabrication, and characterization of lightweight and broadband microwave absorbing structure reinforced by two dimensional composite lattice"
+  journal: "APPLIED PHYSICS A-MATERIALS SCIENCE & PROCESSING"
+  volume: "108"
+  issue: "1"
+  pages: "75-80"
+  doi: "10.1007/s00339-012-7002-7"
+- number: 7
+  date: 2012-07-01
+  date_display: "Jul"
+  title: "Microstructure, mechanical and dielectric properties of highly porous silicon nitride ceramics produced by a new water-based freeze casting"
+  journal: "CERAMICS INTERNATIONAL"
+  volume: "38"
+  issue: "5"
+  pages: "4373-4377"
+  doi: "10.1016/j.ceramint.2012.01.012"
+- number: 6
+  date: 2012-05-01
+  date_display: "May"
+  title: "Effect of Residual Stress on the Magnetoelectric Properties of Terfenol-D/PZT/Terfenol-D Laminates"
+  journal: "CHINESE PHYSICS LETTERS"
+  volume: "29"
+  issue: "5"
+  pages: "57801"
+  doi: "10.1088/0256-307X/29/5/057801"
+- number: 5
+  date: 2012-01-01
+  date_display: "2012"
+  title: "ELECTROMAGNETIC OPTIMAL DESIGN FOR DUAL-BAND RADOME WALL WITH ALTERNATING LAYERS OF STAGGERED COMPOSITE AND KAGOME LATTICE STRUCTURE"
+  journal: "PROGRESS IN ELECTROMAGNETICS RESEARCH-PIER"
+  volume: "122"
+  pages: "437-452"
+  doi: "10.2528/PIER11101906"
+  corresponding: true
+- number: 4
+  date: 2012-01-01
+  date_display: "Jan"
+  title: "Isothermal oxidation of Zr2[Al(Si)]4C5-SiC composites at 1000-1300 °C in air"
+  journal: "CORROSION SCIENCE"
+  volume: "54"
+  pages: "205-211"
+  doi: "10.1016/j.corsci.2011.09.016"
+- number: 3
+  date: 2012-01-01
+  date_display: "Jan"
+  title: "Thermal stability of bulk Zr2Al4C5 ceramic at elevated temperatures"
+  journal: "INTERNATIONAL JOURNAL OF REFRACTORY METALS & HARD MATERIALS"
+  volume: "30"
+  issue: "1"
+  pages: "102-106"
+  doi: "10.1016/j.ijrmhm.2011.07.010"
+- number: 2
+  date: 2012-01-01
+  date_display: "2012"
+  title: "A multilayer radome wall structure with passbands having odd times of selected central frequencies"
+  journal: "JOURNAL OF ELECTROMAGNETIC WAVES AND APPLICATIONS"
+  volume: "26"
+  issue: "16"
+  pages: "2154-2164"
+  doi: "10.1080/09205071.2012.728521"
+  corresponding: true
+- number: 1
+  date: 2012-01-01
+  date_display: "2012"
+  title: "OPTIMAL DESIGN FOR HIGH-TEMPERATURE BROADBAND RADOME WALL WITH SYMMETRICAL GRADED POROUS STRUCTURE"
+  journal: "PROGRESS IN ELECTROMAGNETICS RESEARCH-PIER"
+  volume: "127"
+  pages: "1-14"
+  doi: "10.2528/PIER12030203"
+  corresponding: true
+- number: 2
+  date: 2011-12-15
+  date_display: "Dec 15"
+  title: "Preliminary study on ductile fracture of imperfect lattice materials"
+  journal: "INTERNATIONAL JOURNAL OF SOLIDS AND STRUCTURES"
+  volume: "48"
+  issue: "25-26"
+  pages: "3453-3461"
+  doi: "10.1016/j.ijsolstr.2011.08.013"
+- number: 1
+  date: 2011-05-01
+  date_display: "May"
+  title: "A State-Dependent Hysteresis Model for Giant Magnetostrictive Materials"
+  journal: "JOURNAL OF COMPUTATIONAL AND THEORETICAL NANOSCIENCE"
+  volume: "8"
+  issue: "5"
+  pages: "842-846"
+  doi: "10.1166/jctn.2011.1761"
+  corresponding: true
+- number: 4
+  date: 2010-03-01
+  date_display: "Mar"
+  title: "Multi-objective optimization design of radar absorbing sandwich structure"
+  journal: "APPLIED MATHEMATICS AND MECHANICS-ENGLISH EDITION"
+  volume: "31"
+  issue: "3"
+  pages: "339-348"
+  doi: "10.1007/s10483-010-0307-z"
+- number: 3
+  date: 2010-03-01
+  date_display: "Mar"
+  title: "An Improved Method of Designing Isotropic Multilayered Spherical Cloak for Electromagnetic Invisibility"
+  journal: "CHINESE PHYSICS LETTERS"
+  volume: "27"
+  issue: "3"
+  pages: "34102"
+  doi: "10.1088/0256-307X/27/3/034102"
+- number: 2
+  date: 2010-01-01
+  date_display: "2010"
+  title: "Computational method for microwave absorbing structures with 2-D Kagome lattice grids"
+  journal: "INTERNATIONAL JOURNAL OF APPLIED ELECTROMAGNETICS AND MECHANICS"
+  volume: "33"
+  issue: "3-4"
+  pages: "1691-1694"
+  doi: "10.3233/JAE-2010-1302"
+- number: 1
+  date: 2010-01-01
+  date_display: "2010"
+  title: "A magnetoelastic model of nonlinear behaviors of Tb-Dy-Fe alloys based on domain rotation"
+  journal: "INTERNATIONAL JOURNAL OF APPLIED ELECTROMAGNETICS AND MECHANICS"
+  volume: "33"
+  issue: "3-4"
+  pages: "883-889"
+  doi: "10.3233/JAE-2010-1198"
+  corresponding: true
+- number: 7
+  date: 2009-09-01
+  date_display: "Sep"
+  title: "Computational method for radar absorbing composite lattice grids"
+  journal: "COMPUTATIONAL MATERIALS SCIENCE"
+  volume: "46"
+  issue: "3"
+  pages: "591-594"
+  doi: "10.1016/j.commatsci.2008.12.011"
+- number: 6
+  date: 2009-09-01
+  date_display: "Sep"
+  title: "Giant forced volume magnetostriction in polycrystalline Tb0.3Dy0.7Fe1.95 alloys under magnetomechanical loading"
+  journal: "JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS"
+  volume: "321"
+  issue: "18"
+  pages: "2783-2787"
+  doi: "10.1016/j.jmmm.2009.04.010"
+- number: 5
+  date: 2009-06-01
+  date_display: "Jun"
+  title: "MAGNETOMECHANICAL DAMPING CAPACITY OF ⟨110⟩ ORIENTED Tb0.36Dy0.64(Fe0.85Co0.15)2 ALLOY"
+  journal: "ACTA METALLURGICA SINICA"
+  volume: "45"
+  issue: "6"
+  pages: "749-753"
+- number: 4
+  date: 2009-05-12
+  date_display: "May 12"
+  title: "Anisotropic magnetostriction for Tb0.3Dy0.7Fe1.95 alloys under magnetomechanical loading"
+  journal: "JOURNAL OF ALLOYS AND COMPOUNDS"
+  volume: "476"
+  issue: "1-2"
+  pages: "556-559"
+  doi: "10.1016/j.jallcom.2008.09.089"
+- number: 3
+  date: 2009-05-01
+  date_display: "May 01"
+  title: "Stress influences on magnetization and magnetostriction in magnetically annealed Tb0.36Dy0.64(Fe0.85Co0.15)2 polycrystals"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "105"
+  issue: "9"
+  pages: "93915"
+  doi: "10.1063/1.3117184"
+- number: 2
+  date: 2009-01-01
+  date_display: "2009"
+  title: "Deformation and Fracture of Electromagnetosolid Materials and Structures"
+  journal: "APPLIED ELECTROMAGNETICS AND MECHANICS (II)"
+  volume: "13"
+  pages: "9-11"
+- number: 1
+  date: 2009-01-01
+  date_display: "2009"
+  title: "A magnetoelastic model of nonlinear behaviors of Tb-Dy-Fe alloys based on domain rotation"
+  journal: "APPLIED ELECTROMAGNETICS AND MECHANICS (II)"
+  volume: "13"
+  pages: "416-416"
+  corresponding: true
+- number: 4
+  date: 2008-12-01
+  date_display: "Dec"
+  title: "Experimental study of the multiaxial ferroelastic behavior of Tb0.3Dy0.7Fe1.95 alloys"
+  journal: "SMART MATERIALS & STRUCTURES"
+  volume: "17"
+  issue: "6"
+  pages: "65001"
+  doi: "10.1088/0964-1726/17/6/065001"
+- number: 3
+  date: 2008-03-31
+  date_display: "Mar 31"
+  title: "Path-dependent deformation behaviors of Tb0.3Dy0.7Fe1.95 alloy subjected to magnetomechanical loading"
+  journal: "MATERIALS LETTERS"
+  volume: "62"
+  issue: "8-9"
+  pages: "1313-1315"
+  doi: "10.1016/j.matlet.2007.08.071"
+- number: 2
+  date: 2008-02-01
+  date_display: "Feb"
+  title: "Magnetomechanical behaviors of giant magneto strictive materials"
+  journal: "ACTA MECHANICA SOLIDA SINICA"
+  volume: "21"
+  issue: "1"
+  pages: "15-18"
+  doi: "10.1007/s10338-008-0803-8"
+- number: 1
+  date: 2008-01-01
+  date_display: "2008"
+  title: "A model of phase transition from austenite to martensite in single-crystal NiMnGa alloys"
+  journal: "ADVANCES IN HETEROGENEOUS MATERIAL MECHANICS 2008"
+  pages: "691-695"
+  corresponding: true
+- number: 4
+  date: 2007-06-01
+  date_display: "Jun"
+  title: "Young's modulus anisotropy and magnetomechanical damping of [110] oriented Tb0.3Dy0.7Fe1.95 alloy"
+  journal: "CHINESE PHYSICS LETTERS"
+  volume: "24"
+  issue: "6"
+  pages: "1611-1613"
+- number: 3
+  date: 2007-06-01
+  date_display: "Jun"
+  title: "A model for giant magnetostrain and magnetization in the martensitic phase of NiMnGa alloys"
+  journal: "SMART MATERIALS & STRUCTURES"
+  volume: "16"
+  issue: "3"
+  pages: "779-783"
+  doi: "10.1088/0964-1726/16/3/027"
+- number: 2
+  date: 2007-04-30
+  date_display: "Apr 30"
+  title: "Magnetoelasticity of Tb0.3Dy0.7Fe1.95 alloys in a multiaxial stress-magnetic field space"
+  journal: "APPLIED PHYSICS LETTERS"
+  volume: "90"
+  issue: "18"
+  pages: "182505"
+  doi: "10.1063/1.2736300"
+- number: 1
+  date: 2007-01-01
+  date_display: "2007"
+  title: "The magnetostriction in Tb0.3Dy0.7Fe1.95 alloys under two types of magnetomechanical loading"
+  journal: "PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON NONLINEAR MECHANICS"
+  pages: "1611-1614"
+- number: 3
+  date: 2006-08-01
+  date_display: "Aug"
+  title: "Magnetomechanical hydraulic-servo apparatus for investigation of magnetomechanical coupling properties of magnetic materials"
+  journal: "REVIEW OF SCIENTIFIC INSTRUMENTS"
+  volume: "77"
+  issue: "8"
+  pages: "86101"
+  doi: "10.1063/1.2234854"
+- number: 2
+  date: 2006-07-15
+  date_display: "Jul 15"
+  title: "Magnetomechanical damping capacity of Tb0.36Dy0.64(Fe1-xTx)2 (T=Co, Mn) alloys"
+  journal: "JOURNAL OF APPLIED PHYSICS"
+  volume: "100"
+  issue: "2"
+  pages: "23901"
+  doi: "10.1063/1.2209726"
+- number: 1
+  date: 2006-01-01
+  date_display: "2006"
+  title: "Experimental study on electro-magneto-mechanical behaviour of electromagnetic solids"
+  journal: "Experimental Mechanics in Nano and Biotechnology, Pts 1 and 2"
+  volume: "326-328"
+  pages: "5-12"
+  doi: "10.4028/www.scientific.net/KEM.326-328.5"

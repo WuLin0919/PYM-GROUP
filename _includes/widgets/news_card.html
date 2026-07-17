@@ -13,7 +13,8 @@
                     <div>
                         [{{ item.number }}] <i>{{ item.title }}</i>.
                         <b>{{ item.journal }}</b>{% if item.volume %}, {{ item.volume }}{% endif %}{% if item.issue %}({{ item.issue }}){% endif %}{% if item.pages %}, {{ item.pages }}{% endif %}.
-                        DOI: <a href="https://doi.org/{{ item.doi }}" target="_blank">{{ item.doi }}</a>.
+                        {% if item.doi %}DOI: <a href="https://doi.org/{{ item.doi }}" target="_blank">{{ item.doi }}</a>.{% endif %}
+                        {% if item.corresponding %}<span class="badge badge-pill badge-info ml-1">Corresponding author</span>{% endif %}
                     </div>
                     <div class="ml-3 mt-auto text-muted no-break"><i>{{ item.date_display }}</i></div>
                 </div>
