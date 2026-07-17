@@ -25,6 +25,7 @@ plugins:
 # to override the default setting.
 exclude:
   - source_materials/
+  - source_data/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -35,7 +36,4 @@ exclude:
 
 # timezone: Asia/Shanghai
 
-collections:
-  - publications
-  - news
 

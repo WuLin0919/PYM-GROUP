@@ -8,7 +8,8 @@
             {% assign not_first = true %}
             <div class="mr-3 text-muted my-1">{{ year.name }}</div>
             <div class="media-body">
-                {% for item in year.items %}
+                {% assign year_items = year.items | sort: "date" %}
+                {% for item in year_items %}
                 <div class="my-1 d-flex">
                     <div>
                         [{{ item.number }}] <i>{{ item.title }}</i>.

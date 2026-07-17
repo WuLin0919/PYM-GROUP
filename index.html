@@ -16,6 +16,8 @@ navbar_title: Home
             {% include widgets/experience_card.html %}
         {% endif %}
 
+        {% include widgets/group_members_card.html %}
+
         {% if site.data.display.homepage.show_news %}
             {% assign count_news = site.data.news | size %}
             {% if count_news > 0 %}
@@ -23,10 +25,5 @@ navbar_title: Home
             {% endif %}
         {% endif %}
 
-        {% if site.data.display.homepage.show_selected_publications %}
-            {% include widgets/publication_placeholder_card.html %}
-        {% endif %}
-
-        {% include widgets/group_members_card.html %}
     </div>
 </div>
