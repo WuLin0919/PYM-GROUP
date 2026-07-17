@@ -29,27 +29,32 @@ short_bio: >-
 
 education:
 - name: Tsinghua University
+  logo: /assets/images/badges/Tsinghua.jpg
   dept: Department of Engineering Mechanics
   position: Ph.D. in Solid Mechanics
-  date: 2006
+  date: Sep. 2002 - Jul. 2007
 - name: Tsinghua University
+  logo: /assets/images/badges/Tsinghua.jpg
   dept: Department of Engineering Mechanics
   position: B.S. in Engineering Mechanics
-  date: 2001
+  date: Sep. 1998 - Jul. 2002
 
 experience:
 - name: Peking University
   logo: /assets/images/badges/PKU.png
   dept: School of Mechanics and Engineering Sciences
   position: Professor
-  date: 2018 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU.png
-  dept: School of Mechanics and Engineering Sciences
-  position: Associate Professor
-  date: 2013 - 2018
-- name: Peking University
-  logo: /assets/images/badges/PKU.png
-  dept: School of Mechanics and Engineering Sciences
-  position: Assistant Professor
-  date: 2008 - 2013
+  date: Jul. 2009 - present
+- name: Beijing Institute of Technology
+  logo: /assets/images/badges/BIT.jpg
+  dept: School of Aerospace Engineering
+  position: Faculty Member
+  date: Jul. 2007 - Jul. 2009
+
+awards:
+- name: National Excellent Doctoral Dissertation Award
+  date: 2009
+- name: First Prize, Science and Technology Award for Higher Education Institutions
+  date: 2007
+- name: Excellent Doctoral Dissertation of Tsinghua University
+  date: 2007
