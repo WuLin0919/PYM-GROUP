@@ -17,10 +17,12 @@
                         {% if member.link %}
                         <a href="{{ member.link }}" target="_blank" rel="noopener noreferrer">
                             {{ member.name }}
+                            {% if member.name_zh %}<span lang="zh">({{ member.name_zh }})</span>{% endif %}
                             <i class="fas fa-up-right-from-square member-link-icon" aria-hidden="true"></i>
                         </a>
                         {% else %}
                         {{ member.name }}
+                        {% if member.name_zh %}<span lang="zh">({{ member.name_zh }})</span>{% endif %}
                         {% endif %}
                     </td>
                     <td>{{ member.degree }}</td>

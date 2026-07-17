@@ -1,65 +1,80 @@
 principal_investigator:
   name: Yongmao Pei
+  name_zh: 裴永茂
   role: Professor
   link: https://mech.pku.edu.cn/jzyg/szdw/P/69748cb08f7c48c5b97e93486467b594.htm
 
 doctoral_students:
 - name: Zhao Pengyu
+  name_zh: 赵鹏宇
   degree: Ph.D.
-  period: 2020–2025
+  period: 2022–Present
   destination:
 - name: Ma Haoyu
+  name_zh: 马皓宇
   degree: Ph.D.
   period: 2023–Present
   destination:
 - name: Cui Zhonglin
+  name_zh: 崔忠霖
   degree: Ph.D.
   period: 2024–Present
   destination:
 - name: Wu Lin
+  name_zh: 伍霖
   link: https://orcid.org/0009-0005-6544-2197
   degree: Ph.D.
   period: 2025–Present
   destination:
-- name: Jiang Kelin
+- name: Jiang Keyi
+  name_zh: 江科杙
   degree: Ph.D.
   period: 2025–Present
   destination:
-- name: Dong Jinyu
+- name: Ji Jinyu
+  name_zh: 冀锦羽
   degree: Ph.D.
   period: 2021–2026
   destination:
 - name: Xiang Xingyu
+  name_zh: 向星宇
   degree: Ph.D.
   period: 2022–Present
   destination:
 - name: Ma Haojie
+  name_zh: 马豪杰
   degree: Ph.D.
   period: 2022–Present
   destination:
 - name: Chen Junwei
+  name_zh: 陈俊炜
   degree: Ph.D.
   period: 2023–Present
   destination:
 - name: Li Junpeng
+  name_zh: 李俊鹏
   degree: Ph.D.
   period: 2023–Present
   destination:
 - name: Yang Bingzhen
+  name_zh: 杨秉臻
   degree: Ph.D.
   period: 2024–Present
   destination:
 
 postdoctoral_researchers:
 - name: Xu Chunyu
+  name_zh: 许春雨
   degree: Postdoctoral Researcher
   period: 2024–Present
   destination:
 - name: Zhang Lu
+  name_zh: 张路
   degree: Postdoctoral Researcher
   period: 2024–Present
   destination:
 - name: Deng Jianqiang
+  name_zh: 邓健强
   degree: Postdoctoral Researcher
   period: 2026–Present
   destination:
