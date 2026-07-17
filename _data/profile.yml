@@ -1,0 +1,55 @@
+primary_name: "Yongmao Pei"
+secondary_name: "裴永茂"
+navbar_name: "PYM Group"
+
+positions:
+- name: Professor
+- name: School of Mechanics and Engineering Sciences, Peking University
+  logo: /assets/images/badges/PKU.png
+
+email: "peiym@pku.edu.cn"
+emails:
+- "peiym@pku.edu.cn"
+orcid: 0000-0002-5661-3135
+wos: https://webofscience.clarivate.cn/wos/author/record/1158548
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    Yongmao Pei is a Professor in the School of Mechanics and Engineering
+    Sciences at Peking University. He received his B.S. degree in Engineering
+    Mechanics and his Ph.D. degree in Solid Mechanics from Tsinghua University.
+  </p>
+  <p>
+    His research interests include multi-field coupling mechanics of intelligent
+    materials and structures, design and characterization of electromagnetic
+    materials, wave manipulation, acoustic tweezers, haptic feedback, and
+    micro-/nano-scale mechanics.
+  </p>
+
+education:
+- name: Tsinghua University
+  dept: Department of Engineering Mechanics
+  position: Ph.D. in Solid Mechanics
+  date: 2006
+- name: Tsinghua University
+  dept: Department of Engineering Mechanics
+  position: B.S. in Engineering Mechanics
+  date: 2001
+
+experience:
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
+  dept: School of Mechanics and Engineering Sciences
+  position: Professor
+  date: 2018 - present
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
+  dept: School of Mechanics and Engineering Sciences
+  position: Associate Professor
+  date: 2013 - 2018
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
+  dept: School of Mechanics and Engineering Sciences
+  position: Assistant Professor
+  date: 2008 - 2013
