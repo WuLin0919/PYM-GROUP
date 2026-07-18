@@ -1,93 +1,210 @@
-principal_investigator:
-  name: Yongmao Pei
-  name_zh: 裴永茂
-  role: Professor
-  link: https://mech.pku.edu.cn/jzyg/szdw/P/69748cb08f7c48c5b97e93486467b594.htm
+members:
+  - category: Principal Investigator
+    name: Yongmao Pei
+    name_zh: 裴永茂
+    link: https://mech.pku.edu.cn/jzyg/szdw/P/69748cb08f7c48c5b97e93486467b594.htm
+    undergraduate: Tsinghua University
+    doctoral: Tsinghua University
+    degree: Professor
+    period: 2018–Present
 
-doctoral_students:
-- name: Zhao Pengyu
-  name_zh: 赵鹏宇
-  undergraduate: Peking University
-  degree: Ph.D.
-  period: 2022–Present
-  destination:
-- name: Ma Haoyu
-  name_zh: 马皓宇
-  undergraduate: Harbin Institute of Technology
-  degree: Ph.D.
-  period: 2023–Present
-  destination:
-- name: Cui Zhonglin
-  name_zh: 崔忠霖
-  undergraduate: Dalian University of Technology
-  degree: Ph.D.
-  period: 2024–Present
-  destination:
-- name: Wu Lin
-  name_zh: 伍霖
-  link: https://orcid.org/0009-0005-6544-2197
-  undergraduate: Nanjing University of Aeronautics and Astronautics
-  degree: Ph.D.
-  period: 2025–Present
-  destination:
-- name: Jiang Keyi
-  name_zh: 江科杙
-  undergraduate: Chongqing University
-  masters: Peking University
-  degree: Ph.D.
-  period: 2025–Present
-  destination:
-- name: Ji Jinyu
-  name_zh: 冀锦羽
-  undergraduate: Nanjing University of Aeronautics and Astronautics
-  degree: Ph.D.
-  period: 2021–2026
-  destination:
-- name: Xiang Xingyu
-  name_zh: 向星宇
-  undergraduate: Southwest Jiaotong University
-  degree: Ph.D.
-  period: 2022–Present
-  destination:
-- name: Ma Haojie
-  name_zh: 马豪杰
-  undergraduate: Hunan University
-  degree: Ph.D.
-  period: 2022–Present
-  destination:
-- name: Chen Junwei
-  name_zh: 陈俊炜
-  undergraduate: Dalian University of Technology
-  degree: Ph.D.
-  period: 2023–Present
-  destination:
-- name: Li Junpeng
-  name_zh: 李俊鹏
-  undergraduate: Southwest Jiaotong University
-  degree: Ph.D.
-  period: 2023–Present
-  destination:
-- name: Yang Bingzhen
-  name_zh: 杨秉臻
-  undergraduate: Nanjing University of Aeronautics and Astronautics
-  degree: Ph.D.
-  period: 2024–Present
-  destination:
+  - category: Current Graduate Student
+    name: Ji Jinyu
+    name_zh: 冀锦羽
+    undergraduate: Nanjing University of Aeronautics and Astronautics
+    degree: Direct Ph.D.
+    period: 2021–Present
+  - category: Current Graduate Student
+    name: Zhao Pengyu
+    name_zh: 赵鹏宇
+    link: https://orcid.org/0000-0002-3994-5808
+    undergraduate: Peking University
+    degree: Direct Ph.D.
+    period: 2022–Present
+  - category: Current Graduate Student
+    name: Xiang Xingyu
+    name_zh: 向星宇
+    undergraduate: Southwest Jiaotong University
+    degree: Direct Ph.D.
+    period: 2022–Present
+  - category: Current Graduate Student
+    name: Ma Haojie
+    name_zh: 马豪杰
+    undergraduate: Hunan University
+    degree: Direct Ph.D.
+    period: 2022–Present
+  - category: Current Graduate Student
+    name: Ma Haoyu
+    name_zh: 马皓宇
+    undergraduate: Harbin Institute of Technology
+    degree: Direct Ph.D.
+    period: 2023–Present
+  - category: Current Graduate Student
+    name: Chen Junwei
+    name_zh: 陈俊炜
+    undergraduate: Dalian University of Technology
+    degree: Direct Ph.D.
+    period: 2023–Present
+  - category: Current Graduate Student
+    name: Li Junpeng
+    name_zh: 李俊鹏
+    undergraduate: Southwest Jiaotong University
+    degree: Direct Ph.D.
+    period: 2023–Present
+  - category: Current Graduate Student
+    name: Cui Zhonglin
+    name_zh: 崔忠霖
+    undergraduate: Dalian University of Technology
+    degree: Direct Ph.D.
+    period: 2024–Present
+  - category: Current Graduate Student
+    name: Yang Bingzhen
+    name_zh: 杨秉臻
+    link: https://orcid.org/0009-0009-6801-6168
+    undergraduate: Nanjing University of Aeronautics and Astronautics
+    degree: Direct Ph.D.
+    period: 2024–Present
+  - category: Current Graduate Student
+    name: Wu Lin
+    name_zh: 伍霖
+    link: https://orcid.org/0009-0005-6544-2197
+    undergraduate: Nanjing University of Aeronautics and Astronautics
+    degree: Direct Ph.D.
+    period: 2025–Present
+  - category: Current Graduate Student
+    name: Jiang Keyi
+    name_zh: 江科杙
+    undergraduate: Chongqing University
+    masters: Institute of Mechanics, Chinese Academy of Sciences
+    degree: Ph.D.
+    period: 2025–Present
 
-postdoctoral_researchers:
-- name: Xu Chunyu
-  name_zh: 许春雨
-  degree: Postdoctoral Researcher
-  period: 2024–Present
-  destination:
-- name: Zhang Lu
-  name_zh: 张路
-  degree: Postdoctoral Researcher
-  period: 2024–Present
-  destination:
-- name: Deng Jianqiang
-  name_zh: 邓健强
-  masters: Taiyuan University of Technology
-  degree: Postdoctoral Researcher
-  period: 2026–Present
-  destination:
+  - category: Current Postdoctoral Researcher
+    name: Xu Chunyu
+    name_zh: 许春雨
+    link: https://orcid.org/0009-0009-4459-3809
+    doctoral: Beijing University of Science and Technology
+    degree: Postdoctoral Researcher
+    period: 2024–Present
+  - category: Current Postdoctoral Researcher
+    name: Zhang Lu
+    name_zh: 张路
+    doctoral: Nanjing University of Aeronautics and Astronautics
+    degree: Postdoctoral Researcher
+    period: 2024–Present
+  - category: Current Postdoctoral Researcher
+    name: Deng Jianqiang
+    name_zh: 邓健强
+    doctoral: Chongqing University
+    degree: Postdoctoral Researcher
+    period: 2026–Present
+
+  - category: Ph.D. Graduate
+    name: Li Hangyu
+    name_zh: 李航宇
+    link: https://orcid.org/0000-0003-4721-1780
+    undergraduate: University of Science and Technology of China
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2025
+    destination: Huawei
+  - category: Ph.D. Graduate
+    name: Xu Duo
+    name_zh: 许多
+    undergraduate: Hunan University
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Li Jianqing
+    name_zh: 李鉴卿
+    undergraduate: Nanjing University of Aeronautics and Astronautics
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Liu Peng
+    name_zh: 刘鹏
+    undergraduate: Dalian University of Technology
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Zhou Zhitao
+    name_zh: 周志涛
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Hou Zewei
+    name_zh: 侯泽伟
+    undergraduate: Huazhong University of Science and Technology
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Lü Zengyao
+    name_zh: 吕增耀
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Wang Peiyu
+    name_zh: 王培育
+    undergraduate: Wuhan University
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+  - category: Ph.D. Graduate
+    name: Ding Yuanshuai
+    name_zh: 丁元帅
+    link: https://orcid.org/0000-0002-5003-0705
+    undergraduate: Nanjing University of Aeronautics and Astronautics
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2020–2026
+    destination: Postdoctoral Researcher
+
+  - category: Former Postdoctoral Researcher
+    name: Liu Jiaqiong
+    name_zh: 刘佳琼
+    doctoral: Hunan University
+    degree: Postdoctoral Researcher
+    period: 2020–2026
+  - category: Former Postdoctoral Researcher
+    name: Yang Chen
+    name_zh: 杨晨
+    doctoral: Nanjing University of Aeronautics and Astronautics
+    degree: Postdoctoral Researcher
+    period: 2020–2026
+  - category: Former Postdoctoral Researcher
+    name: Lin Yuyang
+    name_zh: 林瑜阳
+    link: https://orcid.org/0000-0002-3585-7819
+    doctoral: Nanjing University of Aeronautics and Astronautics
+    degree: Postdoctoral Researcher
+    period: 2020–2026
+  - category: Former Postdoctoral Researcher
+    name: Xu Wangdong
+    name_zh: 许望东
+    degree: Postdoctoral Researcher
+    period: 2020–2026
+  - category: Former Postdoctoral Researcher
+    name: Liu Houchang
+    name_zh: 刘后常
+    doctoral: Chongqing University
+    degree: Postdoctoral Researcher
+    period: 2020–2026
+  - category: Former Postdoctoral Researcher
+    name: Hou Zewei
+    name_zh: 侯泽伟
+    doctoral: Peking University
+    degree: Postdoctoral Researcher
+    period: 2020–2026
