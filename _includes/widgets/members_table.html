@@ -4,7 +4,6 @@
             <tr>
                 <th scope="col">Name</th>
                 <th scope="col">Education</th>
-                <th scope="col">Degree / Position</th>
                 <th scope="col">Period</th>
                 <th scope="col">Destination</th>
             </tr>
@@ -13,10 +12,10 @@
             {% assign current_category = "" %}
             {% for member in include.members %}
             {% if member.category != current_category %}
-            <tr class="member-group-heading">
-                <th colspan="5" scope="colgroup">
+            <tr class="member-group-heading member-group-{{ member.category | slugify }}">
+                <th colspan="4" scope="colgroup">
                     {% case member.category %}
-                    {% when "Current Graduate Student" %}Current Graduate Students
+                    {% when "Current Graduate Student" %}Current Ph.D. Students
                     {% when "Current Postdoctoral Researcher" %}Current Postdoctoral Researchers
                     {% when "Ph.D. Graduate" %}Ph.D. Graduates
                     {% when "Former Postdoctoral Researcher" %}Former Postdoctoral Researchers
@@ -48,7 +47,6 @@
                         {% unless member.undergraduate or member.masters or member.doctoral %}<span class="text-muted">—</span>{% endunless %}
                     {% endif %}
                 </td>
-                <td>{{ member.degree }}</td>
                 <td class="no-break">{{ member.period }}</td>
                 <td>{{ member.destination | default: "—" }}</td>
             </tr>
