@@ -162,6 +162,15 @@ members:
     degree: Ph.D.
     period: 2020–2026
     destination: City University of Hong Kong
+  - category: Ph.D. Graduate
+    name: Zhou Licheng
+    name_zh: 周立成
+    link: https://faculty.scut.edu.cn/tmyjt/zlc1_en/main.htm
+    undergraduate: University of Science and Technology of China
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2010–2015
+    destination: South China University of Technology
 
   - category: Master's Graduate
     name: Xu Wangdong
