@@ -7,57 +7,69 @@ principal_investigator:
 doctoral_students:
 - name: Zhao Pengyu
   name_zh: 赵鹏宇
+  undergraduate: Peking University
   degree: Ph.D.
   period: 2022–Present
   destination:
 - name: Ma Haoyu
   name_zh: 马皓宇
+  undergraduate: Harbin Institute of Technology
   degree: Ph.D.
   period: 2023–Present
   destination:
 - name: Cui Zhonglin
   name_zh: 崔忠霖
+  undergraduate: Dalian University of Technology
   degree: Ph.D.
   period: 2024–Present
   destination:
 - name: Wu Lin
   name_zh: 伍霖
   link: https://orcid.org/0009-0005-6544-2197
+  undergraduate: Nanjing University of Aeronautics and Astronautics
   degree: Ph.D.
   period: 2025–Present
   destination:
 - name: Jiang Keyi
   name_zh: 江科杙
+  undergraduate: Chongqing University
+  masters: Peking University
   degree: Ph.D.
   period: 2025–Present
   destination:
 - name: Ji Jinyu
   name_zh: 冀锦羽
+  undergraduate: Nanjing University of Aeronautics and Astronautics
   degree: Ph.D.
   period: 2021–2026
   destination:
 - name: Xiang Xingyu
   name_zh: 向星宇
+  undergraduate: Southwest Jiaotong University
   degree: Ph.D.
   period: 2022–Present
   destination:
 - name: Ma Haojie
   name_zh: 马豪杰
+  undergraduate: Hunan University
   degree: Ph.D.
   period: 2022–Present
   destination:
 - name: Chen Junwei
   name_zh: 陈俊炜
+  undergraduate: Dalian University of Technology
   degree: Ph.D.
   period: 2023–Present
   destination:
 - name: Li Junpeng
   name_zh: 李俊鹏
+  undergraduate: Southwest Jiaotong University
   degree: Ph.D.
   period: 2023–Present
   destination:
 - name: Yang Bingzhen
   name_zh: 杨秉臻
+  undergraduate: Nanjing University of Aeronautics and Astronautics
   degree: Ph.D.
   period: 2024–Present
   destination:
@@ -75,6 +87,7 @@ postdoctoral_researchers:
   destination:
 - name: Deng Jianqiang
   name_zh: 邓健强
+  masters: Taiyuan University of Technology
   degree: Postdoctoral Researcher
   period: 2026–Present
   destination:

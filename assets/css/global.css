@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .member-table {
-    min-width: 650px;
+    min-width: 920px;
 }
 
 .member-table th {
@@ -108,6 +108,10 @@ h1, h2, h3, h4, h5, h6,
 
 .member-name {
     font-weight: 500;
+}
+
+.member-education {
+    min-width: 230px;
 }
 
 .member-link-icon {

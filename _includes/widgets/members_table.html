@@ -5,6 +5,7 @@
             <thead>
                 <tr>
                     <th scope="col">Name</th>
+                    <th scope="col">Previous Education</th>
                     <th scope="col">Degree / Position</th>
                     <th scope="col">Period</th>
                     <th scope="col">Destination</th>
@@ -24,6 +25,10 @@
                         {{ member.name }}
                         {% if member.name_zh %}<span lang="zh">({{ member.name_zh }})</span>{% endif %}
                         {% endif %}
+                    </td>
+                    <td class="member-education">
+                        {% if member.undergraduate %}<div><span class="text-muted">B.S.:</span> {{ member.undergraduate }}</div>{% endif %}
+                        {% if member.masters %}<div><span class="text-muted">M.S.:</span> {{ member.masters }}</div>{% endif %}
                     </td>
                     <td>{{ member.degree }}</td>
                     <td class="no-break">{{ member.period }}</td>

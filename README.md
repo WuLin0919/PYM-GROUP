@@ -6,7 +6,7 @@ This repository contains the Jekyll source for the PYM Group academic website.
 
 - Personal profile, education, experience, awards, and service: `_data/profile.yml`
 - Homepage settings and publication display limit: `_data/site_settings.yml`
-- Group member names, links, periods, and destinations: `_data/members.yml`
+- Group member names, links, previous education, periods, and destinations: `_data/members.yml`
 - Publications displayed on the homepage: `_data/publications.yml`
 - Profile card: `_includes/widgets/profile_card.html`
 - Profile biography: `_includes/widgets/profile_bio_card.html`
