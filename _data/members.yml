@@ -148,6 +148,7 @@ members:
   - category: Ph.D. Graduate
     name: Zhou Zhitao
     name_zh: 周志涛
+    undergraduate: Wuhan University
     doctoral: Peking University
     degree: Ph.D.
     period: 2017–2022
@@ -169,6 +170,7 @@ members:
   - category: Ph.D. Graduate
     name: Lü Zengyao
     name_zh: 吕增耀
+    undergraduate: Hunan University
     doctoral: Peking University
     degree: Ph.D.
     period: 2015–2020
@@ -183,6 +185,7 @@ members:
   - category: Ph.D. Graduate
     name: Chen Xing
     name_zh: 陈兴
+    undergraduate: Harbin Engineering University
     doctoral: Peking University
     degree: Ph.D.
     period: 2012–2017
@@ -199,6 +202,7 @@ members:
   - category: Master's Graduate
     name: Xu Wangdong
     name_zh: 许望东
+    undergraduate: Huazhong University of Science and Technology
     degree: M.S.
     period: 2019–2022
     destination: Selected Graduate, Guizhou Province
@@ -210,6 +214,7 @@ members:
   - category: Master's Graduate
     name: Zhang Xiaoyu
     name_zh: 张晓语
+    undergraduate: China University of Mining and Technology-Beijing
     degree: M.S.
     period: 2011–2014
 
