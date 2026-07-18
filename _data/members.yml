@@ -82,6 +82,18 @@ members:
     doctoral: Chongqing University
     degree: Postdoctoral Researcher
     period: 2026–Present
+  - category: Current Postdoctoral Researcher
+    name: Liu Guohao
+    name_zh: 刘国浩
+    doctoral: Beijing Institute of Technology
+    degree: Postdoctoral Researcher
+    period: 2026–2028
+  - category: Current Postdoctoral Researcher
+    name: Gong Yi
+    name_zh: 龚乙
+    doctoral: Huazhong University of Science and Technology
+    degree: Postdoctoral Researcher
+    period: 2026–2028
 
   - category: Ph.D. Graduate
     name: Ji Jinyu
@@ -159,6 +171,15 @@ members:
     degree: Ph.D.
     period: 2020–2026
     destination: City University of Hong Kong
+  - category: Ph.D. Graduate
+    name: Lü Yanfang
+    name_zh: 吕艳芳
+    undergraduate: Ningbo University
+    masters: Harbin Engineering University
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2026
+    destination: Beijing Institute of Technology
   - category: Ph.D. Graduate
     name: Zhou Licheng
     name_zh: 周立成
