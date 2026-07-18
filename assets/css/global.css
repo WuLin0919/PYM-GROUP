@@ -77,12 +77,17 @@ h1, h2, h3, h4, h5, h6,
 
 .member-table-wrap {
     width: 100%;
+    max-width: 100%;
     overflow-x: hidden;
 }
 
 .member-table {
     width: 100%;
+    max-width: 100%;
     min-width: 0;
+    margin-right: 0;
+    margin-left: 0;
+    box-sizing: border-box;
     table-layout: fixed;
 }
 
@@ -99,10 +104,10 @@ h1, h2, h3, h4, h5, h6,
     overflow-wrap: anywhere;
 }
 
-.member-table th:nth-child(1) { width: 21%; }
-.member-table th:nth-child(2) { width: 37%; }
-.member-table th:nth-child(3) { width: 17%; }
-.member-table th:nth-child(4) { width: 25%; }
+.member-table thead th:nth-child(1) { width: 21%; }
+.member-table thead th:nth-child(2) { width: 37%; }
+.member-table thead th:nth-child(3) { width: 17%; }
+.member-table thead th:nth-child(4) { width: 25%; }
 
 .member-table .no-break {
     white-space: normal;
