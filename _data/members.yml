@@ -157,6 +157,13 @@ members:
     period: 2020–2026
     destination: City University of Hong Kong
 
+  - category: Master's Graduate
+    name: Xu Wangdong
+    name_zh: 许望东
+    degree: M.S.
+    period: 2020–2026
+    destination: Selected Graduate, Guizhou Province
+
   - category: Former Postdoctoral Researcher
     name: Xu Chunyu
     name_zh: 许春雨
@@ -189,12 +196,6 @@ members:
     degree: Postdoctoral Researcher
     period: 2020–2026
     destination: Huaqiao University
-  - category: Former Postdoctoral Researcher
-    name: Xu Wangdong
-    name_zh: 许望东
-    degree: Postdoctoral Researcher
-    period: 2020–2026
-    destination: Selected Graduate, Guizhou Province
   - category: Former Postdoctoral Researcher
     name: Liu Houchang
     name_zh: 刘后常

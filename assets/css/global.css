@@ -75,8 +75,15 @@ h1, h2, h3, h4, h5, h6,
     background-color: #ffddb3;
 }
 
+.member-table-wrap {
+    width: 100%;
+    overflow-x: hidden;
+}
+
 .member-table {
-    min-width: 820px;
+    width: 100%;
+    min-width: 0;
+    table-layout: fixed;
 }
 
 .member-table th {
@@ -89,43 +96,54 @@ h1, h2, h3, h4, h5, h6,
 .member-table th {
     padding: 0.4rem 0.55rem;
     vertical-align: middle;
+    overflow-wrap: anywhere;
+}
+
+.member-table th:nth-child(1) { width: 21%; }
+.member-table th:nth-child(2) { width: 37%; }
+.member-table th:nth-child(3) { width: 17%; }
+.member-table th:nth-child(4) { width: 25%; }
+
+.member-table .no-break {
+    white-space: normal;
 }
 
 .member-name {
     font-weight: 500;
-    min-width: 170px;
 }
 
-.member-education {
-    min-width: 300px;
-}
-
-.member-group-heading th {
-    padding-top: 0.7rem;
-    padding-bottom: 0.7rem;
+.member-table .member-group-heading > th {
+    padding-top: 0.85rem;
+    padding-bottom: 0.85rem;
     color: #263746;
     background-color: #f7f9fb;
-    font-size: 1.02rem;
+    font-size: 1.25rem;
     font-weight: 700;
-    text-align: center;
+    line-height: 1.25;
+    text-align: center !important;
 }
 
-.member-group-current-graduate-student th {
-    color: #174a7e;
-    background-color: #eaf3ff;
+.member-table .member-group-current-graduate-student > th {
+    color: #1e3a8a;
+    background-color: #dbeafe;
 }
 
-.member-group-current-postdoctoral-researcher th {
-    color: #146456;
-    background-color: #e8f7f4;
+.member-table .member-group-current-postdoctoral-researcher > th {
+    color: #166534;
+    background-color: #dcfce7;
 }
 
-.member-group-ph-d-graduate th {
-    color: #8a4b08;
-    background-color: #fff1df;
+.member-table .member-group-ph-d-graduate > th {
+    color: #9a3412;
+    background-color: #ffedd5;
 }
 
-.member-group-former-postdoctoral-researcher th {
-    color: #604384;
-    background-color: #f2ecfa;
+.member-table .member-group-master-s-graduate > th {
+    color: #854d0e;
+    background-color: #fef9c3;
+}
+
+.member-table .member-group-former-postdoctoral-researcher > th {
+    color: #6b21a8;
+    background-color: #f3e8ff;
 }
