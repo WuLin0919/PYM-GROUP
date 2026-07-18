@@ -2,7 +2,6 @@
     <table class="table table-sm member-table mb-0">
         <thead>
             <tr>
-                <th scope="col">Category</th>
                 <th scope="col">Name</th>
                 <th scope="col">Education</th>
                 <th scope="col">Degree / Position</th>
@@ -11,15 +10,28 @@
             </tr>
         </thead>
         <tbody>
+            {% assign current_category = "" %}
             {% for member in include.members %}
+            {% if member.category != current_category %}
+            <tr class="member-group-heading">
+                <th colspan="5" scope="colgroup">
+                    {% case member.category %}
+                    {% when "Current Graduate Student" %}Current Graduate Students
+                    {% when "Current Postdoctoral Researcher" %}Current Postdoctoral Researchers
+                    {% when "Ph.D. Graduate" %}Ph.D. Graduates
+                    {% when "Former Postdoctoral Researcher" %}Former Postdoctoral Researchers
+                    {% else %}{{ member.category }}
+                    {% endcase %}
+                </th>
+            </tr>
+            {% assign current_category = member.category %}
+            {% endif %}
             <tr class="member-row member-row-{{ member.category | slugify }}">
-                <td class="member-category">{{ member.category }}</td>
                 <td class="member-name">
                     {% if member.link %}
                     <a href="{{ member.link }}" target="_blank" rel="noopener noreferrer">
                         {{ member.name }}
                         {% if member.name_zh %}<span lang="zh">({{ member.name_zh }})</span>{% endif %}
-                        <i class="fas fa-up-right-from-square member-link-icon" aria-hidden="true"></i>
                     </a>
                     {% else %}
                     {{ member.name }}

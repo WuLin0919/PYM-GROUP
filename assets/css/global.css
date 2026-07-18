@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .member-table {
-    min-width: 1180px;
+    min-width: 960px;
 }
 
 .member-table th {
@@ -100,21 +100,12 @@ h1, h2, h3, h4, h5, h6,
     min-width: 300px;
 }
 
-.member-category {
-    min-width: 210px;
-    color: #3f4b57;
-    font-weight: 600;
-}
-
-.member-row-ph-d-graduate .member-category {
-    color: #9a4d00;
-}
-
-.member-row-former-postdoctoral-researcher .member-category {
-    color: #655080;
-}
-
-.member-link-icon {
-    margin-left: 0.2rem;
-    font-size: 0.68em;
+.member-group-heading th {
+    padding-top: 1rem;
+    padding-bottom: 0.45rem;
+    color: #263746;
+    background-color: #f7f9fb;
+    font-size: 1.02rem;
+    font-weight: 700;
+    text-align: left;
 }
