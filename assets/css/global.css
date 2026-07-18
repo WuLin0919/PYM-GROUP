@@ -75,8 +75,25 @@ h1, h2, h3, h4, h5, h6,
     background-color: #ffddb3;
 }
 
+.member-table-wrap {
+    width: 100%;
+    max-width: 100%;
+}
+
 .member-table {
-    min-width: 960px;
+    width: 100%;
+    min-width: 0;
+    table-layout: fixed;
+}
+
+.member-col-name { width: 20%; }
+.member-col-education { width: 35%; }
+.member-col-period { width: 15%; }
+.member-col-destination { width: 30%; }
+
+.member-table .member-cell-content {
+    min-width: 0;
+    overflow-wrap: anywhere;
 }
 
 .member-table th {
@@ -93,11 +110,6 @@ h1, h2, h3, h4, h5, h6,
 
 .member-name {
     font-weight: 500;
-    min-width: 170px;
-}
-
-.member-education {
-    min-width: 300px;
 }
 
 .member-table .member-group-heading > th {
