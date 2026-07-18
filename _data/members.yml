@@ -1,19 +1,4 @@
 members:
-  - category: Principal Investigator
-    name: Yongmao Pei
-    name_zh: 裴永茂
-    link: https://mech.pku.edu.cn/jzyg/szdw/P/69748cb08f7c48c5b97e93486467b594.htm
-    undergraduate: Tsinghua University
-    doctoral: Tsinghua University
-    degree: Professor
-    period: 2018–Present
-
-  - category: Current Graduate Student
-    name: Ji Jinyu
-    name_zh: 冀锦羽
-    undergraduate: Nanjing University of Aeronautics and Astronautics
-    degree: Direct Ph.D.
-    period: 2021–Present
   - category: Current Graduate Student
     name: Zhao Pengyu
     name_zh: 赵鹏宇
@@ -80,13 +65,6 @@ members:
     period: 2025–Present
 
   - category: Current Postdoctoral Researcher
-    name: Xu Chunyu
-    name_zh: 许春雨
-    link: https://orcid.org/0009-0009-4459-3809
-    doctoral: Beijing University of Science and Technology
-    degree: Postdoctoral Researcher
-    period: 2024–Present
-  - category: Current Postdoctoral Researcher
     name: Zhang Lu
     name_zh: 张路
     doctoral: Nanjing University of Aeronautics and Astronautics
@@ -99,6 +77,13 @@ members:
     degree: Postdoctoral Researcher
     period: 2026–Present
 
+  - category: Ph.D. Graduate
+    name: Ji Jinyu
+    name_zh: 冀锦羽
+    undergraduate: Nanjing University of Aeronautics and Astronautics
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2021–2026
   - category: Ph.D. Graduate
     name: Li Hangyu
     name_zh: 李航宇
@@ -146,14 +131,14 @@ members:
     doctoral: Peking University
     degree: Ph.D.
     period: 2020–2026
-    destination: Postdoctoral Researcher
+    destination: Beijing Institute of Technology
   - category: Ph.D. Graduate
     name: Lü Zengyao
     name_zh: 吕增耀
     doctoral: Peking University
     degree: Ph.D.
     period: 2020–2026
-    destination: Postdoctoral Researcher
+    destination: Northwestern University
   - category: Ph.D. Graduate
     name: Wang Peiyu
     name_zh: 王培育
@@ -170,41 +155,59 @@ members:
     doctoral: Peking University
     degree: Ph.D.
     period: 2020–2026
-    destination: Postdoctoral Researcher
+    destination: City University of Hong Kong
 
+  - category: Former Postdoctoral Researcher
+    name: Xu Chunyu
+    name_zh: 许春雨
+    link: https://orcid.org/0009-0009-4459-3809
+    doctoral: University of Science and Technology Beijing
+    degree: Postdoctoral Researcher
+    period: 2024–2026
+    destination: University of Science and Technology Beijing
   - category: Former Postdoctoral Researcher
     name: Liu Jiaqiong
     name_zh: 刘佳琼
+    link: https://jxxy.cqust.edu.cn/info/1034/3709.htm
     doctoral: Hunan University
     degree: Postdoctoral Researcher
     period: 2020–2026
+    destination: Chongqing University of Science and Technology
   - category: Former Postdoctoral Researcher
     name: Yang Chen
     name_zh: 杨晨
+    link: https://feet.jiangnan.edu.cn/info/1078/1560.htm
     doctoral: Nanjing University of Aeronautics and Astronautics
     degree: Postdoctoral Researcher
     period: 2020–2026
+    destination: Jiangnan University
   - category: Former Postdoctoral Researcher
     name: Lin Yuyang
     name_zh: 林瑜阳
-    link: https://orcid.org/0000-0002-3585-7819
+    link: https://faculty.hqu.edu.cn/LinYuyang20113/zh_CN/index.htm
     doctoral: Nanjing University of Aeronautics and Astronautics
     degree: Postdoctoral Researcher
     period: 2020–2026
+    destination: Huaqiao University
   - category: Former Postdoctoral Researcher
     name: Xu Wangdong
     name_zh: 许望东
     degree: Postdoctoral Researcher
     period: 2020–2026
+    destination: Selected Graduate, Guizhou Province
   - category: Former Postdoctoral Researcher
     name: Liu Houchang
     name_zh: 刘后常
+    link: https://ljxy.cumtb.edu.cn/info/1093/5323.htm
     doctoral: Chongqing University
     degree: Postdoctoral Researcher
     period: 2020–2026
+    destination: China University of Mining and Technology-Beijing
   - category: Former Postdoctoral Researcher
     name: Hou Zewei
     name_zh: 侯泽伟
+    link: https://sae.bit.edu.cn/szdw20/szml/lxcx20/fgjzcapypx_3/3d915fe076064e9ea061fbbcf3e740e3.htm
     doctoral: Peking University
     degree: Postdoctoral Researcher
     period: 2020–2026
+    destination: Beijing Institute of Technology

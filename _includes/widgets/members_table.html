@@ -29,8 +29,12 @@
                 <td class="member-education">
                     {% if member.undergraduate %}<div><span class="text-muted">B.S.:</span> {{ member.undergraduate }}</div>{% endif %}
                     {% if member.masters %}<div><span class="text-muted">M.S.:</span> {{ member.masters }}</div>{% endif %}
-                    {% if member.doctoral %}<div><span class="text-muted">Ph.D.:</span> {{ member.doctoral }}</div>{% endif %}
-                    {% unless member.undergraduate or member.masters or member.doctoral %}<span class="text-muted">—</span>{% endunless %}
+                    {% if member.doctoral and member.category != "Ph.D. Graduate" %}<div><span class="text-muted">Ph.D.:</span> {{ member.doctoral }}</div>{% endif %}
+                    {% if member.category == "Ph.D. Graduate" %}
+                        {% unless member.undergraduate or member.masters %}<span class="text-muted">—</span>{% endunless %}
+                    {% else %}
+                        {% unless member.undergraduate or member.masters or member.doctoral %}<span class="text-muted">—</span>{% endunless %}
+                    {% endif %}
                 </td>
                 <td>{{ member.degree }}</td>
                 <td class="no-break">{{ member.period }}</td>
