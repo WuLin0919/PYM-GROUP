@@ -83,17 +83,17 @@ members:
     degree: Postdoctoral Researcher
     period: 2026–Present
   - category: Current Postdoctoral Researcher
-    name: Liu Guohao
-    name_zh: 刘国浩
+    name: Niu Guohao
+    name_zh: 牛国浩
     doctoral: Beijing Institute of Technology
     degree: Postdoctoral Researcher
-    period: 2026–2028
+    period: 2026–Present
   - category: Current Postdoctoral Researcher
     name: Gong Yi
     name_zh: 龚乙
     doctoral: Huazhong University of Science and Technology
     degree: Postdoctoral Researcher
-    period: 2026–2028
+    period: 2026–Present
 
   - category: Ph.D. Graduate
     name: Ji Jinyu
@@ -102,6 +102,23 @@ members:
     doctoral: Peking University
     degree: Ph.D.
     period: 2021–2026
+  - category: Ph.D. Graduate
+    name: Lü Yanfang
+    name_zh: 吕艳芳
+    undergraduate: Ningbo University
+    masters: Harbin Engineering University
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2021–2026
+    destination: Beijing Institute of Technology
+  - category: Ph.D. Graduate
+    name: Xu Duo
+    name_zh: 许多
+    undergraduate: Hunan University
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2025
+    destination: Lund University
   - category: Ph.D. Graduate
     name: Li Hangyu
     name_zh: 李航宇
@@ -112,48 +129,49 @@ members:
     period: 2020–2025
     destination: Huawei
   - category: Ph.D. Graduate
-    name: Xu Duo
-    name_zh: 许多
-    undergraduate: Hunan University
+    name: Ding Yuanshuai
+    name_zh: 丁元帅
+    link: https://orcid.org/0000-0002-5003-0705
+    undergraduate: Nanjing University of Aeronautics and Astronautics
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
-    destination: Lund University
+    period: 2019–2024
+    destination: City University of Hong Kong
   - category: Ph.D. Graduate
     name: Li Jianqing
     name_zh: 李鉴卿
     undergraduate: Nanjing University of Aeronautics and Astronautics
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
+    period: 2018–2023
     destination: Lund University
+  - category: Ph.D. Graduate
+    name: Zhou Zhitao
+    name_zh: 周志涛
+    doctoral: Peking University
+    degree: Ph.D.
+    period: 2017–2022
   - category: Ph.D. Graduate
     name: Liu Peng
     name_zh: 刘鹏
     undergraduate: Dalian University of Technology
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
-  - category: Ph.D. Graduate
-    name: Zhou Zhitao
-    name_zh: 周志涛
-    doctoral: Peking University
-    degree: Ph.D.
-    period: 2020–2026
+    period: 2016–2021
   - category: Ph.D. Graduate
     name: Hou Zewei
     name_zh: 侯泽伟
     undergraduate: Huazhong University of Science and Technology
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
+    period: 2014–2020
     destination: Beijing Institute of Technology
   - category: Ph.D. Graduate
     name: Lü Zengyao
     name_zh: 吕增耀
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
+    period: 2015–2020
     destination: Northwestern University
   - category: Ph.D. Graduate
     name: Wang Peiyu
@@ -161,25 +179,13 @@ members:
     undergraduate: Wuhan University
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
+    period: 2013–2018
   - category: Ph.D. Graduate
-    name: Ding Yuanshuai
-    name_zh: 丁元帅
-    link: https://orcid.org/0000-0002-5003-0705
-    undergraduate: Nanjing University of Aeronautics and Astronautics
+    name: Chen Xing
+    name_zh: 陈兴
     doctoral: Peking University
     degree: Ph.D.
-    period: 2020–2026
-    destination: City University of Hong Kong
-  - category: Ph.D. Graduate
-    name: Lü Yanfang
-    name_zh: 吕艳芳
-    undergraduate: Ningbo University
-    masters: Harbin Engineering University
-    doctoral: Peking University
-    degree: Ph.D.
-    period: 2026
-    destination: Beijing Institute of Technology
+    period: 2012–2017
   - category: Ph.D. Graduate
     name: Zhou Licheng
     name_zh: 周立成
@@ -194,8 +200,18 @@ members:
     name: Xu Wangdong
     name_zh: 许望东
     degree: M.S.
-    period: 2020–2026
+    period: 2019–2022
     destination: Selected Graduate, Guizhou Province
+  - category: Master's Graduate
+    name: Li Yincheng
+    name_zh: 李寅成
+    degree: M.S.
+    period: 2016–2019
+  - category: Master's Graduate
+    name: Zhang Xiaoyu
+    name_zh: 张晓语
+    degree: M.S.
+    period: 2011–2014
 
   - category: Former Postdoctoral Researcher
     name: Xu Chunyu
