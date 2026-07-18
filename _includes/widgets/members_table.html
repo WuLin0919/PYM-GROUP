@@ -11,7 +11,7 @@
                 <th scope="col">Name</th>
                 <th scope="col">Education</th>
                 <th scope="col">Period</th>
-                <th scope="col">Destination</th>
+                <th scope="col">Current Affiliation</th>
             </tr>
         </thead>
         <tbody>
@@ -23,8 +23,8 @@
                     {% case member.category %}
                     {% when "Current Graduate Student" %}Current Ph.D. Students
                     {% when "Current Postdoctoral Researcher" %}Current Postdoctoral Researchers
-                    {% when "Ph.D. Graduate" %}Ph.D. Graduates
-                    {% when "Master's Graduate" %}Master’s Graduates
+                    {% when "Ph.D. Graduate" %}Ph.D. Alumni
+                    {% when "Master's Graduate" %}Master’s Alumni
                     {% when "Former Postdoctoral Researcher" %}Former Postdoctoral Researchers
                     {% else %}{{ member.category }}
                     {% endcase %}
@@ -59,7 +59,7 @@
                     </div>
                 </td>
                 <td class="no-break" data-label="Period"><div class="member-cell-content">{{ member.period }}</div></td>
-                <td data-label="Destination"><div class="member-cell-content">{{ member.destination | default: "—" }}</div></td>
+                <td data-label="Current Affiliation"><div class="member-cell-content">{{ member.destination | default: "—" }}</div></td>
             </tr>
             {% endfor %}
         </tbody>

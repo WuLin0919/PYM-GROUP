@@ -4,7 +4,7 @@ navbar_name: "PYM Group"
 
 positions:
 - name: Professor
-- name: "School of Mechanics & Engineering Science, Peking University"
+- name: "School of Mechanics and Engineering Science, Peking University"
   logo: /assets/images/badges/peking_university.png
 
 email: "peiym@pku.edu.cn"
@@ -17,14 +17,14 @@ wos: https://webofscience.clarivate.cn/wos/author/record/1158548
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Yongmao Pei is a professor at the School of Mechanics & Engineering Science,
+    Yongmao Pei is a professor at the School of Mechanics and Engineering Science,
     Peking University. He received a B.S. in Engineering Mechanics and a Ph.D.
     in Solid Mechanics from Tsinghua University.
   </p>
   <p>
     His research focuses on the mechanics of smart materials and structures,
     the design and characterization of lightweight composites, experimental
-    mechanics and instrumentation, acoustic-tweezer mechanisms and methods,
+    mechanics and instrumentation, the mechanisms and methodologies of acoustic tweezers,
     and the design and fabrication of acoustofluidic microchips.
   </p>
 
@@ -37,47 +37,47 @@ education:
   logo: /assets/images/badges/tsinghua_university.jpg
   dept: Department of Engineering Mechanics
   position: Ph.D. in Solid Mechanics
-  date: Sep. 2002 - Jul. 2007
+  date: Sep. 2002 – Jul. 2007
 - name: Tsinghua University
   logo: /assets/images/badges/tsinghua_university.jpg
   dept: Department of Engineering Mechanics
   position: B.S. in Engineering Mechanics
-  date: Sep. 1998 - Jul. 2002
+  date: Sep. 1998 – Jul. 2002
 
 experience:
 - name: Peking University
   logo: /assets/images/badges/peking_university.png
-  dept: "School of Mechanics & Engineering Science"
+  dept: "School of Mechanics and Engineering Science"
   position: Professor
-  date: Jul. 2018 - present
+  date: Jul. 2018 – Present
 - name: Peking University
   logo: /assets/images/badges/peking_university.png
-  dept: "School of Mechanics & Engineering Science"
+  dept: "School of Mechanics and Engineering Science"
   position: Associate Professor
-  date: Jul. 2013 - Jul. 2018
+  date: Jul. 2013 – Jul. 2018
 - name: Peking University
   logo: /assets/images/badges/peking_university.png
-  dept: "School of Mechanics & Engineering Science"
+  dept: "School of Mechanics and Engineering Science"
   position: Assistant Professor
-  date: Jul. 2009 - Jul. 2013
+  date: Jul. 2009 – Jul. 2013
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/beijing_institute_of_technology.jpg
   dept: School of Aerospace Engineering
   position: Lecturer
-  date: Jul. 2007 - Jul. 2009
+  date: Jul. 2007 – Jul. 2009
 
 awards:
 - name: National Science Fund for Distinguished Young Scholars
   date:
-- name: National Science Fund for Excellent Young Scholars
+- name: Excellent Young Scientists Fund
   date:
-- name: Young Scholar of the Chang Jiang Scholars Program
+- name: Young Scholar, Changjiang Scholars Program
   date:
-- name: Youth Science and Technology Award, Chinese Society of Theoretical and Applied Mechanics
+- name: Youth Science and Technology Award of the Chinese Society of Theoretical and Applied Mechanics
   date:
 - name: Beijing Nova Program
   date:
-- name: Outstanding Doctoral Dissertation Award of China
+- name: National Outstanding Doctoral Dissertation Award
   date: 2009
 - name: First Prize, Technological Invention Award of the Ministry of Education (third-ranked contributor)
   date: 2007
@@ -87,5 +87,5 @@ awards:
 service:
 - name: Council Member, Chinese Society for Composite Materials
 - name: Council Member, Beijing Society of Theoretical and Applied Mechanics
-- name: Deputy Director, Solid Mechanics Committee, Chinese Society of Theoretical and Applied Mechanics
-- name: Committee Member, Experimental Mechanics Committee, Chinese Society of Theoretical and Applied Mechanics
+- name: Vice Chair, Solid Mechanics Committee, Chinese Society of Theoretical and Applied Mechanics
+- name: Member, Experimental Mechanics Committee, Chinese Society of Theoretical and Applied Mechanics
