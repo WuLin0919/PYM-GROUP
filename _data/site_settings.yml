@@ -1,7 +1,6 @@
 homepage:
   show_academic_profile: true
   show_publications: true
-  publication_limit: 186
 
 footer_text: >-
   PYM Group, School of Mechanics and Engineering Science, Peking University

@@ -621,7 +621,7 @@
   pages: "25112"
   doi: "10.1063/1.5009152"
   corresponding: true
-- number: 5
+- number: 3
   date: 2018-01-31
   date_display: "Jan 31"
   title: "High temperature fracture toughness and residual stress in thermal barrier coatings evaluated by an in-situ indentation method"
@@ -640,7 +640,7 @@
   pages: "51-58"
   doi: "10.1016/j.eml.2018.01.007"
   corresponding: true
-- number: 3
+- number: 5
   date: 2018-01-31
   date_display: "Jan 31"
   title: "Lightweight composite lattice cylindrical shells with novel character of tailorable thermal expansion"
@@ -1346,7 +1346,7 @@
   issue: "1-2"
   pages: "35-43"
   doi: "10.1007/s10704-012-9767-2"
-- number: 12
+- number: 11
   date: 2012-10-04
   date_display: "Oct 04"
   title: "Effect of aggregate distribution and shape on failure behavior of polyurethane polymer concrete under tension"
@@ -1354,7 +1354,7 @@
   volume: "67"
   pages: "133-139"
   doi: "10.1016/j.commatsci.2012.08.029"
-- number: 11
+- number: 12
   date: 2012-10-04
   date_display: "Oct 04"
   title: "On the elastic and creep stress analysis modeling in the oxide scale/metal substrate system due to oxidation growth strain"
@@ -1392,7 +1392,7 @@
   pages: "3377-3381"
   doi: "10.1016/j.physb.2012.04.041"
   corresponding: true
-- number: 7
+- number: 6
   date: 2012-08-10
   date_display: "Aug 10"
   title: "Design for broadband High-Temperature radome wall with graded porous structure"
@@ -1402,7 +1402,7 @@
   pages: "1956-1963"
   doi: "10.2514/1.J051477"
   corresponding: true
-- number: 6
+- number: 7
   date: 2012-08-10
   date_display: "Aug 10"
   title: "External uniform electric field removing the flexoelectric effect in epitaxial ferroelectric thin films"
@@ -1501,7 +1501,7 @@
   pages: "842-846"
   doi: "10.1166/jctn.2011.1761"
   corresponding: true
-- number: 4
+- number: 3
   date: 2010-08-01
   date_display: "Aug 01"
   title: "Computational method for microwave absorbing structures with 2-D kagome lattice grids"
@@ -1510,7 +1510,7 @@
   issue: "3-4"
   pages: "1691-1694"
   doi: "10.3233/JAE-2010-1302"
-- number: 3
+- number: 4
   date: 2010-08-01
   date_display: "Aug 01"
   title: "A magnetoelastic model of nonlinear behaviors of Tb-Dy-Fe alloys based on domain rotation"
@@ -1585,14 +1585,14 @@
   pages: "2783-2787"
   doi: "10.1016/j.jmmm.2009.04.010"
   first_author: true
-- number: 2
+- number: 1
   date: 2009-01-01
   date_display: "2009"
   title: "Deformation and fracture of electromagnetosolid materials and structures"
   journal: "APPLIED ELECTROMAGNETICS AND MECHANICS (II)"
   volume: "13"
   pages: "9-11"
-- number: 1
+- number: 2
   date: 2009-01-01
   date_display: "2009"
   title: "A magnetoelastic model of nonlinear behaviors of Tb-Dy-Fe alloys based on domain rotation"

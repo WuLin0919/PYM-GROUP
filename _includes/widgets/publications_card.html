@@ -1,4 +1,4 @@
-{% assign publications_by_year = site.data.publications | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign publications_by_year = site.data.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray">

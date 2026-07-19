@@ -1,0 +1,12 @@
+- number: 1
+  date: 2026-01-15
+  date_display: "Jan 15"
+  title: "Article title in sentence case while preserving abbreviations"
+  journal: "Official Journal Title"
+  volume: "1"
+  issue: "1"
+  pages: "1–10"
+  doi: "10.xxxx/xxxxx"
+  first_author: true
+  corresponding: true
+

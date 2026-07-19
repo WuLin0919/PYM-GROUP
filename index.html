@@ -22,7 +22,7 @@ navbar_title: Home
         {% if site.data.site_settings.homepage.show_publications %}
             {% assign publication_count = site.data.publications | size %}
             {% if publication_count > 0 %}
-                {% include widgets/publications_card.html limit=site.data.site_settings.homepage.publication_limit %}
+                {% include widgets/publications_card.html %}
             {% endif %}
         {% endif %}
 

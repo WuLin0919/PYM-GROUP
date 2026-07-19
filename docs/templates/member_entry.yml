@@ -1,0 +1,53 @@
+# Copy only the block that matches the member category.
+
+# Current Ph.D. student
+- category: Current Graduate Student
+  name: English Name
+  name_zh: 中文姓名
+  link: https://orcid.org/xxxx-xxxx-xxxx-xxxx
+  undergraduate: Official English Name of University
+  masters: Official English Name of University
+  degree: Ph.D.
+  period: 2026–Present
+
+# Current postdoctoral researcher
+- category: Current Postdoctoral Researcher
+  name: English Name
+  name_zh: 中文姓名
+  link: https://example.com/profile
+  doctoral: Official English Name of University
+  degree: Postdoctoral Researcher
+  period: 2026–Present
+
+# Ph.D. alumnus/alumna
+- category: Ph.D. Graduate
+  name: English Name
+  name_zh: 中文姓名
+  link: https://example.com/profile
+  undergraduate: Official English Name of University
+  masters: Official English Name of University
+  doctoral: Peking University
+  degree: Ph.D.
+  period: 2021–2026
+  destination: Official English Name of Current Affiliation
+
+# Master's alumnus/alumna
+- category: Master's Graduate
+  name: English Name
+  name_zh: 中文姓名
+  link: https://example.com/profile
+  undergraduate: Official English Name of University
+  degree: M.S.
+  period: 2023–2026
+  destination: Official English Name of Current Affiliation
+
+# Former postdoctoral researcher
+- category: Former Postdoctoral Researcher
+  name: English Name
+  name_zh: 中文姓名
+  link: https://example.com/profile
+  doctoral: Official English Name of University
+  degree: Postdoctoral Researcher
+  period: 2024–2026
+  destination: Official English Name of Current Affiliation
+
