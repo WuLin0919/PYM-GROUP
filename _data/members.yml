@@ -21,6 +21,7 @@ members:
   - category: Current Graduate Student
     name: Ma Haoyu
     name_zh: 马皓宇
+    link: https://www.researchgate.net/profile/Ma-Haoyu
     undergraduate: Harbin Institute of Technology
     degree: Ph.D.
     period: 2023–Present
@@ -39,6 +40,7 @@ members:
   - category: Current Graduate Student
     name: Cui Zhonglin
     name_zh: 崔忠霖
+    link: https://www.researchgate.net/profile/Zhonglin-Cui
     undergraduate: Dalian University of Technology
     degree: Ph.D.
     period: 2024–Present
@@ -98,6 +100,7 @@ members:
   - category: Ph.D. Graduate
     name: Ji Jinyu
     name_zh: 冀锦羽
+    link: https://www.researchgate.net/profile/Jinyu-Ji-2
     undergraduate: Nanjing University of Aeronautics and Astronautics
     doctoral: Peking University
     degree: Ph.D.
@@ -140,6 +143,7 @@ members:
   - category: Ph.D. Graduate
     name: Li Jianqing
     name_zh: 李鉴卿
+    link: https://www.researchgate.net/profile/Jianqing-Li-7
     undergraduate: Nanjing University of Aeronautics and Astronautics
     doctoral: Peking University
     degree: Ph.D.
@@ -148,6 +152,7 @@ members:
   - category: Ph.D. Graduate
     name: Zhou Zhitao
     name_zh: 周志涛
+    link: https://www.researchgate.net/profile/Zhitao-Zhou-3
     undergraduate: Wuhan University
     doctoral: Peking University
     degree: Ph.D.
@@ -156,6 +161,7 @@ members:
   - category: Ph.D. Graduate
     name: Liu Peng
     name_zh: 刘鹏
+    link: https://www.researchgate.net/profile/Peng_Liu176
     undergraduate: Dalian University of Technology
     doctoral: Peking University
     degree: Ph.D.
@@ -164,6 +170,7 @@ members:
   - category: Ph.D. Graduate
     name: Hou Zewei
     name_zh: 侯泽伟
+    link: https://www.researchgate.net/profile/Zewei-Hou
     undergraduate: Huazhong University of Science and Technology
     doctoral: Peking University
     degree: Ph.D.
@@ -172,6 +179,7 @@ members:
   - category: Ph.D. Graduate
     name: Lü Zengyao
     name_zh: 吕增耀
+    link: https://www.researchgate.net/profile/Zengyao-Lv
     undergraduate: Hunan University
     doctoral: Peking University
     degree: Ph.D.
@@ -180,6 +188,7 @@ members:
   - category: Ph.D. Graduate
     name: Wang Peiyu
     name_zh: 王培育
+    link: https://www.researchgate.net/profile/Peiyu-Wang-4
     undergraduate: Wuhan University
     doctoral: Peking University
     degree: Ph.D.
@@ -187,6 +196,7 @@ members:
   - category: Ph.D. Graduate
     name: Chen Xing
     name_zh: 陈兴
+    link: https://www.researchgate.net/profile/Xing-Chen-57
     undergraduate: Harbin Engineering University
     doctoral: Peking University
     degree: Ph.D.
@@ -233,7 +243,6 @@ members:
   - category: Former Postdoctoral Researcher
     name: Liu Jiaqiong
     name_zh: 刘佳琼
-    link: https://jxxy.cqust.edu.cn/info/1034/3709.htm
     doctoral: Chongqing University
     degree: Postdoctoral Researcher
     period: 2023–2025
