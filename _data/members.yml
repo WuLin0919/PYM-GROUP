@@ -15,6 +15,7 @@ members:
   - category: Current Graduate Student
     name: Ma Haojie
     name_zh: 马豪杰
+    link: https://www.researchgate.net/profile/Ma-Haojie-2
     undergraduate: Hunan University
     degree: Ph.D.
     period: 2022–Present
@@ -61,6 +62,7 @@ members:
   - category: Current Graduate Student
     name: Jiang Keyi
     name_zh: 江科杙
+    link: https://webofscience.clarivate.cn/wos/author/record/93979423
     undergraduate: Chongqing University
     masters: Institute of Mechanics, Chinese Academy of Sciences
     degree: Ph.D.
@@ -68,6 +70,7 @@ members:
   - category: Current Graduate Student
     name: Song Caiguang
     name_zh: 宋才广
+    link: https://webofscience.clarivate.cn/wos/author/record/83599976
     undergraduate: Nanjing University of Aeronautics and Astronautics
     degree: Ph.D.
     period: 2026–Present
@@ -245,6 +248,7 @@ members:
   - category: Former Postdoctoral Researcher
     name: Liu Jiaqiong
     name_zh: 刘佳琼
+    link: https://www.researchgate.net/profile/Jiaqiong-Liu
     doctoral: Chongqing University
     degree: Postdoctoral Researcher
     period: 2023–2025
@@ -252,6 +256,7 @@ members:
   - category: Former Postdoctoral Researcher
     name: Yang Chen
     name_zh: 杨晨
+    link: https://feet.jiangnan.edu.cn/info/1078/1560.htm
     doctoral: Nanjing University of Aeronautics and Astronautics
     degree: Postdoctoral Researcher
     period: 2023–2025
@@ -259,6 +264,7 @@ members:
   - category: Former Postdoctoral Researcher
     name: Lin Yuyang
     name_zh: 林瑜阳
+    link: https://www.researchgate.net/profile/Lin-Yuyang
     doctoral: Nanjing University of Aeronautics and Astronautics
     degree: Postdoctoral Researcher
     period: 2022–2024
@@ -266,6 +272,7 @@ members:
   - category: Former Postdoctoral Researcher
     name: Liu Houchang
     name_zh: 刘后常
+    link: https://www.researchgate.net/profile/Houchang-Liu
     doctoral: Chongqing University
     degree: Postdoctoral Researcher
     period: 2022–2025
