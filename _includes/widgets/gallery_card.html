@@ -1,0 +1,28 @@
+{% assign gallery_items = site.data.gallery | sort: "date" | reverse -%}
+
+<section class="gallery-shell bg-white shadow-sm rounded-xl" aria-labelledby="gallery-heading">
+    <header class="gallery-header">
+        <h1 id="gallery-heading" class="gallery-heading">
+            <i class="fas fa-images" aria-hidden="true"></i>
+            Group Gallery
+        </h1>
+        <p class="gallery-intro mb-0">Shared moments and group activities beyond the laboratory.</p>
+    </header>
+
+    <div class="gallery-list">
+        {% for item in gallery_items %}
+        <article class="gallery-item">
+            <img
+                src="{{ item.image | relative_url }}"
+                class="gallery-image"
+                alt="{{ item.alt }}"
+                loading="lazy"
+                decoding="async">
+            <div class="gallery-meta">
+                <time class="gallery-date" datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date_display }}</time>
+                <h2 class="gallery-title">{{ item.title }}</h2>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</section>
