@@ -1,6 +1,6 @@
 # PYM Group Gallery Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [x]`) syntax for tracking.
 
 **Goal:** Add a dedicated, responsive Gallery page that keeps the existing teacher profile card on the left and displays three group activity photos from newest to oldest on the right.
 
@@ -17,13 +17,13 @@
 - Create: `assets/images/gallery/xiangshan-hike-2026-05-09.jpg`
 - Create: `assets/images/gallery/mount-tai-hike-2025-03-29.jpg`
 
-- [ ] **Step 1: Confirm the source files and dimensions**
+- [x] **Step 1: Confirm the source files and dimensions**
 
 Run a Pillow inspection against the three PNG files in the parent directory.
 
 Expected: three images at approximately `5760 × 4320`, each larger than 30 MB.
 
-- [ ] **Step 2: Create optimized JPEG copies**
+- [x] **Step 2: Create optimized JPEG copies**
 
 Use Pillow with EXIF orientation correction, a maximum width of 2400 px, RGB conversion, progressive JPEG output, optimization enabled, and quality 86. Map the source files as follows:
 
@@ -35,11 +35,11 @@ Use Pillow with EXIF orientation correction, a maximum width of 2400 px, RGB con
 
 Do not modify the source PNG files.
 
-- [ ] **Step 3: Verify the generated files**
+- [x] **Step 3: Verify the generated files**
 
 Run a Pillow inspection and verify that all three outputs are JPEG files, no wider than 2400 px, and smaller than their source PNG files.
 
-- [ ] **Step 4: Commit the assets**
+- [x] **Step 4: Commit the assets**
 
 ```powershell
 git add assets/images/gallery
@@ -52,13 +52,13 @@ git commit -m "Add optimized group gallery photos"
 - Create: `_data/gallery.yml`
 - Modify: `_data/navigation.yml`
 
-- [ ] **Step 1: Verify the gallery data does not yet exist**
+- [x] **Step 1: Verify the gallery data does not yet exist**
 
 Run: `Test-Path _data/gallery.yml`
 
 Expected: `False`.
 
-- [ ] **Step 2: Add the three gallery records**
+- [x] **Step 2: Add the three gallery records**
 
 Create `_data/gallery.yml` with these exact fields and reverse-chronological records:
 
@@ -80,7 +80,7 @@ Create `_data/gallery.yml` with these exact fields and reverse-chronological rec
   alt: "PYM Group members during a hiking trip to Mount Tai in Tai’an, Shandong"
 ```
 
-- [ ] **Step 3: Add Gallery after Home in navigation**
+- [x] **Step 3: Add Gallery after Home in navigation**
 
 Update `_data/navigation.yml` to contain:
 
@@ -92,11 +92,11 @@ pages:
   url: /gallery.html
 ```
 
-- [ ] **Step 4: Verify order and dates**
+- [x] **Step 4: Verify order and dates**
 
 Use a PowerShell check to confirm navigation is `Home, Gallery` and gallery dates are `2026-09-20, 2026-05-09, 2025-03-29`.
 
-- [ ] **Step 5: Commit data and navigation**
+- [x] **Step 5: Commit data and navigation**
 
 ```powershell
 git add _data/gallery.yml _data/navigation.yml
@@ -109,25 +109,25 @@ git commit -m "Add gallery content and navigation"
 - Create: `_includes/widgets/gallery_card.html`
 - Create: `gallery.html`
 
-- [ ] **Step 1: Verify the page and renderer do not yet exist**
+- [x] **Step 1: Verify the page and renderer do not yet exist**
 
 Run: `Test-Path gallery.html; Test-Path _includes/widgets/gallery_card.html`
 
 Expected: both values are `False`.
 
-- [ ] **Step 2: Create the gallery renderer**
+- [x] **Step 2: Create the gallery renderer**
 
 Create `_includes/widgets/gallery_card.html` that sorts `site.data.gallery` by `date`, reverses the result, and renders each item as an `<article>` containing a local image, `<h2>` title, and semantic `<time datetime="...">` date.
 
-- [ ] **Step 3: Create the dedicated page**
+- [x] **Step 3: Create the dedicated page**
 
 Create `gallery.html` with front matter `layout: default`, `title: Gallery`, `browser_title: Gallery | PYM Group`, and `navbar_title: Gallery`. Reuse the same left and right Bootstrap column classes as `index.html`, include `widgets/profile_card.html` on the left, and include `widgets/gallery_card.html` on the right.
 
-- [ ] **Step 4: Verify structural requirements**
+- [x] **Step 4: Verify structural requirements**
 
 Confirm `gallery.html` contains the unchanged profile-card include and gallery-card include, and confirm the renderer includes the sort/reverse pipeline plus semantic image and time fields.
 
-- [ ] **Step 5: Commit the page structure**
+- [x] **Step 5: Commit the page structure**
 
 ```powershell
 git add gallery.html _includes/widgets/gallery_card.html
@@ -139,21 +139,21 @@ git commit -m "Add data-driven gallery page"
 **Files:**
 - Modify: `assets/css/global.css`
 
-- [ ] **Step 1: Confirm no gallery-specific styles exist**
+- [x] **Step 1: Confirm no gallery-specific styles exist**
 
 Run: `rg -n "gallery-" assets/css/global.css`
 
 Expected: no matches.
 
-- [ ] **Step 2: Add focused gallery styles**
+- [x] **Step 2: Add focused gallery styles**
 
 Append styles for `.gallery-shell`, `.gallery-item`, `.gallery-image`, `.gallery-meta`, `.gallery-title`, and `.gallery-date`. Use the existing card radius and shadow language, `width: 100%`, `height: auto`, and `display: block` for uncropped responsive images. Add a mobile media query below 576 px that reduces card and heading spacing.
 
-- [ ] **Step 3: Verify overflow protections**
+- [x] **Step 3: Verify overflow protections**
 
 Confirm the CSS contains `max-width: 100%`, `height: auto`, and mobile rules, with no fixed image width or fixed image height.
 
-- [ ] **Step 4: Commit styling**
+- [x] **Step 4: Commit styling**
 
 ```powershell
 git add assets/css/global.css
@@ -166,19 +166,19 @@ git commit -m "Style responsive gallery cards"
 - Modify: `README.md`
 - Modify: `docs/maintenance_guide_zh.md`
 
-- [ ] **Step 1: Add repository pointers**
+- [x] **Step 1: Add repository pointers**
 
 Document `_data/gallery.yml`, `gallery.html`, `_includes/widgets/gallery_card.html`, and `assets/images/gallery/` in the README.
 
-- [ ] **Step 2: Add Chinese maintenance instructions**
+- [x] **Step 2: Add Chinese maintenance instructions**
 
 Add a concise section explaining the four gallery fields, English filenames, reverse-chronological display, source-image preservation, and web-image optimization.
 
-- [ ] **Step 3: Verify documentation references**
+- [x] **Step 3: Verify documentation references**
 
 Run `rg -n "gallery.yml|images/gallery|Gallery" README.md docs/maintenance_guide_zh.md` and confirm both files cover future additions.
 
-- [ ] **Step 4: Commit documentation**
+- [x] **Step 4: Commit documentation**
 
 ```powershell
 git add README.md docs/maintenance_guide_zh.md
@@ -190,18 +190,18 @@ git commit -m "Document gallery maintenance"
 **Files:**
 - Verify all gallery files and existing site files.
 
-- [ ] **Step 1: Run static content checks**
+- [x] **Step 1: Run static content checks**
 
 Use PowerShell assertions to verify three gallery entries, unique local image paths, descending dates, navigation order, page includes, active navbar title, and alt text.
 
-- [ ] **Step 2: Run asset checks**
+- [x] **Step 2: Run asset checks**
 
 Use Pillow to open every referenced image and verify JPEG format, width at most 2400 px, positive dimensions, and file size under 5 MB.
 
-- [ ] **Step 3: Run repository checks**
+- [x] **Step 3: Run repository checks**
 
 Run `git diff --check` and inspect `git status --short`. Do not stage or commit unrelated pre-existing publication changes.
 
-- [ ] **Step 4: Review the final diff against the design**
+- [x] **Step 4: Review the final diff against the design**
 
 Confirm `Home` precedes `Gallery`, the left profile card include is unchanged, the right column contains only the gallery, and the records appear newest to oldest.
