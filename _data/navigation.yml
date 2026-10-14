@@ -1,3 +1,5 @@
 pages:
 - name: Home
   url: /
+- name: Gallery
+  url: /gallery.html
