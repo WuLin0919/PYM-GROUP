@@ -15,6 +15,9 @@ For step-by-step instructions in Chinese, see [`docs/maintenance_guide_zh.md`](d
 - Education, experience, awards, and service card: `_includes/widgets/academic_profile_card.html`
 - Group members: `_includes/widgets/group_members_card.html`
 - Publications card: `_includes/widgets/publications_card.html`
+- Gallery records: `_data/gallery.yml`
+- Gallery page: `gallery.html`
+- Gallery card renderer: `_includes/widgets/gallery_card.html`
 - Navigation: `_data/navigation.yml`
 - Global styles: `assets/css/global.css`
 
@@ -41,6 +44,7 @@ After adding DOI-based records, run `scripts/update_journal_names_from_crossref.
 
 - Website-ready portraits: `assets/images/photos/`
 - Website-ready university logos: `assets/images/badges/`
+- Website-ready gallery photos: `assets/images/gallery/`
 - Unmodified local source images: `source_materials/` (excluded from the Jekyll build and Git tracking)
 
 ## Local build

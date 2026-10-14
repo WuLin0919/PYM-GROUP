@@ -102,15 +102,36 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\update_journal
 
 该步骤需要联网。执行后应再次检查少数中文期刊、改名期刊及带冒号的期刊名称。
 
-## 4. 图片材料
+## 4. 增加相册照片
+
+网站相册读取 `_data/gallery.yml`，每张照片对应一条记录：
+
+```yaml
+- date: 2026-09-20
+  date_display: "Sep 20, 2026"
+  title: "Hiking at Beijing Fenghuangling Scenic Area"
+  image: "/assets/images/gallery/fenghuangling-hike-2026-09-20.jpg"
+  alt: "PYM Group members hiking at Beijing Fenghuangling Scenic Area"
+```
+
+- `date` 使用 `YYYY-MM-DD`，页面会自动按日期从新到旧排列。
+- `date_display` 是页面显示的英文日期。
+- `title` 使用简洁、专业的英文活动名称。
+- `image` 指向 `assets/images/gallery/` 中的网页图片。
+- `alt` 使用英文描述照片内容，便于无障碍访问。
+- 图片文件名使用小写英文、数字和连字符，不使用空格或中文。
+- 原始照片保持不变；放入网站前应转换为适合网页加载的 JPEG，建议最长边不超过 2400 px、单张不超过 5 MB。
+
+## 5. 图片材料
 
 - 正式头像：`assets/images/photos/`
 - 正式校徽：`assets/images/badges/`
+- 相册照片：`assets/images/gallery/`
 - 未处理原始图片：`source_materials/`
 
 网页中只引用 `assets/images` 下的正式文件。新增图片时使用简洁的小写英文文件名，单词之间用下划线连接。
 
-## 5. 文件夹说明
+## 6. 文件夹说明
 
 - `_data/`：网站内容数据，日常维护重点
 - `_includes/`：成员、论文、简介等页面模块
@@ -121,7 +142,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\update_journal
 - `archive/`：历史表格、预览图和检查记录，仅用于追溯
 - `docs/`：维护说明和可复制模板
 
-## 6. 修改后的快速检查
+## 7. 修改后的快速检查
 
 1. 确认 YAML 每一层使用空格缩进，不使用 Tab。
 2. 确认英文引号成对，DOI 没有多余空格。
