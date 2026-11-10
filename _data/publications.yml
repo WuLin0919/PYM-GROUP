@@ -1,3 +1,12 @@
+- number: 7
+  date: 2026-11-03
+  date_display: "Nov 03"
+  title: "Fracture and pre-kinking analysis of moving crack in a piezoelectric semiconductor layer"
+  journal: "Applied Mathematical Modelling"
+  volume: "164"
+  pages: "117418"
+  doi: "10.1016/j.apm.2026.117418"
+  corresponding: true
 - number: 6
   date: 2026-10-02
   date_display: "Oct 02"
