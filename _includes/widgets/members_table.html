@@ -45,18 +45,18 @@
                     {{ member.name }}
                     {% if member.name_zh %}<span lang="zh">({{ member.name_zh }})</span>{% endif %}
                     {% endif %}
-                    {% if member.position %}<div class="small text-muted">{{ member.position }}</div>{% endif %}
                     </div>
                 </td>
                 <td class="member-education" data-label="Education">
                     <div class="member-cell-content">
+                    {% if member.position %}<div>{{ member.position }}</div>{% endif %}
                     {% if member.undergraduate %}<div><span class="text-muted">B.S.:</span> {{ member.undergraduate }}</div>{% endif %}
                     {% if member.masters %}<div><span class="text-muted">M.S.:</span> {{ member.masters }}</div>{% endif %}
                     {% if member.doctoral and member.category != "Ph.D. Graduate" %}<div><span class="text-muted">Ph.D.:</span> {{ member.doctoral }}</div>{% endif %}
                     {% if member.category == "Ph.D. Graduate" %}
-                        {% unless member.undergraduate or member.masters %}<span class="text-muted">—</span>{% endunless %}
+                        {% unless member.undergraduate or member.masters or member.position %}<span class="text-muted">—</span>{% endunless %}
                     {% else %}
-                        {% unless member.undergraduate or member.masters or member.doctoral %}<span class="text-muted">—</span>{% endunless %}
+                        {% unless member.undergraduate or member.masters or member.doctoral or member.position %}<span class="text-muted">—</span>{% endunless %}
                     {% endif %}
                     </div>
                 </td>
