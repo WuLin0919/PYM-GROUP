@@ -26,6 +26,7 @@
                     {% when "Ph.D. Graduate" %}Ph.D. Alumni
                     {% when "Master's Graduate" %}Master’s Alumni
                     {% when "Former Postdoctoral Researcher" %}Former Postdoctoral Researchers
+                    {% when "Visiting Scholar" %}Visiting Scholars
                     {% else %}{{ member.category }}
                     {% endcase %}
                 </th>
@@ -44,6 +45,7 @@
                     {{ member.name }}
                     {% if member.name_zh %}<span lang="zh">({{ member.name_zh }})</span>{% endif %}
                     {% endif %}
+                    {% if member.position %}<div class="small text-muted">{{ member.position }}</div>{% endif %}
                     </div>
                 </td>
                 <td class="member-education" data-label="Education">

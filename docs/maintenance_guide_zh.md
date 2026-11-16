@@ -24,6 +24,7 @@
 - `Ph.D. Graduate`：毕业博士
 - `Master's Graduate`：毕业硕士
 - `Former Postdoctoral Researcher`：出站博士后
+- `Visiting Scholar`：访问学者（可用 `position` 填写原单位职称，例如 `Professor`）
 
 同一类别内，现有成员一般按入组年份从早到晚排列；毕业成员一般按毕业年份从近到远排列。
 
