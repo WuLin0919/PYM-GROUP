@@ -59,6 +59,11 @@
 
 ```yaml
 - number: 1
+  authors:
+    - name: "Li H."
+    - name: "Wu L."
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-01-15
   date_display: "Jan 15"
   title: "Article title in sentence case"
@@ -73,6 +78,11 @@
 
 填写规则：
 
+- `authors` 按论文原始顺序填写全部作者，姓名使用“姓 + 名首字母”，例如 `Pei Y.`。
+- 页面最多显示前 10 位作者；超过 10 位时自动加 `et al.`，数据中不要删除其余作者。
+- 作者条目中的 `corresponding: true` 显示上标 `†`，`equal_contribution: true` 显示上标 `*`；只有来源明确确认时才填写。
+- 第一作者与同等贡献含义不同，不要根据论文级别的 `first_author` 推断同等贡献。
+- 论文级别的 `first_author`、`corresponding` 继续用于页眉统计裴永茂的作者身份；作者条目中的标记用于姓名后的上标。
 - `date` 必须使用 `YYYY-MM-DD`，优先采用在线发表日期；没有在线发表日期时使用卷期发表日期。
 - `date_display` 使用英文月份缩写和两位日期，例如 `Jan 05`。
 - 标题使用 sentence case，仅首词、专有名词和缩写保留大写；DOI、Tb、Dy、Fe、Co、GFRP 等缩写不得改写。

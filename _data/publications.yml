@@ -1,4 +1,11 @@
 - number: 7
+  authors:
+    - name: "Zhao X."
+    - name: "Peng K."
+    - name: "Liu J."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-11-03
   date_display: "Nov 03"
   title: "Fracture and pre-kinking analysis of moving crack in a piezoelectric semiconductor layer"
@@ -8,6 +15,14 @@
   doi: "10.1016/j.apm.2026.117418"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Deng J."
+    - name: "Ke L."
+    - name: "Zhang S."
+    - name: "Chen L."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-10-02
   date_display: "Oct 02"
   title: "Crushing behaviors and energy absorption characteristics of a novel tapered and interconnected structure inspired by the barnacle"
@@ -17,6 +32,12 @@
   doi: "10.1016/j.tws.2026.115754"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Jiang K."
+    - name: "Wen J."
+    - name: "Pei Y."
+    - name: "Wei Y."
+      corresponding: true
   date: 2026-05-11
   date_display: "May 11"
   title: "Machine learning based constitutive modeling for thermal-elasto-plasto amorphous polymers"
@@ -25,6 +46,16 @@
   pages: "104725"
   doi: "10.1016/j.ijplas.2026.104725"
 - number: 4
+  authors:
+    - name: "Li Z."
+    - name: "Zhang L."
+    - name: "He Z."
+    - name: "Wang H."
+    - name: "Ding Z."
+    - name: "Wang H."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-04-17
   date_display: "Apr 17"
   title: "Design of Quasi-Zero-Stiffness metamaterials featuring adjustable thermal expansion"
@@ -35,6 +66,14 @@
   doi: "10.3390/ma19081613"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Li H."
+    - name: "Wu L."
+    - name: "Ding Y."
+    - name: "Xu C."
+    - name: "Zhao P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-03-01
   date_display: "Mar 01"
   title: "Spatiotemporal modulation haptic feedback with high spatial resolution and low perceived frequencies"
@@ -45,6 +84,13 @@
   doi: "10.1088/1361-665X/ae5435"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Ma H."
+    - name: "Wang S."
+    - name: "Cui Z."
+    - name: "Wang S."
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-02-01
   date_display: "Feb 01"
   title: "Micromechanical modeling of metal matrix composites with network architectures"
@@ -54,6 +100,14 @@
   doi: "10.1016/j.ijmecsci.2026.111173"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Xu D."
+    - name: "Wu L."
+    - name: "Lin Y."
+    - name: "Xu C."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-01-15
   date_display: "Jan 15"
   title: "Velocity-controlled acoustic tweezers based on beat-frequency modulated surface acoustic waves for programmable particle manipulation"
@@ -63,6 +117,15 @@
   doi: "10.1016/j.eml.2026.102451"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Lyu Y."
+    - name: "Zhang Y."
+    - name: "Gong Z."
+    - name: "Kang X."
+      corresponding: true
+    - name: "Yao W."
+      corresponding: true
+    - name: "Pei Y."
   date: 2025-12-31
   date_display: "Dec 31"
   title: "A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement"
@@ -72,6 +135,12 @@
   pages: "2513663"
   doi: "10.1080/19942060.2025.2513663"
 - number: 10
+  authors:
+    - name: "Xu D."
+    - name: "Wei W."
+    - name: "Lv Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2025-12-04
   date_display: "Dec 04"
   title: "Equivalent fully coupled modeling and experimental validation of high-particle-concentration acoustofluidics"
@@ -82,6 +151,12 @@
   doi: "10.1063/5.0288875"
   corresponding: true
 - number: 9
+  authors:
+    - name: "Xu D."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Qiu W."
+      corresponding: true
   date: 2025-12-02
   date_display: "Dec 02"
   title: "Continuous and tunable droplet splitting using standing-wave acoustofluidics"
@@ -91,6 +166,11 @@
   doi: "10.1039/d5lc00592b"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Ding Y."
+    - name: "Lv Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2025-10-16
   date_display: "Oct 16"
   title: "A Driving-Sensing-Collaboration integration piezoelectric robot"
@@ -101,6 +181,16 @@
   doi: "10.1109/TIE.2025.3591658"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Liu H."
+      corresponding: true
+    - name: "Chen L."
+      corresponding: true
+    - name: "Zhou Y."
+    - name: "Zhang X."
+    - name: "Yu H."
+    - name: "Pei Y."
+      corresponding: true
   date: 2025-07-30
   date_display: "Jul 30"
   title: "Dynamic axial crushing characteristics of thermoplastic composite hierarchical cylindrical structure consisting of Glass-Fiber reinforced polypropylene"
@@ -110,6 +200,17 @@
   doi: "10.1142/S1758825125500681"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Wu J."
+    - name: "Xie H."
+    - name: "Fang C."
+    - name: "Ji C."
+    - name: "Zhang G."
+    - name: "Lin Y."
+    - name: "Pei Y."
+    - name: "Zhan X."
+    - name: "Ma L."
+      corresponding: true
   date: 2025-04-01
   date_display: "Apr 01"
   title: "MWCNT-promoted PEDOT: PSS in polyurethane films: enhancing conductivity and EMI shielding"
@@ -118,6 +219,13 @@
   pages: "106265"
   doi: "10.1016/j.surfin.2025.106265"
 - number: 5
+  authors:
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Lin Y."
+    - name: "Li H."
+    - name: "Fei L."
   date: 2025-03-01
   date_display: "Mar 01"
   title: "Selective particles climbing and precise separation by the tilted vibrational chladni plate"
@@ -127,6 +235,11 @@
   doi: "10.1016/j.ijmecsci.2025.110065"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Li H."
+    - name: "Zhao P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2025-02-15
   date_display: "Feb 15"
   title: "Scattering-compensated single-channel time reversal for highly designable surface haptics"
@@ -136,6 +249,13 @@
   doi: "10.1016/j.ijmecsci.2025.109998"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Liu J."
+    - name: "Yan B."
+      corresponding: true
+    - name: "Gao Y."
+    - name: "Zhang X."
+    - name: "Pei Y."
   date: 2025-02-05
   date_display: "Feb 05"
   title: "Study on characteristics of aeolian vibration of conductor lines considering coupling between conductor motion and vortex excitation"
@@ -145,6 +265,13 @@
   pages: "2550011"
   doi: "10.1142/S1758825125500115"
 - number: 2
+  authors:
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Xu D."
+    - name: "Yu B."
+    - name: "Lin Y."
   date: 2025-02-04
   date_display: "Feb 04"
   title: "Fluid-structure boundary-driven simultaneous standard-inverse chladni patterns for selective particles manipulation"
@@ -155,6 +282,10 @@
   doi: "10.1063/5.0249974"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Ding Y."
+    - name: "Pei Y."
+      corresponding: true
   date: 2025-01-01
   date_display: "Jan 01"
   title: "Design, modeling, and experiment of a 3-DoF miniature plate piezoelectric robot"
@@ -164,6 +295,14 @@
   doi: "10.1109/TRO.2025.3605254"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Liu P."
+    - name: "Li H."
+      corresponding: true
+    - name: "Lv Z."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2024-08-28
   date_display: "Aug 28"
   title: "Adjustable stereo path design method based on pin-sculpture acoustic topological insulator with Z-dislocation defect immunity"
@@ -174,6 +313,12 @@
   doi: "10.1063/5.0213045"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Li J."
+    - name: "Lv Z."
+    - name: "Zhao P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2024-08-15
   date_display: "Aug 15"
   title: "Optimization method to construct multiple acoustic vortices for holograms"
@@ -183,6 +328,14 @@
   doi: "10.1016/j.ijmecsci.2024.109311"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Li H."
+    - name: "Hou Z."
+    - name: "Huang J."
+    - name: "Zhou L."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2024-07-01
   date_display: "Jul 01"
   title: "A patterned vibrotactile method using envelope modulation with high resolution and low perceptual frequency"
@@ -192,6 +345,14 @@
   doi: "10.1016/j.ymssp.2024.111472"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Ding Y."
+    - name: "Lv Z."
+    - name: "Li H."
+    - name: "Lin Y."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
   date: 2024-05-24
   date_display: "May 24"
   title: "Design and evaluation of the traveling wave piezoelectric beam actuators"
@@ -202,6 +363,12 @@
   doi: "10.1007/s10409-024-23523-x"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Hou Z."
+    - name: "Li J."
+    - name: "Xu D."
+    - name: "Pei Y."
+      corresponding: true
   date: 2023-06-01
   date_display: "Jun 01"
   title: "The multi-frequency vibration metastructure for three-dimensional containerless attractor of particles"
@@ -211,6 +378,15 @@
   doi: "10.1016/j.ijmecsci.2023.108175"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Fang D."
+      corresponding: true
+    - name: "Liu B."
+    - name: "Pei Y."
+    - name: "Chen M."
+    - name: "Zhang Y."
+    - name: "Chen H."
+    - name: "Gao R."
   date: 2023-04-07
   date_display: "Apr 07"
   title: "Re-understanding hsue-shen tsien's thoughts on technological sciences"
@@ -220,6 +396,11 @@
   pages: "1156-1164"
   doi: "10.1360/TB-2022-0693"
 - number: 7
+  authors:
+    - name: "Li J."
+    - name: "Zhao P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2022-12-23
   date_display: "Dec 23"
   title: "Holographic optimization method of acoustic radiation force for continuously manipulating a mie particle through a fluid"
@@ -230,6 +411,12 @@
   doi: "10.1103/PhysRevApplied.18.064075"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Liu P."
+    - name: "Li H."
+    - name: "Zhou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2022-05-30
   date_display: "May 30"
   title: "Topological acoustic tweezer and pseudo-spin states of acoustic topological insulators"
@@ -240,6 +427,12 @@
   doi: "10.1063/5.0091755"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Hou Z."
+    - name: "Li J."
+    - name: "Zhou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2022-05-15
   date_display: "May 15"
   title: "Programmable particles patterning by multifrequency excitation radiation force of acoustic resonance modes"
@@ -249,6 +442,11 @@
   doi: "10.1016/j.ijmecsci.2022.107232"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Li H."
+    - name: "Hou Z."
+      corresponding: true
+    - name: "Pei Y."
   date: 2022-05-04
   date_display: "May 04"
   title: "The holographic algorithm and design for propagation of flexural lamb waves and particles manipulation using elastic metasurfaces"
@@ -257,6 +455,15 @@
   pages: "101765"
   doi: "10.1016/j.eml.2022.101765"
 - number: 3
+  authors:
+    - name: "Wu D."
+    - name: "Huang Y."
+    - name: "Zhang Q."
+    - name: "Pei Y."
+    - name: "Zhao Z."
+      corresponding: true
+    - name: "Fang D."
+      corresponding: true
   date: 2022-03-06
   date_display: "Mar 06"
   title: "Initiation of surface wrinkling during photopolymerization"
@@ -265,6 +472,14 @@
   pages: "104838"
   doi: "10.1016/j.jmps.2022.104838"
 - number: 2
+  authors:
+    - name: "Tu R."
+    - name: "Wei N."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Liu Y."
+    - name: "Zhang F."
+    - name: "Zhang D."
   date: 2022-02-28
   date_display: "Feb 28"
   title: "The effect of compression on the void coalescence under strong dynamic loading"
@@ -273,6 +488,12 @@
   pages: "9990161"
   doi: "10.1155/2022/9990161"
 - number: 1
+  authors:
+    - name: "Lü Z."
+    - name: "Ding Y."
+    - name: "Liu P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2022-02-01
   date_display: "Feb 01"
   title: "Acoustic computational metamaterials"
@@ -283,6 +504,11 @@
   doi: "10.1360/TB-2021-0869"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Zhou Z."
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-12-01
   date_display: "Dec 01"
   title: "Reconfigurable particle swarm robotics powered by acoustic vibration tweezer"
@@ -293,6 +519,14 @@
   doi: "10.1089/soro.2020.0050"
   corresponding: true
 - number: 10
+  authors:
+    - name: "Lv Z."
+    - name: "Li J."
+    - name: "Hou Z."
+    - name: "Ding Y."
+    - name: "Xu W."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-11-23
   date_display: "Nov 23"
   title: "Design method and machine learning application of acoustic holographic computational metamaterials"
@@ -303,6 +537,11 @@
   doi: "10.1007/s11431-021-1869-3"
   corresponding: true
 - number: 9
+  authors:
+    - name: "Zhou Z."
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-10-08
   date_display: "Oct 08"
   title: "In-place rotation of particles and time-average vibrational vortex on a chladni plate"
@@ -312,6 +551,12 @@
   doi: "10.1016/j.eml.2021.101493"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Lv Z."
+    - name: "Ding Y."
+    - name: "Li H."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-09-18
   date_display: "Sep 18"
   title: "Implementing fractional fourier transform using SH0 wave computational metamaterials in space domain"
@@ -322,6 +567,12 @@
   doi: "10.1007/s11431-021-1846-x"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Hou Z."
+    - name: "Zhou Z."
+    - name: "Lv Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-09-16
   date_display: "Sep 16"
   title: "Particles separation using the inverse chladni pattern enhanced local brazil nut effect"
@@ -331,6 +582,13 @@
   doi: "10.1016/j.eml.2021.101466"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Lv Z."
+    - name: "Liu P."
+    - name: "Ding Y."
+    - name: "Li H."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-09-06
   date_display: "Sep 06"
   title: "Implementing fractional fourier transform and solving partial differential equations using acoustic computational metamaterials in space domain"
@@ -341,6 +599,16 @@
   doi: "10.1007/s10409-021-01139-2"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Qu Z. L."
+    - name: "Luo S. Y."
+    - name: "Bai H. R."
+    - name: "He R. J."
+    - name: "Cheng X. M."
+      corresponding: true
+    - name: "Pei Y. M."
+      corresponding: true
+    - name: "Fang D. N."
   date: 2021-06-23
   date_display: "Jun 23"
   title: "A modified iosipescu method to study In-Plane shear strength of C/SiC composites at elevated temperatures in air"
@@ -351,6 +619,13 @@
   doi: "10.1007/s11340-021-00716-7"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Wang P."
+      corresponding: true
+    - name: "Zhou L."
+    - name: "Liu G."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-05-13
   date_display: "May 13"
   title: "In situ near-field microwave characterization and quantitative evaluation of phase change inclusion in honeycomb composites"
@@ -360,6 +635,14 @@
   doi: "10.1016/j.ndteint.2021.102469"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Lv Z."
+    - name: "Zhang X."
+    - name: "Zhang H."
+    - name: "Zhou Z."
+    - name: "Xu D."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-04-03
   date_display: "Apr 03"
   title: "Phase-field simulation of magnetic double-hole nanoring and its application in random storage"
@@ -370,6 +653,12 @@
   doi: "10.1080/19475411.2021.1901791"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Xu W. D."
+    - name: "Li Z. C."
+    - name: "Liu P."
+    - name: "Pei Y. M."
+      corresponding: true
   date: 2021-03-30
   date_display: "Mar 30"
   title: "A microwave near-field 3D super-resolution imaging method"
@@ -380,6 +669,12 @@
   doi: "10.1007/s11340-021-00708-7"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Hou Z."
+    - name: "Zhou Z."
+    - name: "Liu P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2021-02-01
   date_display: "Feb 01"
   title: "Robotic trajectories and morphology manipulation of single particle and granular materials by a vibration tweezer"
@@ -390,6 +685,12 @@
   doi: "10.1089/soro.2019.0173"
   corresponding: true
 - number: 12
+  authors:
+    - name: "Li J."
+    - name: "Lv Z."
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-12-25
   date_display: "Dec 25"
   title: "Comparison of balanced direct search and iterative angular spectrum approaches for designing acoustic holography structure"
@@ -399,6 +700,16 @@
   doi: "10.1016/j.apacoust.2020.107848"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Wu D."
+    - name: "Zhao Z."
+    - name: "Wang P."
+    - name: "Pei Y."
+    - name: "Chen H."
+    - name: "Qi H. J."
+      corresponding: true
+    - name: "Fang D."
+      corresponding: true
   date: 2020-10-07
   date_display: "Oct 07"
   title: "Structured interfaces for improving the tensile strength and toughness of Stiff/Highly stretchable polymer hybrids"
@@ -408,6 +719,11 @@
   pages: "2000652"
   doi: "10.1002/admt.202000652"
 - number: 10
+  authors:
+    - name: "Lv Z."
+    - name: "Liu P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-09-28
   date_display: "Sep 28"
   title: "Temporal acoustic wave computational metamaterials"
@@ -418,6 +734,12 @@
   doi: "10.1063/5.0018758"
   corresponding: true
 - number: 9
+  authors:
+    - name: "Lv Z."
+    - name: "Li Z."
+    - name: "Xu W."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-08-24
   date_display: "Aug 24"
   title: "Implementing fractional order fourier transformation and confocal imaging with microwave computational metamaterials"
@@ -428,6 +750,11 @@
   doi: "10.1209/0295-5075/131/24001"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Lv Z."
+    - name: "Ding Y."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-05-29
   date_display: "May 29"
   title: "Temporal differential elastic wave computational metamaterials"
@@ -438,6 +765,12 @@
   doi: "10.1063/5.0003973"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Liu P."
+    - name: "Chen X."
+    - name: "Xu W."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-05-14
   date_display: "May 14"
   title: "Magnetically controlled multifunctional membrane acoustic metasurface"
@@ -447,6 +780,17 @@
   doi: "10.1063/1.5145289"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Weng C."
+    - name: "Xing T."
+    - name: "Jin H."
+    - name: "Wang G."
+    - name: "Dai Z."
+    - name: "Pei Y."
+    - name: "Liu L."
+      corresponding: true
+    - name: "Zhang Z."
+      corresponding: true
   date: 2020-05-03
   date_display: "May 03"
   title: "Mechanically robust ANF/MXene composite films with tunable electromagnetic interference shielding performance"
@@ -455,6 +799,12 @@
   pages: "105927"
   doi: "10.1016/j.compositesa.2020.105927"
 - number: 5
+  authors:
+    - name: "Hou Z."
+    - name: "Zhou Z."
+    - name: "Liu P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-04-08
   date_display: "Apr 08"
   title: "Deformable oscillation of particles patterning by parametric bulk acoustic waves"
@@ -464,6 +814,11 @@
   doi: "10.1016/j.eml.2020.100716"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Lv Z."
+    - name: "Ding Y."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-03-31
   date_display: "Mar 31"
   title: "Acoustic computational metamaterials for dispersion fourier transform in time domain"
@@ -474,6 +829,16 @@
   doi: "10.1063/1.5141057"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Tao Y."
+    - name: "Li W."
+      corresponding: true
+    - name: "Cheng T."
+    - name: "Wang Z."
+      corresponding: true
+    - name: "Chen L."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2020-03-19
   date_display: "Mar 19"
   title: "Out-of-plane dynamic crushing behavior of joint-based hierarchical honeycombs"
@@ -483,6 +848,12 @@
   pages: "1099636220909783"
   doi: "10.1177/1099636220909783"
 - number: 2
+  authors:
+    - name: "Hou Z."
+    - name: "Zhou Z."
+    - name: "Li J."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-03-12
   date_display: "Mar 12"
   title: "The multi -frequency metastructure vibration motor design for dynamic rotary and morphology manipulation of objects"
@@ -492,6 +863,12 @@
   doi: "10.1016/j.eml.2020.100667"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Liu P."
+    - name: "Chen X."
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2020-01-02
   date_display: "Jan 02"
   title: "A magnetically controlled tunable acoustic super-resolution lens"
@@ -502,6 +879,15 @@
   doi: "10.1209/0295-5075/128/24001"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Weng C."
+    - name: "Wang G."
+    - name: "Dai Z."
+    - name: "Pei Y."
+    - name: "Liu L."
+      corresponding: true
+    - name: "Zhang Z."
+      corresponding: true
   date: 2019-12-21
   date_display: "Dec 21"
   title: "Buckled AgNW/MXene hybrid hierarchical sponges for high-performance electromagnetic interference shielding"
@@ -511,6 +897,17 @@
   pages: "22804-22812"
   doi: "10.1039/c9nr07988b"
 - number: 6
+  authors:
+    - name: "Tao Y."
+    - name: "Li W."
+      corresponding: true
+    - name: "Wei K."
+    - name: "Duan S."
+    - name: "Wen W."
+      corresponding: true
+    - name: "Chen L."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2019-11-01
   date_display: "Nov 01"
   title: "Mechanical properties and energy absorption of 3D printed square hierarchical honeycombs under in-plane axial compression"
@@ -519,6 +916,16 @@
   pages: "107219"
   doi: "10.1016/j.compositesb.2019.107219"
 - number: 5
+  authors:
+    - name: "Cheng T."
+      corresponding: true
+    - name: "Wang X."
+    - name: "Zhang R."
+    - name: "Pei Y."
+    - name: "Ai S."
+    - name: "He R."
+    - name: "Fang D."
+    - name: "Yang Y."
   date: 2019-10-21
   date_display: "Oct 21"
   title: "Tensile properties of two-dimensional carbon fiber reinforced silicon carbide composites at temperatures up to 2300 °C"
@@ -528,6 +935,19 @@
   pages: "630-635"
   doi: "10.1016/j.jeurceramsoc.2019.10.030"
 - number: 4
+  authors:
+    - name: "Cheng T."
+      corresponding: true
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Ai S."
+    - name: "He R."
+    - name: "Zhao Y."
+    - name: "Fang D."
+      corresponding: true
+    - name: "Yang Y."
   date: 2019-08-21
   date_display: "Aug 21"
   title: "Tensile properties of two-dimensional carbon fiber reinforced silicon carbide composites at temperatures up to 1800 °C in air"
@@ -537,6 +957,12 @@
   doi: "10.1016/j.eml.2019.100546"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Wang P."
+    - name: "Li Z."
+    - name: "Liu P."
+    - name: "Pei Y."
+      corresponding: true
   date: 2019-07-22
   date_display: "Jul 22"
   title: "Super resolution in depth for microwave imaging"
@@ -547,6 +973,16 @@
   doi: "10.1063/1.5098302"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Cheng T."
+      corresponding: true
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "He R."
+    - name: "Fang D."
+    - name: "Yang Y."
   date: 2019-06-12
   date_display: "Jun 12"
   title: "Flexural properties of carbon-carbon composites at temperatures up to 2600 °C"
@@ -557,6 +993,12 @@
   doi: "10.1088/2053-1591/ab23c9"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Li Z."
+    - name: "Zhou L."
+    - name: "Lei H."
+    - name: "Pei Y."
+      corresponding: true
   date: 2019-03-15
   date_display: "Mar 15"
   title: "Microwave near-field and far-field imaging of composite plate with hat stiffeners"
@@ -566,6 +1008,14 @@
   doi: "10.1016/j.compositesb.2018.10.058"
   corresponding: true
 - number: 13
+  authors:
+    - name: "Wei K."
+    - name: "Peng Y."
+    - name: "Qu Z."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2018-10-01
   date_display: "Oct 01"
   title: "A cellular metastructure incorporating coupled negative thermal expansion and negative poisson's ratio"
@@ -575,6 +1025,12 @@
   doi: "10.1016/j.ijsolstr.2018.06.018"
   corresponding: true
 - number: 12
+  authors:
+    - name: "Wang P."
+    - name: "Li Z."
+    - name: "Zhou L."
+    - name: "Pei Y."
+      corresponding: true
   date: 2018-07-07
   date_display: "Jul 07"
   title: "Microwave nondestructive detection and quantitative evaluation of kissing defects in GFRP laminates"
@@ -584,6 +1040,17 @@
   doi: "10.1016/j.compscitech.2018.04.029"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Wu S."
+    - name: "Zou M."
+    - name: "Li Z."
+    - name: "Chen D."
+      corresponding: true
+    - name: "Zhang H."
+    - name: "Yuan Y."
+    - name: "Pei Y."
+    - name: "Cao A."
+      corresponding: true
   date: 2018-06-07
   date_display: "Jun 07"
   title: "Robust and stable cu nanowire@graphene Core-Shell aerogels for ultraeffective electromagnetic interference shielding"
@@ -593,6 +1060,20 @@
   pages: "1800634"
   doi: "10.1002/smll.201800634"
 - number: 10
+  authors:
+    - name: "Tang J."
+    - name: "Tong Z."
+    - name: "Xia Y."
+    - name: "Liu M."
+    - name: "Lv Z."
+    - name: "Gao Y."
+    - name: "Lu T."
+    - name: "Xie S."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
+    - name: "Wang T. J."
+      corresponding: true
   date: 2018-05-14
   date_display: "May 14"
   title: "Super tough magnetic hydrogels for remotely triggered shape morphing"
@@ -603,6 +1084,11 @@
   doi: "10.1039/c8tb00568k"
   corresponding: true
 - number: 9
+  authors:
+    - name: "Wang P."
+    - name: "Li Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2018-04-16
   date_display: "Apr 16"
   title: "In situ high temperature microwave microscope for nondestructive detection of surface and sub-surface defects"
@@ -613,6 +1099,17 @@
   doi: "10.1364/OE.26.009595"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Zeng Z."
+    - name: "Wang C."
+    - name: "Zhang Y."
+    - name: "Wang P."
+    - name: "Shahabadi S. I. S."
+    - name: "Pei Y."
+    - name: "Chen M."
+      corresponding: true
+    - name: "Lu X."
+      corresponding: true
   date: 2018-03-07
   date_display: "Mar 07"
   title: "Ultralight and highly elastic Graphene/Lignin-Derived carbon nanocomposite aerogels with ultrahigh electromagnetic interference shielding performance"
@@ -622,6 +1119,12 @@
   pages: "8205-8213"
   doi: "10.1021/acsami.7b19427"
 - number: 7
+  authors:
+    - name: "Xu H."
+    - name: "Pei Y."
+    - name: "Li F."
+    - name: "Fang D."
+      corresponding: true
   date: 2018-02-26
   date_display: "Feb 26"
   title: "A multi-scale and multi-field coupling nonlinear constitutive theory for the layered magnetoelectric composites"
@@ -630,6 +1133,18 @@
   pages: "143-157"
   doi: "10.1016/j.jmps.2018.02.016"
 - number: 6
+  authors:
+    - name: "Liu C."
+    - name: "Zhao H."
+      corresponding: true
+    - name: "Ma Z."
+    - name: "Qiao Y."
+    - name: "Hong K."
+    - name: "Ren Z."
+    - name: "Zhang J."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Ren L."
   date: 2018-02-20
   date_display: "Feb 20"
   title: "Novel instrument for characterizing comprehensive physical properties under multi-mechanical loads and multi-physical field coupling conditions"
@@ -640,6 +1155,16 @@
   doi: "10.1063/1.5009152"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Qu Z."
+    - name: "Wei K."
+    - name: "He Q."
+    - name: "He R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Wang S."
+    - name: "Fang D."
   date: 2018-01-31
   date_display: "Jan 31"
   title: "High temperature fracture toughness and residual stress in thermal barrier coatings evaluated by an in-situ indentation method"
@@ -650,6 +1175,15 @@
   doi: "10.1016/j.ceramint.2018.01.230"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Wei K."
+    - name: "Yang Q."
+    - name: "Ling B."
+    - name: "Qu Z."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2018-01-31
   date_display: "Jan 31"
   title: "Design and analysis of lattice cylindrical shells with tailorable axial and radial thermal expansion"
@@ -659,6 +1193,14 @@
   doi: "10.1016/j.eml.2018.01.007"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Wei K."
+    - name: "Peng Y."
+    - name: "Qu Z."
+    - name: "Zhou H."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2018-01-31
   date_display: "Jan 31"
   title: "Lightweight composite lattice cylindrical shells with novel character of tailorable thermal expansion"
@@ -667,6 +1209,13 @@
   pages: "77-85"
   doi: "10.1016/j.ijmecsci.2018.01.017"
 - number: 2
+  authors:
+    - name: "Zhou H."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Wang Y."
+    - name: "Lei H."
   date: 2018-01-03
   date_display: "Jan 03"
   title: "Method to tune electrical impedance of LSMO/PMN-PT by nanocontact"
@@ -677,6 +1226,18 @@
   doi: "10.1088/2053-1591/aa9fd6"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Huan F."
+    - name: "Wang Y."
+    - name: "Wang P."
+    - name: "Ma H."
+    - name: "Chen X."
+    - name: "Cao K."
+    - name: "Pei Y."
+    - name: "Peng J."
+    - name: "Li J."
+    - name: "Zhai M."
+      corresponding: true
   date: 2018-01-01
   date_display: "Jan 01"
   title: "Oxidized multiwall carbon nanotube/silicone foam composites with effective electromagnetic interference shielding and high gamma radiation stability"
@@ -686,6 +1247,13 @@
   pages: "24236-24242"
   doi: "10.1039/c8ra03314e"
 - number: 16
+  authors:
+    - name: "He R."
+    - name: "Qu Z."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2017-12-15
   date_display: "Dec 15"
   title: "High temperature indentation tests of YSZ coatings in air up to 1200 °C"
@@ -695,6 +1263,16 @@
   doi: "10.1016/j.matlet.2017.07.091"
   corresponding: true
 - number: 15
+  authors:
+    - name: "Zeng Z."
+    - name: "Chen M."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Shahabadi S. I. S."
+    - name: "Che B."
+    - name: "Wang P."
+    - name: "Lu X."
+      corresponding: true
   date: 2017-09-20
   date_display: "Sep 20"
   title: "Ultralight and flexible Polyurethane/Silver nanowire nanocomposites with unidirectional pores for highly effective electromagnetic shielding"
@@ -704,6 +1282,17 @@
   pages: "32211-32219"
   doi: "10.1021/acsami.7b07643"
 - number: 14
+  authors:
+    - name: "Zhou L."
+    - name: "Wang P."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zeng A."
+    - name: "Tang L."
+    - name: "Liu Z."
+    - name: "Liu Y."
+    - name: "Jiang Z."
+    - name: "Fang D."
   date: 2017-09-08
   date_display: "Sep 08"
   title: "Design and characterization for dual-band and multi-band A sandwich composite radome walls"
@@ -713,6 +1302,14 @@
   doi: "10.1016/j.compscitech.2017.05.027"
   corresponding: true
 - number: 13
+  authors:
+    - name: "Wei K."
+    - name: "Peng Y."
+    - name: "Wen W."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
+      corresponding: true
   date: 2017-08-30
   date_display: "Aug 30"
   title: "Tailorable thermal expansion of lightweight and robust Dual-Constituent triangular lattice material"
@@ -723,6 +1320,12 @@
   doi: "10.1115/1.4037589"
   corresponding: true
 - number: 12
+  authors:
+    - name: "Chen X."
+    - name: "Liu P."
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2017-08-22
   date_display: "Aug 22"
   title: "Magnetic-control multifunctional acoustic metasurface for reflected wave manipulation at deep subwavelength scale"
@@ -732,6 +1335,15 @@
   doi: "10.1038/s41598-017-09652-w"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Li W."
+    - name: "Chen M."
+    - name: "Zeng Z."
+    - name: "Jin H."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Zhang Z."
+      corresponding: true
   date: 2017-06-16
   date_display: "Jun 16"
   title: "Broadband composite radar absorbing structures with resistive frequency selective surface: optimal design, manufacturing and characterization"
@@ -740,6 +1352,14 @@
   pages: "10-14"
   doi: "10.1016/j.compscitech.2017.03.009"
 - number: 10
+  authors:
+    - name: "Tao Y."
+    - name: "Duan S."
+    - name: "Wen W."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2017-06-01
   date_display: "Jun 01"
   title: "Enhanced out-of-plane crushing strength and energy absorption of in-plane graded honeycombs"
@@ -748,6 +1368,15 @@
   pages: "33-40"
   doi: "10.1016/j.compositesb.2017.03.002"
 - number: 9
+  authors:
+    - name: "Tao Y."
+    - name: "Chen H."
+      corresponding: true
+    - name: "Yao K."
+      corresponding: true
+    - name: "Lei H."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2017-05-15
   date_display: "May 15"
   title: "Experimental and theoretical studies on inter-fiber failure of unidirectional polymer-matrix composites under different strain rates"
@@ -756,6 +1385,15 @@
   pages: "37-46"
   doi: "10.1016/j.ijsolstr.2016.11.014"
 - number: 8
+  authors:
+    - name: "Chen Y."
+    - name: "Ai S."
+    - name: "Tang J."
+    - name: "Pei Y."
+    - name: "Tang L."
+      corresponding: true
+    - name: "Fang D."
+      corresponding: true
   date: 2017-04-18
   date_display: "Apr 18"
   title: "Characterizing the viscoelastic properties of hydrogel thin films by bulge test"
@@ -765,6 +1403,12 @@
   pages: "61005"
   doi: "10.1115/1.4036394"
 - number: 7
+  authors:
+    - name: "Chen X."
+    - name: "Liu P."
+    - name: "Hou Z."
+    - name: "Pei Y."
+      corresponding: true
   date: 2017-04-17
   date_display: "Apr 17"
   title: "Implementation of acoustic demultiplexing with membrane-type metasurface in low frequency range"
@@ -775,6 +1419,13 @@
   doi: "10.1063/1.4981898"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Zhang H."
+    - name: "Yu Z."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
+      corresponding: true
   date: 2017-04-05
   date_display: "Apr 05"
   title: "Butterfly change in electric Field-Dependent young's modulus: bulge test and phase field model"
@@ -785,6 +1436,17 @@
   doi: "10.1115/1.4036298"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Qu Z."
+    - name: "Yu M."
+    - name: "Liu Y."
+    - name: "Xu B."
+    - name: "He R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhao H."
+    - name: "Fang D."
   date: 2017-04-03
   date_display: "Apr 03"
   title: "An elevated-temperature depth-sensing instrumented indentation apparatus for investigating thermo-mechanical behaviour of thermal barrier coatings"
@@ -795,6 +1457,14 @@
   doi: "10.1063/1.4979361"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Qu Z."
+    - name: "Zhang Q."
+    - name: "He R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2017-04-01
   date_display: "Apr 01"
   title: "Characterization of oxidation film on SiC ceramic substrate based on indentation method"
@@ -805,6 +1475,19 @@
   doi: "10.1016/j.ceramint.2016.12.086"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Liu Q."
+    - name: "Zhou W."
+    - name: "Ding J."
+    - name: "Xiao M."
+    - name: "Yu Z. J."
+    - name: "Xu H."
+    - name: "Mao W. G."
+      corresponding: true
+    - name: "Pei Y. M."
+    - name: "Li F. X."
+    - name: "Feng X."
+    - name: "Fang D. N."
   date: 2017-02-01
   date_display: "Feb 01"
   title: "Study of mechanical-magnetic and electromagnetic properties of PZT/Ni film systems by a novel bulge technique"
@@ -813,6 +1496,12 @@
   pages: "90-97"
   doi: "10.1016/j.jmmm.2016.09.079"
 - number: 2
+  authors:
+    - name: "Zhou L."
+    - name: "Liu Z."
+    - name: "Tang L."
+    - name: "Pei Y."
+      corresponding: true
   date: 2017-01-15
   date_display: "Jan 15"
   title: "Design and characterization for a high-temperature dual-band radome wall structure for airborne applications"
@@ -822,6 +1511,14 @@
   doi: "10.1016/j.matdes.2016.11.067"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Fang D."
+      corresponding: true
+    - name: "Zhang H."
+    - name: "Xu H."
+    - name: "Yu Z."
+    - name: "Pei Y."
+    - name: "Li F."
   date: 2017-01-01
   date_display: "2017"
   title: "Deformation and fracture of electromagnetic thin films and laminates under multi-field loading"
@@ -830,6 +1527,15 @@
   pages: "2-9"
   doi: "10.1016/j.piutam.2017.03.002"
 - number: 11
+  authors:
+    - name: "Qu Z."
+    - name: "Cheng X."
+    - name: "He R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Fang D."
   date: 2016-10-15
   date_display: "Oct 15"
   title: "Rapid heating thermal shock behavior study of CVD ZnS infrared window material: numerical and experimental study"
@@ -839,6 +1545,12 @@
   doi: "10.1016/j.jallcom.2016.05.019"
   corresponding: true
 - number: 10
+  authors:
+    - name: "Tang J."
+    - name: "Chen X."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2016-09-09
   date_display: "Sep 09"
   title: "Pseudoelasticity and nonideal mullins effect of nanocomposite hydrogels"
@@ -848,6 +1560,15 @@
   pages: "111010"
   doi: "10.1115/1.4034538"
 - number: 9
+  authors:
+    - name: "Qu Z."
+    - name: "Cheng X."
+    - name: "Wu J."
+    - name: "He R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2016-08-15
   date_display: "Aug 15"
   title: "An investigation on erosion behavior of nanostructured 7YSZ coatings at elevated temperature"
@@ -857,6 +1578,12 @@
   doi: "10.1016/j.surfcoat.2016.05.003"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Zhou L."
+    - name: "Ju Y."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2016-07-07
   date_display: "Jul 07"
   title: "Dual-band and thermo-mechanical design method for radome walls with graded porous structure"
@@ -867,6 +1594,12 @@
   doi: "10.1080/09205071.2016.1202149"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Xu H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
+      corresponding: true
   date: 2016-07-01
   date_display: "Jul 01"
   title: "The frequency dependence of harmonic hysteresis effect in magnetoelectric laminated composites"
@@ -876,6 +1609,12 @@
   doi: "10.1016/j.compstruct.2016.03.030"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Wang P."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhou L."
+      corresponding: true
   date: 2016-06-04
   date_display: "Jun 04"
   title: "Near-field microwave identification and quantitative evaluation of liquid ingress in honeycomb sandwich structures"
@@ -885,6 +1624,11 @@
   doi: "10.1016/j.ndteint.2016.06.002"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Zhang H."
+    - name: "Zhang X."
+    - name: "Pei Y."
+      corresponding: true
   date: 2016-06-01
   date_display: "Jun 01"
   title: "A finite element based real-space phase field model for domain evolution of ferromagnetic materials"
@@ -894,6 +1638,16 @@
   doi: "10.1016/j.commatsci.2016.03.020"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Cheng X."
+    - name: "Qu Z."
+    - name: "He R."
+    - name: "Ai S."
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2016-04-14
   date_display: "Apr 14"
   title: "An ultra-high temperature testing instrument under oxidation environment up to 1800°C"
@@ -904,6 +1658,13 @@
   doi: "10.1063/1.4944484"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Zhou H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Hong J."
+      corresponding: true
+    - name: "Fang D."
   date: 2016-03-07
   date_display: "Mar 07"
   title: "Analytical method to determine flexoelectric coupling coefficient at nanoscale"
@@ -914,6 +1675,13 @@
   doi: "10.1063/1.4943660"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Qu Z."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "He R."
+      corresponding: true
+    - name: "Fang D."
   date: 2016-01-27
   date_display: "Jan 27"
   title: "Investigation of Pile-Up behavior for thermal barrier coatings under Elevated-Temperature indentation"
@@ -924,6 +1692,13 @@
   doi: "10.1115/1.4032467"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Cheng X."
+    - name: "Wei K."
+    - name: "He R."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2016-01-25
   date_display: "Jan 25"
   title: "The equivalent thermal conductivity of lattice core sandwich structure: A predictive model"
@@ -932,6 +1707,14 @@
   pages: "236-243"
   doi: "10.1016/j.applthermaleng.2015.10.002"
 - number: 18
+  authors:
+    - name: "Zhou W."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Ai S."
+    - name: "He R."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2015-12-15
   date_display: "Dec 15"
   title: "Load distribution in threads of porous metal-ceramic functionally graded composite joints subjected to thermomechanical loading"
@@ -940,6 +1723,15 @@
   pages: "680-688"
   doi: "10.1016/j.compstruct.2015.08.113"
 - number: 17
+  authors:
+    - name: "Zhou W."
+    - name: "Ai S."
+      corresponding: true
+    - name: "Chen M."
+    - name: "Zhang R."
+    - name: "He R."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2015-12-01
   date_display: "Dec 01"
   title: "Preparation and thermodynamic analysis of the porous ZrO2/(ZrO2 + Ni) functionally graded bolted joint"
@@ -948,6 +1740,13 @@
   pages: "13-22"
   doi: "10.1016/j.compositesb.2015.07.018"
 - number: 16
+  authors:
+    - name: "Tao Y."
+    - name: "Chen M."
+    - name: "Chen H."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2015-11-15
   date_display: "Nov 15"
   title: "Strain rate effect on the out-of-plane dynamic compressive behavior of metallic honeycombs: experiment and theory"
@@ -956,6 +1755,12 @@
   pages: "644-651"
   doi: "10.1016/j.compstruct.2015.06.015"
 - number: 15
+  authors:
+    - name: "Wei K."
+    - name: "Chen H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2015-10-24
   date_display: "Oct 24"
   title: "Planar lattices with tailorable coefficient of thermal expansion and high stiffness based on dual-material triangle unit"
@@ -965,6 +1770,17 @@
   doi: "10.1016/j.jmps.2015.10.004"
   corresponding: true
 - number: 14
+  authors:
+    - name: "Zeng Z."
+    - name: "Chen M."
+    - name: "Jin H."
+    - name: "Li W."
+    - name: "Xue X."
+    - name: "Zhou L."
+    - name: "Pei Y."
+    - name: "Zhang H."
+    - name: "Zhang Z."
+      corresponding: true
   date: 2015-10-15
   date_display: "Oct 15"
   title: "Thin and flexible multi-walled carbon nanotube/waterborne polyurethane composites with high-performance electromagnetic interference shielding"
@@ -973,6 +1789,12 @@
   pages: "768-777"
   doi: "10.1016/j.carbon.2015.10.004"
 - number: 13
+  authors:
+    - name: "Ai S."
+      corresponding: true
+    - name: "Fu H."
+    - name: "He R."
+    - name: "Pei Y."
   date: 2015-10-05
   date_display: "Oct 05"
   title: "Multi-scale modeling of thermal expansion coefficients of C/C composites at high temperature"
@@ -981,6 +1803,11 @@
   pages: "181-188"
   doi: "10.1016/j.matdes.2015.05.061"
 - number: 12
+  authors:
+    - name: "Zhou L."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2015-06-03
   date_display: "Jun 03"
   title: "Dual-Band A-Sandwich radome design for airborne applications"
@@ -990,6 +1817,14 @@
   doi: "10.1109/LAWP.2015.2438552"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Chen H."
+    - name: "Wang H."
+    - name: "Pei Y."
+    - name: "Wei Y."
+    - name: "Liu B."
+      corresponding: true
+    - name: "Fang D."
   date: 2015-05-12
   date_display: "May 12"
   title: "Crack instability of ferroelectric solids under alternative electric loading"
@@ -998,6 +1833,14 @@
   pages: "75-90"
   doi: "10.1016/j.jmps.2015.04.014"
 - number: 10
+  authors:
+    - name: "Wei K."
+    - name: "He R."
+    - name: "Cheng X."
+    - name: "Pei Y."
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Fang D."
   date: 2015-04-25
   date_display: "Apr 25"
   title: "Fabrication and heat transfer characteristics of C/SiC pyramidal core lattice sandwich panel"
@@ -1006,6 +1849,11 @@
   pages: "10-17"
   doi: "10.1016/j.applthermaleng.2015.02.012"
 - number: 9
+  authors:
+    - name: "Ai S."
+      corresponding: true
+    - name: "He R."
+    - name: "Pei Y."
   date: 2015-03-26
   date_display: "Mar 26"
   title: "A numerical study on the thermal conductivity of 3D woven C/C composites at high temperature"
@@ -1015,6 +1863,12 @@
   pages: "823-835"
   doi: "10.1007/s10443-015-9438-3"
 - number: 8
+  authors:
+    - name: "Ai S."
+    - name: "Fang D."
+      corresponding: true
+    - name: "He R."
+    - name: "Pei Y."
   date: 2015-03-15
   date_display: "Mar 15"
   title: "Effect of manufacturing defects on mechanical properties and failure features of 3D orthogonal woven C/C composites"
@@ -1023,6 +1877,13 @@
   pages: "113-121"
   doi: "10.1016/j.compositesb.2014.11.003"
 - number: 7
+  authors:
+    - name: "Zhou W."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Ai S."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2015-03-11
   date_display: "Mar 11"
   title: "Analytical modeling of thermal residual stresses and optimal design of ZrO2/(ZrO2+Ni) sandwich ceramics"
@@ -1032,6 +1893,14 @@
   pages: "8142-8148"
   doi: "10.1016/j.ceramint.2015.03.025"
 - number: 6
+  authors:
+    - name: "Zhou H."
+    - name: "Zhang H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Chen H."
+    - name: "Zhao H."
+    - name: "Fang D."
   date: 2015-02-23
   date_display: "Feb 23"
   title: "Scaling relationship among indentation properties of electromagnetic materials at micro- and nanoscale"
@@ -1042,6 +1911,12 @@
   doi: "10.1063/1.4913716"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Qu Z."
+    - name: "Ren C."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2015-02-10
   date_display: "Feb 10"
   title: "Homogenization theory for designing graded viscoelastic sonic crystals"
@@ -1052,6 +1927,14 @@
   doi: "10.1088/1674-1056/24/2/024303"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Wei K."
+    - name: "He R."
+      corresponding: true
+    - name: "Cheng X."
+    - name: "Zhang R."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2015-02-05
   date_display: "Feb 05"
   title: "A lightweight, high compression strength ultra high temperature ceramic corrugated panel with potential for thermal protection system applications"
@@ -1060,6 +1943,12 @@
   pages: "552-556"
   doi: "10.1016/j.matdes.2014.06.024"
 - number: 3
+  authors:
+    - name: "Tao Y."
+    - name: "Chen M."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2015-02-01
   date_display: "Feb 01"
   title: "Strain rate effect on mechanical behavior of metallic honeycombs under Out-of-Plane dynamic compression"
@@ -1069,6 +1958,13 @@
   pages: "21007"
   doi: "10.1115/1.4029471"
 - number: 2
+  authors:
+    - name: "Zhou W."
+    - name: "Zhou H."
+    - name: "Zhang R."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2015-01-12
   date_display: "Jan 12"
   title: "Measuring residual stress and its influence on properties of porous ZrO2/(ZrO2+Ni) ceramics"
@@ -1078,6 +1974,15 @@
   doi: "10.1016/j.msea.2014.11.018"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Zhao Z."
+    - name: "Mu X."
+    - name: "Sowan N."
+    - name: "Pei Y."
+    - name: "Bowman C. N."
+      corresponding: true
+    - name: "Qi H. J."
+    - name: "Fang D."
   date: 2015-01-01
   date_display: "Jan 01"
   title: "Effects of oxygen on light activation in covalent adaptable network polymers"
@@ -1087,6 +1992,13 @@
   pages: "6134-6144"
   doi: "10.1039/c5sm00555h"
 - number: 12
+  authors:
+    - name: "Tang J."
+    - name: "Xu G."
+    - name: "Sun Y."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2014-12-28
   date_display: "Dec 28"
   title: "Dissipative properties and chain evolution of highly strained nanocomposite hydrogel"
@@ -1097,6 +2009,13 @@
   doi: "10.1063/1.4904977"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Qu Z."
+    - name: "He R."
+      corresponding: true
+    - name: "Wei K."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2014-12-20
   date_display: "Dec 20"
   title: "Pre-oxidation temperature optimization of ultra-high temperature ceramic components: flexural strength testing and residual stress analysis"
@@ -1106,6 +2025,14 @@
   pages: "5085-5092"
   doi: "10.1016/j.ceramint.2014.12.079"
 - number: 10
+  authors:
+    - name: "Chen X."
+    - name: "Xu X."
+    - name: "Ai S."
+    - name: "Chen H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhou X."
   date: 2014-08-18
   date_display: "Aug 18"
   title: "Active acoustic metamaterials with tunable effective mass density by gradient magnetic fields"
@@ -1116,6 +2043,14 @@
   doi: "10.1063/1.4893921"
   corresponding: true
 - number: 9
+  authors:
+    - name: "We K."
+    - name: "He R."
+      corresponding: true
+    - name: "Cheng X."
+    - name: "Zhang R."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2014-07-31
   date_display: "Jul 31"
   title: "Fabrication and mechanical properties of lightweight ZrO2 ceramic corrugated core sandwich panels"
@@ -1124,6 +2059,15 @@
   pages: "91-95"
   doi: "10.1016/j.matdes.2014.07.038"
 - number: 8
+  authors:
+    - name: "He R."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Zhu X."
+    - name: "Wei K."
+    - name: "Qu Z."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2014-07-16
   date_display: "Jul 16"
   title: "Improved green strength and green machinability of ZrB2-SiC through gelcasting based on a double gel network"
@@ -1133,6 +2077,12 @@
   pages: "2401-2404"
   doi: "10.1111/jace.13076"
 - number: 7
+  authors:
+    - name: "Xu H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
+    - name: "Wang P."
   date: 2014-07-07
   date_display: "Jul 07"
   title: "Nonlinear harmonic distortion effect in magnetoelectric laminate composites"
@@ -1143,6 +2093,14 @@
   doi: "10.1063/1.4887373"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Yu Z."
+    - name: "Mao W."
+    - name: "Li F."
+    - name: "Feng X."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2014-06-30
   date_display: "Jun 30"
   title: "Magnetic and electric bulge-test instrument for the determination of coupling mechanical properties of functional free-standing films and flexible electronics"
@@ -1153,6 +2111,12 @@
   doi: "10.1063/1.4885037"
   corresponding: true
 - number: 5
+  authors:
+    - name: "He R."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2014-06-03
   date_display: "Jun 03"
   title: "Two-step hot pressing of bimodal micron/nano-ZrB2 ceramic with improved mechanical properties and thermal shock resistance"
@@ -1161,6 +2125,11 @@
   pages: "65-70"
   doi: "10.1016/j.ijrmhm.2014.05.016"
 - number: 4
+  authors:
+    - name: "Zhou H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2014-04-03
   date_display: "Apr 03"
   title: "Magnetic field tunable small-scale mechanical properties of nickel single crystals measured by nanoindentation technique"
@@ -1170,6 +2139,13 @@
   doi: "10.1038/srep04583"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Wei K."
+    - name: "Cheng X."
+    - name: "He R."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2014-03-31
   date_display: "Mar 31"
   title: "Heat transfer mechanism of the C/SiC ceramics pyramidal lattice composites"
@@ -1179,6 +2155,13 @@
   doi: "10.1016/j.compositesb.2014.03.015"
   corresponding: true
 - number: 2
+  authors:
+    - name: "Ma J."
+    - name: "Pei Y."
+    - name: "Sun Y."
+    - name: "Li F."
+      corresponding: true
+    - name: "Fang D."
   date: 2014-02-28
   date_display: "Feb 28"
   title: "Wrinkles of magnetoelectric composite thin films bonded on compliant buffer-layers"
@@ -1188,6 +2171,13 @@
   pages: "83515"
   doi: "10.1063/1.4866575"
 - number: 1
+  authors:
+    - name: "Zhou H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Li F."
+    - name: "Luo H."
+    - name: "Fang D."
   date: 2014-02-10
   date_display: "Feb 10"
   title: "Electric-field-tunable mechanical properties of relaxor ferroelectric single crystal measured by nanoindentation"
@@ -1198,6 +2188,13 @@
   doi: "10.1063/1.4865773"
   corresponding: true
 - number: 13
+  authors:
+    - name: "Ai S."
+    - name: "Zhu X."
+    - name: "Mao Y."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2013-10-21
   date_display: "Oct 21"
   title: "Finite element modeling of 3D orthogonal woven C/C composite based on Micro-Computed tomography experiment"
@@ -1207,6 +2204,13 @@
   pages: "603-614"
   doi: "10.1007/s10443-013-9353-4"
 - number: 12
+  authors:
+    - name: "Tang J."
+    - name: "Yu Z."
+    - name: "Sun Y."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2013-10-14
   date_display: "Oct 14"
   title: "A bulge-induced dehydration failure mode of nanocomposite hydrogel"
@@ -1217,6 +2221,13 @@
   doi: "10.1063/1.4824984"
   corresponding: true
 - number: 11
+  authors:
+    - name: "Ai S."
+      corresponding: true
+    - name: "Mao Y."
+    - name: "Pei Y."
+    - name: "Fang D."
+    - name: "Tang L."
   date: 2013-08-13
   date_display: "Aug 13"
   title: "Study on aluminum honeycomb sandwich panels with random skin/core weld defects"
@@ -1226,6 +2237,11 @@
   pages: "704-717"
   doi: "10.1177/1099636213498889"
 - number: 10
+  authors:
+    - name: "Hao F."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2013-07-28
   date_display: "Jul 28"
   title: "The effects of interface misfit strain and surface tension on magnetoelectric effects in layered magnetostrictive-piezoelectric composites"
@@ -1236,6 +2252,12 @@
   doi: "10.1063/1.4816693"
   corresponding: true
 - number: 9
+  authors:
+    - name: "Zhou L."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Fang D."
   date: 2013-07-19
   date_display: "Jul 19"
   title: "Method for design of Dual-Band flat radome wall structure"
@@ -1246,6 +2268,14 @@
   doi: "10.2514/1.J052428"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Zhou H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Huang H."
+    - name: "Zhao H."
+    - name: "Li F."
+    - name: "Fang D."
   date: 2013-06-24
   date_display: "Jun 24"
   title: "Multi-field nanoindentation apparatus for measuring local mechanical properties of materials in external magnetic and electric fields"
@@ -1256,6 +2286,12 @@
   doi: "10.1063/1.4811779"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Chen H."
+    - name: "Pei Y."
+    - name: "Liu B."
+    - name: "Fang D."
+      corresponding: true
   date: 2013-06-17
   date_display: "Jun 17"
   title: "Rate dependant heat generation in single cycle of domain switching of lead zirconate titanate via in-situ spontaneous temperature measurement"
@@ -1265,6 +2301,13 @@
   pages: "242912"
   doi: "10.1063/1.4811702"
 - number: 6
+  authors:
+    - name: "Ai S."
+      corresponding: true
+    - name: "Mao Y."
+    - name: "Pei Y."
+    - name: "Fang D."
+    - name: "Tang L."
   date: 2013-06-05
   date_display: "Jun 05"
   title: "Numerical analysis of thermodynamic behaviour of Through-Thickness stitched sandwich laminate"
@@ -1274,6 +2317,12 @@
   pages: "1161-1171"
   doi: "10.1007/s10443-013-9327-6"
 - number: 5
+  authors:
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Gao X."
+    - name: "Fang D."
+    - name: "Chen M."
   date: 2013-04-12
   date_display: "Apr 12"
   title: "A multi-field domain rotation model for giant magnetostrictive materials"
@@ -1285,6 +2334,12 @@
   corresponding: true
   first_author: true
 - number: 4
+  authors:
+    - name: "Wang H."
+    - name: "Gong J."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Xu Z."
   date: 2013-04-10
   date_display: "Apr 10"
   title: "Thermal transfer in Graphene-Interfaced materials: contact resistance and interface engineering"
@@ -1295,6 +2350,13 @@
   doi: "10.1021/am3032772"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Ai S."
+    - name: "Mao Y."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
+    - name: "Tang L."
   date: 2013-03-29
   date_display: "Mar 29"
   title: "Effect of stitching angle on mechanical properties of stitched sandwich panels"
@@ -1303,6 +2365,12 @@
   pages: "817-824"
   doi: "10.1016/j.matdes.2013.03.058"
 - number: 2
+  authors:
+    - name: "Xu H."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
+    - name: "Ai S."
   date: 2013-03-01
   date_display: "Mar 01"
   title: "An energy-based dynamic loss hysteresis model for giant magnetostrictive materials"
@@ -1313,6 +2381,12 @@
   doi: "10.1016/j.ijsolstr.2012.10.029"
   corresponding: true
 - number: 1
+  authors:
+    - name: "Chen H."
+    - name: "Pei Y."
+    - name: "Liu J."
+    - name: "Fang D."
+      corresponding: true
   date: 2013-02-26
   date_display: "Feb 26"
   title: "Moving polarization saturation crack in ferroelectric solids"
@@ -1321,6 +2395,13 @@
   pages: "43-49"
   doi: "10.1016/j.euromechsol.2013.02.002"
 - number: 17
+  authors:
+    - name: "Ai S."
+    - name: "Mao Y."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
+    - name: "Tang L."
   date: 2012-12-20
   date_display: "Dec 20"
   title: "Effect of stitch on thermodynamic properties of sandwiched thermal protection structures"
@@ -1329,6 +2410,12 @@
   pages: "41-47"
   doi: "10.1016/j.compstruct.2012.11.032"
 - number: 16
+  authors:
+    - name: "Wang C."
+    - name: "Zhang R."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2012-12-01
   date_display: "Dec 01"
   title: "Phase field simulation for high-temperature oxidation behavior of thermal barrier coatings under shot peening"
@@ -1338,6 +2425,14 @@
   pages: "1250038"
   doi: "10.1142/S175882511250038X"
 - number: 15
+  authors:
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Fang D."
+    - name: "Chen X."
+    - name: "Pei Y."
+    - name: "Wang Z."
+    - name: "Wang Y."
   date: 2012-11-27
   date_display: "Nov 27"
   title: "Microstructure and properties of highly porous Y2SiO5 ceramics produced by a new water-based freeze casting"
@@ -1346,6 +2441,13 @@
   pages: "746-750"
   doi: "10.1016/j.matdes.2012.11.020"
 - number: 14
+  authors:
+    - name: "Chen L."
+    - name: "Chen M."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhang Y."
+    - name: "Fang D."
   date: 2012-11-26
   date_display: "Nov 26"
   title: "Optimal design of sandwich beams with lightweight cores in three-point bending"
@@ -1356,6 +2458,12 @@
   doi: "10.1142/S1758825112500330"
   corresponding: true
 - number: 13
+  authors:
+    - name: "Chen H."
+    - name: "Ma J."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2012-10-11
   date_display: "Oct 11"
   title: "Anti-plane yoffe-type crack in ferroelectric materials"
@@ -1365,6 +2473,14 @@
   pages: "35-43"
   doi: "10.1007/s10704-012-9767-2"
 - number: 11
+  authors:
+    - name: "Ai S."
+    - name: "Tang L."
+      corresponding: true
+    - name: "Mao Y."
+    - name: "Pei Y."
+    - name: "Liu Y."
+    - name: "Fang D."
   date: 2012-10-04
   date_display: "Oct 04"
   title: "Effect of aggregate distribution and shape on failure behavior of polyurethane polymer concrete under tension"
@@ -1373,6 +2489,11 @@
   pages: "133-139"
   doi: "10.1016/j.commatsci.2012.08.029"
 - number: 12
+  authors:
+    - name: "Ruan J. L."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2012-10-04
   date_display: "Oct 04"
   title: "On the elastic and creep stress analysis modeling in the oxide scale/metal substrate system due to oxidation growth strain"
@@ -1381,6 +2502,12 @@
   pages: "315-323"
   doi: "10.1016/j.corsci.2012.09.035"
 - number: 10
+  authors:
+    - name: "Zhou L. C."
+    - name: "Pei Y. M."
+      corresponding: true
+    - name: "Zhang R. B."
+    - name: "Fang D. N."
   date: 2012-09-28
   date_display: "Sep 28"
   title: "A multilayer radome wall structure with passbands having odd times of selected central frequencies"
@@ -1391,6 +2518,11 @@
   doi: "10.1080/09205071.2012.728521"
   corresponding: true
 - number: 9
+  authors:
+    - name: "Ruan J. L."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2012-09-27
   date_display: "Sep 27"
   title: "Residual stress analysis in the oxide scale/metal substrate system due to oxidation growth strain and creep deformation"
@@ -1401,6 +2533,14 @@
   doi: "10.1007/s00707-012-0739-4"
   corresponding: true
 - number: 8
+  authors:
+    - name: "Zhou H."
+    - name: "Hong J."
+    - name: "Zhang Y."
+    - name: "Li F."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2012-09-01
   date_display: "Sep 01"
   title: "Flexoelectricity induced increase of critical thickness in epitaxial ferroelectric thin films"
@@ -1411,6 +2551,12 @@
   doi: "10.1016/j.physb.2012.04.041"
   corresponding: true
 - number: 6
+  authors:
+    - name: "Zhou L."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Zhang R."
+    - name: "Fang D."
   date: 2012-08-10
   date_display: "Aug 10"
   title: "Design for broadband High-Temperature radome wall with graded porous structure"
@@ -1421,6 +2567,14 @@
   doi: "10.2514/1.J051477"
   corresponding: true
 - number: 7
+  authors:
+    - name: "Zhou H."
+      corresponding: true
+    - name: "Hong J."
+    - name: "Zhang Y."
+    - name: "Li F."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2012-08-10
   date_display: "Aug 10"
   title: "External uniform electric field removing the flexoelectric effect in epitaxial ferroelectric thin films"
@@ -1430,6 +2584,11 @@
   pages: "47003"
   doi: "10.1209/0295-5075/99/47003"
 - number: 5
+  authors:
+    - name: "Chen M."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2012-05-31
   date_display: "May 31"
   title: "Design, fabrication, and characterization of lightweight and broadband microwave absorbing structure reinforced by two dimensional composite lattice"
@@ -1439,6 +2598,11 @@
   pages: "75-80"
   doi: "10.1007/s00339-012-7002-7"
 - number: 4
+  authors:
+    - name: "Pei Y."
+    - name: "Xu K."
+    - name: "Zeng A."
+    - name: "Ai S."
   date: 2012-05-15
   date_display: "May 15"
   title: "Effect of residual stress on the magnetoelectric properties of Terfenol-D/PZT/Terfenol-D laminates"
@@ -1448,6 +2612,12 @@
   pages: "57801"
   doi: "10.1088/0256-307X/29/5/057801"
 - number: 3
+  authors:
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Fang D."
+    - name: "Chen X."
+    - name: "Pei Y."
   date: 2012-04-01
   date_display: "Apr 01"
   title: "Effect of pre-oxidation on the microstructure, mechanical and dielectric properties of highly porous silicon nitride ceramics"
@@ -1457,6 +2627,12 @@
   pages: "6021-6026"
   doi: "10.1016/j.ceramint.2012.03.056"
 - number: 2
+  authors:
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Fang D."
+    - name: "Pei Y."
+    - name: "Zhou L."
   date: 2012-01-13
   date_display: "Jan 13"
   title: "Microstructure, mechanical and dielectric properties of highly porous silicon nitride ceramics produced by a new water-based freeze casting"
@@ -1466,6 +2642,12 @@
   pages: "4373-4377"
   doi: "10.1016/j.ceramint.2012.01.012"
 - number: 1
+  authors:
+    - name: "Zhou L. C."
+    - name: "Pei Y. M."
+      corresponding: true
+    - name: "Zhang R. B."
+    - name: "Fang D. N."
   date: 2012-01-01
   date_display: "Jan 01"
   title: "Optimal design for high-temperature broadband radome wall with symmetrical graded porous structure"
@@ -1475,6 +2657,13 @@
   doi: "10.2528/PIER12030203"
   corresponding: true
 - number: 5
+  authors:
+    - name: "Pei Y. M."
+      corresponding: true
+    - name: "Zeng A. M."
+    - name: "Zhou L. C."
+    - name: "Zhang R. B."
+    - name: "Xu K. X."
   date: 2011-12-19
   date_display: "Dec 19"
   title: "Electromagnetic optimal design for dual-band radome wall with alternating layers of staggered composite and kagome lattice structure"
@@ -1484,6 +2673,12 @@
   doi: "10.2528/PIER11101906"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Cui X."
+    - name: "Xue Z."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2011-12-15
   date_display: "Dec 15"
   title: "Preliminary study on ductile fracture of imperfect lattice materials"
@@ -1493,6 +2688,12 @@
   pages: "3453-3461"
   doi: "10.1016/j.ijsolstr.2011.08.013"
 - number: 3
+  authors:
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Chen G."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2011-09-18
   date_display: "Sep 18"
   title: "Isothermal oxidation of Zr2[Al(Si)]4C5-SiC composites at 1000-1300 °C in air"
@@ -1501,6 +2702,12 @@
   pages: "205-211"
   doi: "10.1016/j.corsci.2011.09.016"
 - number: 2
+  authors:
+    - name: "Zhang R."
+      corresponding: true
+    - name: "Chen G."
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2011-08-03
   date_display: "Aug 03"
   title: "Thermal stability of bulk Zr2Al4C5 ceramic at elevated temperatures"
@@ -1510,6 +2717,11 @@
   pages: "102-106"
   doi: "10.1016/j.ijrmhm.2011.07.010"
 - number: 1
+  authors:
+    - name: "Gao X."
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2011-05-01
   date_display: "May 01"
   title: "A State-Dependent hysteresis model for giant magnetostrictive materials"
@@ -1520,6 +2732,11 @@
   doi: "10.1166/jctn.2011.1761"
   corresponding: true
 - number: 3
+  authors:
+    - name: "Chen M."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2010-08-01
   date_display: "Aug 01"
   title: "Computational method for microwave absorbing structures with 2-D kagome lattice grids"
@@ -1529,6 +2746,10 @@
   pages: "1691-1694"
   doi: "10.3233/JAE-2010-1302"
 - number: 4
+  authors:
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2010-08-01
   date_display: "Aug 01"
   title: "A magnetoelastic model of nonlinear behaviors of Tb-Dy-Fe alloys based on domain rotation"
@@ -1540,6 +2761,11 @@
   corresponding: true
   first_author: true
 - number: 2
+  authors:
+    - name: "Chen M."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2010-03-11
   date_display: "Mar 11"
   title: "Multi-objective optimization design of radar absorbing sandwich structure"
@@ -1549,6 +2775,11 @@
   pages: "339-348"
   doi: "10.1007/s10483-010-0307-z"
 - number: 1
+  authors:
+    - name: "Chen M."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2010-03-10
   date_display: "Mar 10"
   title: "An improved method of designing isotropic multilayered spherical cloak for electromagnetic invisibility"
@@ -1558,6 +2789,11 @@
   pages: "34102"
   doi: "10.1088/0256-307X/27/3/034102"
 - number: 7
+  authors:
+    - name: "Chen M."
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2009-09-01
   date_display: "Sep"
   title: "Computational method for radar absorbing composite lattice grids"
@@ -1567,6 +2803,13 @@
   pages: "591-594"
   doi: "10.1016/j.commatsci.2008.12.011"
 - number: 6
+  authors:
+    - name: "Zhang C."
+    - name: "Ma T."
+      corresponding: true
+    - name: "Yan M."
+    - name: "Pei Y."
+    - name: "Gao X."
   date: 2009-06-01
   date_display: "Jun"
   title: "Magnetomechanical damping capacity of ⟨110⟩ oriented Tb0.36Dy0.64(Fe0.85Co0.15)2 alloy"
@@ -1575,6 +2818,12 @@
   issue: "6"
   pages: "749-753"
 - number: 5
+  authors:
+    - name: "Pei Y."
+    - name: "Feng X."
+    - name: "Gao X."
+    - name: "Fang D."
+      corresponding: true
   date: 2009-05-12
   date_display: "May 12"
   title: "Anisotropic magnetostriction for Tb0.3Dy0.7Fe1.95 alloys under magnetomechanical loading"
@@ -1585,6 +2834,13 @@
   doi: "10.1016/j.jallcom.2008.09.089"
   first_author: true
 - number: 4
+  authors:
+    - name: "Ma T."
+    - name: "Yan M."
+      corresponding: true
+    - name: "Zhang C."
+    - name: "Pei Y."
+    - name: "Jiang C."
   date: 2009-05-01
   date_display: "May 01"
   title: "Stress influences on magnetization and magnetostriction in magnetically annealed Tb0.36Dy0.64(Fe0.85Co0.15)2 polycrystals"
@@ -1594,6 +2850,11 @@
   pages: "93915"
   doi: "10.1063/1.3117184"
 - number: 3
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
+    - name: "Li F."
   date: 2009-04-16
   date_display: "Apr 16"
   title: "Giant forced volume magnetostriction in polycrystalline Tb0.3Dy0.7Fe1.95 alloys under magnetomechanical loading"
@@ -1604,6 +2865,10 @@
   doi: "10.1016/j.jmmm.2009.04.010"
   first_author: true
 - number: 1
+  authors:
+    - name: "Fang D."
+      corresponding: true
+    - name: "Pei Y."
   date: 2009-01-01
   date_display: "2009"
   title: "Deformation and fracture of electromagnetosolid materials and structures"
@@ -1611,6 +2876,10 @@
   volume: "13"
   pages: "9-11"
 - number: 2
+  authors:
+    - name: "Pei Y."
+      corresponding: true
+    - name: "Fang D."
   date: 2009-01-01
   date_display: "2009"
   title: "A magnetoelastic model of nonlinear behaviors of Tb-Dy-Fe alloys based on domain rotation"
@@ -1620,6 +2889,10 @@
   corresponding: true
   first_author: true
 - number: 4
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2008-09-19
   date_display: "Sep 19"
   title: "Experimental study of the multiaxial ferroelastic behavior of Tb0.3Dy0.7Fe1.95 alloys"
@@ -1630,6 +2903,10 @@
   doi: "10.1088/0964-1726/17/6/065001"
   first_author: true
 - number: 3
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2008-03-31
   date_display: "Mar 31"
   title: "Path-dependent deformation behaviors of Tb0.3Dy0.7Fe1.95 alloy subjected to magnetomechanical loading"
@@ -1640,6 +2917,11 @@
   doi: "10.1016/j.matlet.2007.08.071"
   first_author: true
 - number: 2
+  authors:
+    - name: "Gao X."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2008-02-01
   date_display: "Feb 01"
   title: "Magnetomechanical behaviors of giant magneto strictive materials"
@@ -1649,6 +2931,10 @@
   pages: "15-18"
   doi: "10.1007/s10338-008-0803-8"
 - number: 1
+  authors:
+    - name: "Pei Y. M."
+      corresponding: true
+    - name: "Fang D. N."
   date: 2008-01-01
   date_display: "2008"
   title: "A model of phase transition from austenite to martensite in single-crystal NiMnGa alloys"
@@ -1656,6 +2942,10 @@
   pages: "691-695"
   corresponding: true
 - number: 4
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2007-06-01
   date_display: "Jun"
   title: "Young's modulus anisotropy and magnetomechanical damping of [110] oriented Tb0.3Dy0.7Fe1.95 alloy"
@@ -1664,6 +2954,11 @@
   issue: "6"
   pages: "1611-1613"
 - number: 3
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
+    - name: "Feng X."
   date: 2007-04-30
   date_display: "Apr 30"
   title: "Magnetoelasticity of Tb0.3Dy0.7Fe1.95 alloys in a multiaxial stress-magnetic field space"
@@ -1674,6 +2969,10 @@
   doi: "10.1063/1.2736300"
   first_author: true
 - number: 2
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2007-04-27
   date_display: "Apr 27"
   title: "A model for giant magnetostrain and magnetization in the martensitic phase of NiMnGa alloys"
@@ -1684,12 +2983,24 @@
   doi: "10.1088/0964-1726/16/3/027"
   first_author: true
 - number: 1
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2007-01-01
   date_display: "2007"
   title: "The magnetostriction in Tb0.3Dy0.7Fe1.95 alloys under two types of magnetomechanical loading"
   journal: "PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON NONLINEAR MECHANICS"
   pages: "1611-1614"
 - number: 3
+  authors:
+    - name: "Fang D."
+      corresponding: true
+    - name: "Zhao X."
+    - name: "Pei Y."
+    - name: "Liu Z."
+    - name: "Li F."
+    - name: "Feng X."
   date: 2006-12-01
   date_display: "Dec 01"
   title: "Experimental study on electro-magneto-mechanical behaviour of electromagnetic solids"
@@ -1698,6 +3009,10 @@
   pages: "5-12"
   doi: "10.4028/www.scientific.net/KEM.326-328.5"
 - number: 2
+  authors:
+    - name: "Pei Y."
+    - name: "Fang D."
+      corresponding: true
   date: 2006-08-07
   date_display: "Aug 07"
   title: "Magnetomechanical hydraulic-servo apparatus for investigation of magnetomechanical coupling properties of magnetic materials"
@@ -1708,6 +3023,15 @@
   doi: "10.1063/1.2234854"
   first_author: true
 - number: 1
+  authors:
+    - name: "Ma T."
+    - name: "Jiang C."
+    - name: "Xiao F."
+    - name: "Yu L."
+    - name: "Xu H."
+      corresponding: true
+    - name: "Pei Y."
+    - name: "Fang D."
   date: 2006-07-15
   date_display: "Jul 15"
   title: "Magnetomechanical damping capacity of Tb0.36Dy0.64(Fe1-xTx)2 (T=Co, Mn) alloys"

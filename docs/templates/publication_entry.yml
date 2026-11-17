@@ -1,4 +1,9 @@
 - number: 1
+  authors:
+    - name: "Li H."
+    - name: "Wu L."
+    - name: "Pei Y."
+      corresponding: true
   date: 2026-01-15
   date_display: "Jan 15"
   title: "Article title in sentence case while preserving abbreviations"
@@ -9,4 +14,7 @@
   doi: "10.xxxx/xxxxx"
   first_author: true
   corresponding: true
+
+# Add equal_contribution: true to an author only when explicitly verified.
+# Keep all authors in source order; the page displays at most 10, then et al.
 

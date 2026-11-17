@@ -1,0 +1,13 @@
+{%- assign author_count = include.authors | size -%}
+{%- assign displayed_authors = include.authors | slice: 0, 10 -%}
+{%- for author in displayed_authors -%}
+    {%- unless forloop.first -%}
+        {%- if forloop.last and author_count <= 10 -%}
+            {%- if author_count == 2 -%}{{ " and " }}{%- else -%}{{ ", and " }}{%- endif -%}
+        {%- else -%}{{ ", " }}{%- endif -%}
+    {%- endunless -%}
+    {{- author.name | escape -}}
+    {%- if author.equal_contribution -%}<sup title="Equal contribution">*</sup>{%- endif -%}
+    {%- if author.corresponding -%}<sup title="Corresponding author">†</sup>{%- endif -%}
+{%- endfor -%}
+{%- if author_count > 10 -%}{{ ", et al." }}{%- endif -%}
